@@ -1,0 +1,2001 @@
+employee_id,age,gender,department,job_role,education_level,monthly_salary,years_at_company,years_since_promotion,num_projects,avg_weekly_hours,overtime,satisfaction_score,performance_rating,work_life_balance,distance_from_home,marital_status,attrition
+EMP-1001,38,Male,Sales,Associate,Bachelor's,41024.74,14,5,9,59.1,No,4.4,4,1,18,Single,No
+EMP-1002,28,Male,Sales,Team Lead,Master's,70470.49,7,3,9,59.9,No,2.3,4,1,12,Single,No
+EMP-1003,42,Female,Engineering,Executive,Bachelor's,150000.0,2,1,5,55.0,Yes,1.5,4,3,20,Single,Yes
+EMP-1004,44,Male,Engineering,Manager,PhD,107963.17,1,0,8,60.0,Yes,1.0,4,1,41,Married,No
+EMP-1005,22,Male,HR,Manager,Master's,105534.61,14,1,4,50.6,Yes,2.5,3,1,6,Married,Yes
+EMP-1006,26,Other,Sales,Analyst,High School,50443.64,7,3,3,47.4,No,2.1,2,2,48,Divorced,Yes
+EMP-1007,37,Male,HR,Team Lead,High School,57360.02,1,0,7,57.9,Yes,1.0,4,1,21,Married,Yes
+EMP-1008,33,Male,Finance,Director,Master's,103952.29,0,0,5,55.8,No,3.0,1,2,15,Married,No
+EMP-1009,36,Female,Engineering,Team Lead,Bachelor's,62826.45,3,0,3,37.8,No,4.0,4,4,23,Married,No
+EMP-1010,29,Male,Engineering,Director,Master's,149947.03,7,4,7,42.6,No,2.1,3,3,47,Married,No
+EMP-1011,43,Male,Engineering,Manager,Bachelor's,81714.41,4,4,4,41.5,No,3.9,2,1,41,Married,Yes
+EMP-1012,42,Other,Engineering,Manager,High School,77947.14,3,2,6,56.4,Yes,1.9,4,1,41,Single,No
+EMP-1013,37,Male,HR,Analyst,Bachelor's,44507.14,9,0,4,40.8,No,2.6,3,1,12,Divorced,No
+EMP-1014,45,Male,Finance,Team Lead,Master's,63237.5,4,4,9,42.6,No,2.4,5,3,45,Married,Yes
+EMP-1015,40,Male,Operations,Director,PhD,134062.92,7,5,9,48.0,No,1.6,3,3,36,Married,No
+EMP-1016,29,Other,Marketing,Manager,Master's,81162.73,0,0,5,36.9,No,2.3,1,2,3,Divorced,Yes
+EMP-1017,39,Male,Sales,Associate,Bachelor's,34661.37,7,2,8,59.0,Yes,3.6,2,2,22,Married,No
+EMP-1018,28,Female,Engineering,Manager,Master's,116355.25,9,2,2,47.3,No,1.4,3,4,42,Single,No
+EMP-1019,43,Male,Sales,Team Lead,High School,65535.33,13,9,10,39.8,No,4.8,4,2,27,Married,No
+EMP-1020,36,Male,Sales,Senior Engineer,Master's,86632.23,3,1,3,41.8,No,1.4,3,3,30,Single,Yes
+EMP-1021,35,Other,Operations,Associate,PhD,47494.38,8,1,9,55.0,No,2.4,2,2,19,Married,Yes
+EMP-1022,31,Female,Sales,Associate,Bachelor's,30524.83,1,0,9,50.9,Yes,2.8,5,1,2,Single,No
+EMP-1023,46,Other,Engineering,Analyst,PhD,54365.82,8,2,2,46.6,Yes,3.5,2,2,45,Married,Yes
+EMP-1024,35,Male,Engineering,Senior Engineer,Bachelor's,77018.69,1,0,1,43.3,No,1.6,3,2,38,Divorced,No
+EMP-1025,33,Female,Engineering,Executive,Bachelor's,145976.8,11,3,8,57.5,Yes,1.0,5,1,14,Single,No
+EMP-1026,33,Female,Operations,Analyst,Bachelor's,52038.05,8,4,9,54.3,Yes,2.1,4,1,13,Married,No
+EMP-1027,40,Male,Engineering,Manager,PhD,112241.86,1,0,8,53.0,No,2.2,3,1,26,Married,Yes
+EMP-1028,39,Male,Engineering,Senior Engineer,Bachelor's,65070.47,2,1,1,46.2,Yes,2.8,5,4,40,Married,No
+EMP-1029,39,Female,Engineering,Analyst,Master's,46629.37,0,0,7,59.5,No,4.3,4,1,5,Single,No
+EMP-1030,39,Male,Finance,Executive,Bachelor's,141597.82,6,3,4,52.8,Yes,1.0,1,3,32,Single,No
+EMP-1031,53,Female,HR,Analyst,Master's,54254.93,12,10,10,45.6,Yes,3.0,1,4,43,Married,No
+EMP-1032,33,Other,Marketing,Analyst,Master's,49090.28,5,4,9,59.0,Yes,1.0,5,1,25,Married,No
+EMP-1033,32,Male,Sales,Associate,Bachelor's,32651.83,2,0,8,57.4,Yes,3.1,3,1,3,Married,Yes
+EMP-1034,29,Male,Engineering,Executive,Master's,150000.0,3,0,5,53.5,Yes,3.6,4,1,2,Single,No
+EMP-1035,41,Male,Operations,Executive,Master's,150000.0,15,6,4,54.2,No,3.7,1,1,9,Married,No
+EMP-1036,45,Male,Engineering,Senior Engineer,Bachelor's,88496.54,10,3,9,45.6,No,4.9,2,2,45,Married,No
+EMP-1037,35,Male,Engineering,Manager,Bachelor's,92214.32,8,8,2,47.7,No,4.3,5,2,23,Single,No
+EMP-1038,29,Female,HR,Associate,Bachelor's,40266.22,8,3,2,39.8,Yes,1.0,5,3,8,Married,No
+EMP-1039,29,Male,Engineering,Manager,PhD,134681.74,30,3,1,49.9,No,1.0,2,3,46,Married,No
+EMP-1040,41,Female,Engineering,Senior Engineer,Master's,72618.6,2,1,6,44.2,No,1.1,3,1,42,Married,No
+EMP-1041,42,Male,Finance,Senior Engineer,Master's,85230.14,8,7,1,43.7,No,2.8,4,2,8,Divorced,No
+EMP-1042,40,Male,Sales,Senior Engineer,Master's,82099.24,1,0,6,58.7,Yes,2.5,4,3,35,Married,No
+EMP-1043,31,Male,Engineering,Senior Engineer,Master's,85870.39,2,2,2,39.1,No,2.9,3,5,17,Married,No
+EMP-1044,38,Female,Sales,Analyst,Bachelor's,51351.32,3,0,9,55.7,Yes,2.3,3,1,4,Single,No
+EMP-1045,37,Male,Marketing,Analyst,Bachelor's,45696.83,1,1,5,42.0,No,2.8,5,3,4,Single,No
+EMP-1046,38,Male,Engineering,Analyst,Master's,53945.12,4,2,1,35.7,No,1.2,3,5,28,Single,No
+EMP-1047,43,Female,Engineering,Senior Engineer,Bachelor's,86469.07,6,3,7,36.0,No,1.9,3,1,43,Married,Yes
+EMP-1048,38,Female,Marketing,Associate,Bachelor's,34191.78,7,1,4,45.7,No,5.0,3,1,49,Married,No
+EMP-1049,41,Male,Marketing,Senior Engineer,Master's,87041.7,9,7,3,46.4,Yes,1.2,2,1,36,Single,No
+EMP-1050,37,Other,Operations,Associate,Master's,46619.04,4,3,7,43.0,No,2.3,4,2,47,Single,Yes
+EMP-1051,38,Male,Sales,Executive,Master's,150000.0,4,2,10,51.7,Yes,1.0,3,3,12,Married,Yes
+EMP-1052,41,Male,Engineering,Senior Engineer,High School,68670.48,1,0,10,47.1,No,4.9,4,2,8,Married,No
+EMP-1053,24,Male,HR,Manager,PhD,126409.65,14,6,5,36.9,No,1.9,3,2,6,Married,Yes
+EMP-1054,33,Male,Marketing,Associate,Bachelor's,30358.03,2,1,9,43.7,No,3.6,2,2,9,Married,No
+EMP-1055,32,Male,Engineering,Director,Bachelor's,104307.93,0,0,3,37.5,No,1.2,5,2,38,Divorced,No
+EMP-1056,31,Female,HR,Associate,PhD,37454.5,3,3,9,36.6,No,1.3,4,5,8,Single,No
+EMP-1057,34,Male,Engineering,Senior Engineer,Master's,85448.84,4,0,10,40.2,No,3.9,3,1,22,Married,No
+EMP-1058,48,Female,Finance,Team Lead,PhD,85002.15,15,2,6,52.5,Yes,2.9,1,1,38,Married,No
+EMP-1059,29,Other,Finance,Team Lead,Master's,67501.21,1,1,6,52.4,No,3.7,4,3,47,Married,No
+EMP-1060,44,Female,Sales,Team Lead,Master's,69184.67,5,4,6,56.5,Yes,1.1,4,1,9,Divorced,Yes
+EMP-1061,23,Female,Operations,Associate,Bachelor's,29998.07,3,1,1,53.9,No,4.9,4,1,10,Single,No
+EMP-1062,33,Female,Operations,Analyst,Bachelor's,47821.84,1,1,9,48.4,Yes,2.3,4,4,4,Married,No
+EMP-1063,37,Other,Engineering,Associate,PhD,35009.53,3,0,8,42.8,No,4.9,3,2,6,Married,No
+EMP-1064,41,Male,Sales,Manager,Master's,84760.94,0,0,9,35.1,No,1.7,5,2,20,Divorced,No
+EMP-1065,42,Male,Marketing,Manager,Bachelor's,81568.76,7,1,2,51.2,Yes,1.9,3,1,16,Married,No
+EMP-1066,42,Female,Engineering,Senior Engineer,Bachelor's,67464.9,1,1,9,42.2,No,2.3,3,1,49,Married,No
+EMP-1067,33,Female,Sales,Associate,Bachelor's,35041.89,3,2,4,41.3,No,4.0,4,1,23,Married,No
+EMP-1068,32,Male,Engineering,Director,Bachelor's,126307.27,3,0,9,59.4,Yes,2.5,1,1,16,Married,No
+EMP-1069,43,Female,Operations,Manager,Master's,97663.44,16,8,10,39.4,No,2.9,3,3,24,Married,No
+EMP-1070,34,Male,Sales,Associate,High School,29952.52,3,1,9,35.8,No,1.1,3,3,37,Married,No
+EMP-1071,26,Other,Finance,Director,Bachelor's,97446.66,2,1,10,58.7,Yes,1.0,4,1,17,Single,No
+EMP-1072,27,Male,Sales,Manager,PhD,101127.79,6,5,2,42.7,Yes,1.0,4,4,8,Married,No
+EMP-1073,29,Male,Engineering,Analyst,Bachelor's,44916.86,1,1,4,44.8,No,4.4,4,2,22,Divorced,No
+EMP-1074,40,Male,Operations,Analyst,Bachelor's,48801.62,3,0,3,37.0,No,2.2,3,1,32,Married,No
+EMP-1075,37,Male,Engineering,Team Lead,Bachelor's,51753.54,2,1,6,45.1,No,1.5,3,1,16,Married,No
+EMP-1076,42,Male,Engineering,Analyst,High School,60554.56,30,2,10,59.3,Yes,1.8,4,2,30,Divorced,No
+EMP-1077,33,Male,Sales,Manager,Bachelor's,77221.78,1,1,7,52.4,Yes,1.0,4,1,17,Married,No
+EMP-1078,37,Male,Marketing,Team Lead,High School,60819.73,15,8,6,46.8,No,4.9,3,2,46,Divorced,No
+EMP-1079,41,Male,Sales,Associate,Bachelor's,33675.84,1,1,9,42.7,No,2.3,2,2,45,Married,No
+EMP-1080,34,Male,Engineering,Director,Bachelor's,118984.45,2,0,2,44.2,No,4.7,3,2,36,Divorced,No
+EMP-1081,40,Male,Sales,Analyst,Bachelor's,44301.1,1,1,7,50.3,Yes,3.1,3,1,42,Single,No
+EMP-1082,31,Male,Engineering,Analyst,High School,39787.16,6,3,6,41.4,No,3.3,4,4,7,Married,No
+EMP-1083,33,Male,Engineering,Team Lead,PhD,80496.91,9,2,3,38.8,Yes,1.9,4,3,33,Married,No
+EMP-1084,33,Male,HR,Manager,Bachelor's,78879.53,1,0,7,52.4,Yes,3.2,5,2,21,Married,No
+EMP-1085,26,Male,Engineering,Analyst,Bachelor's,49585.66,5,2,9,56.7,Yes,2.4,3,1,39,Divorced,Yes
+EMP-1086,40,Male,Engineering,Manager,Master's,106539.41,6,2,9,57.5,No,1.0,3,2,1,Married,No
+EMP-1087,32,Female,Marketing,Director,Bachelor's,124251.4,3,3,9,56.0,Yes,3.6,4,2,10,Married,Yes
+EMP-1088,36,Other,Marketing,Executive,Bachelor's,141675.82,5,5,9,48.3,No,2.5,3,2,13,Married,No
+EMP-1089,40,Other,Engineering,Associate,Master's,40998.76,3,0,5,54.7,Yes,1.9,4,1,28,Married,Yes
+EMP-1090,40,Female,Sales,Associate,Master's,38514.41,11,10,1,58.2,Yes,1.8,4,1,49,Married,No
+EMP-1091,41,Female,Engineering,Analyst,Bachelor's,51783.96,2,1,10,35.6,No,3.7,3,5,45,Single,No
+EMP-1092,35,Male,Operations,Team Lead,Master's,61488.34,1,1,5,45.3,Yes,1.8,3,3,23,Married,Yes
+EMP-1093,33,Female,Engineering,Senior Engineer,Master's,71211.94,6,5,7,40.1,No,2.5,3,4,1,Divorced,No
+EMP-1094,35,Female,Engineering,Team Lead,Bachelor's,71135.23,4,2,1,59.9,Yes,1.0,4,1,44,Married,No
+EMP-1095,23,Female,Sales,Analyst,High School,41688.96,7,5,9,58.2,Yes,1.3,3,2,29,Married,No
+EMP-1096,24,Female,Engineering,Senior Engineer,High School,66591.15,1,1,9,55.1,Yes,1.0,3,1,2,Married,No
+EMP-1097,25,Male,Engineering,Senior Engineer,Master's,75861.82,4,4,10,42.4,No,4.4,2,5,33,Married,Yes
+EMP-1098,28,Female,Engineering,Senior Engineer,Bachelor's,85019.81,0,0,2,58.8,Yes,1.0,4,1,45,Single,No
+EMP-1099,39,Female,Marketing,Associate,Bachelor's,39511.03,3,1,9,35.7,No,4.8,5,5,44,Married,No
+EMP-1100,29,Male,Marketing,Manager,Bachelor's,96879.08,3,2,7,39.7,No,3.7,5,4,45,Married,No
+EMP-1101,33,Other,Marketing,Manager,PhD,102607.7,3,3,2,50.4,Yes,3.1,4,3,49,Single,Yes
+EMP-1102,46,Male,Finance,Analyst,High School,47020.68,6,6,6,54.8,Yes,4.1,2,1,33,Single,Yes
+EMP-1103,33,Other,Sales,Associate,High School,29872.68,0,0,5,57.1,Yes,1.4,2,1,31,Married,No
+EMP-1104,42,Female,Operations,Senior Engineer,Bachelor's,102463.47,21,1,7,42.5,No,3.3,3,4,6,Married,No
+EMP-1105,29,Male,Marketing,Analyst,Master's,49208.66,4,2,1,44.8,No,1.2,4,4,32,Married,No
+EMP-1106,34,Female,Finance,Associate,Bachelor's,44434.43,13,5,6,46.4,Yes,1.0,4,3,44,Single,No
+EMP-1107,28,Male,Marketing,Manager,Master's,89282.17,2,1,7,35.7,No,2.5,3,4,41,Married,No
+EMP-1108,33,Female,Sales,Manager,High School,74010.0,1,1,8,56.6,Yes,2.8,5,1,45,Married,No
+EMP-1109,43,Female,Engineering,Associate,Bachelor's,32244.89,1,1,8,43.4,No,4.3,3,5,9,Married,No
+EMP-1110,22,Female,Sales,Manager,Bachelor's,92566.06,7,4,7,40.0,No,2.0,4,3,11,Married,No
+EMP-1111,39,Female,Engineering,Executive,Bachelor's,129819.16,1,1,8,45.2,No,4.0,5,5,43,Single,No
+EMP-1112,38,Male,Sales,Executive,Bachelor's,150000.0,7,7,1,52.8,Yes,1.3,4,1,48,Divorced,No
+EMP-1113,31,Male,Engineering,Senior Engineer,Master's,74998.64,0,0,8,56.8,Yes,1.0,4,1,27,Single,Yes
+EMP-1114,24,Male,Engineering,Senior Engineer,Bachelor's,82865.41,6,0,4,40.4,No,1.2,4,3,45,Married,Yes
+EMP-1115,37,Male,Operations,Analyst,Master's,54637.99,1,1,6,39.3,No,3.3,4,5,35,Single,No
+EMP-1116,32,Male,Marketing,Associate,Bachelor's,36193.15,6,2,6,58.6,Yes,2.2,4,3,11,Married,No
+EMP-1117,38,Male,HR,Manager,Master's,105971.96,0,0,10,48.8,No,2.1,3,3,26,Single,No
+EMP-1118,36,Male,Sales,Associate,Bachelor's,36516.33,1,1,4,44.1,No,1.0,3,3,20,Divorced,No
+EMP-1119,49,Male,HR,Associate,Bachelor's,42702.66,7,4,4,40.0,No,3.3,4,1,40,Married,No
+EMP-1120,34,Female,Operations,Analyst,Bachelor's,49695.5,9,6,8,59.9,Yes,3.5,4,1,17,Married,No
+EMP-1121,28,Male,Marketing,Team Lead,PhD,65716.24,4,3,7,53.0,Yes,1.0,4,2,9,Single,Yes
+EMP-1122,37,Female,Marketing,Team Lead,PhD,70496.64,3,0,4,40.4,No,3.9,3,2,25,Single,No
+EMP-1123,38,Male,Sales,Director,Master's,121052.31,4,2,4,37.3,No,3.5,3,3,25,Married,No
+EMP-1124,47,Male,Sales,Associate,Master's,36248.26,6,5,9,40.0,No,2.9,3,4,45,Married,No
+EMP-1125,43,Female,Marketing,Associate,Bachelor's,28018.9,2,2,9,41.2,No,1.2,5,2,1,Married,No
+EMP-1126,39,Male,Operations,Executive,Bachelor's,147104.88,2,0,2,37.8,No,4.7,3,2,44,Divorced,Yes
+EMP-1127,48,Male,Sales,Team Lead,Bachelor's,59994.6,11,9,4,40.7,No,2.9,3,1,11,Married,No
+EMP-1128,26,Female,Sales,Manager,Master's,105389.84,6,1,8,37.9,Yes,1.3,2,3,9,Divorced,No
+EMP-1129,31,Male,Sales,Manager,Bachelor's,99832.37,2,0,2,44.4,Yes,3.6,3,2,21,Single,Yes
+EMP-1130,29,Male,Sales,Associate,Bachelor's,31409.38,1,1,2,47.2,Yes,3.0,3,1,28,Married,No
+EMP-1131,33,Female,Operations,Director,Master's,134855.54,6,4,2,46.4,Yes,3.1,4,2,47,Married,No
+EMP-1132,25,Male,Marketing,Manager,High School,83499.44,10,5,6,55.7,Yes,3.6,2,1,27,Married,No
+EMP-1133,41,Female,Sales,Manager,Master's,104590.89,6,3,5,41.3,No,1.5,3,4,8,Divorced,No
+EMP-1134,34,Male,Sales,Manager,Bachelor's,81332.41,6,6,4,57.2,Yes,3.3,2,1,23,Married,No
+EMP-1135,24,Other,Sales,Analyst,Master's,50343.56,4,1,2,57.7,No,2.3,1,1,47,Divorced,No
+EMP-1136,28,Female,Engineering,Senior Engineer,Master's,84996.16,0,0,7,59.0,Yes,3.3,4,3,36,Married,No
+EMP-1137,39,Other,HR,Team Lead,Master's,65741.96,0,0,9,39.5,No,2.5,5,4,11,Single,No
+EMP-1138,43,Female,Finance,Associate,Bachelor's,29130.93,1,0,3,41.1,No,1.2,4,4,33,Married,Yes
+EMP-1139,52,Male,Marketing,Analyst,High School,44632.89,1,0,7,50.6,No,2.7,5,3,37,Married,No
+EMP-1140,59,Female,Engineering,Analyst,High School,39617.43,7,6,8,38.5,No,4.0,2,3,14,Divorced,No
+EMP-1141,39,Male,Marketing,Director,High School,102139.32,1,1,6,37.1,No,3.0,5,1,27,Married,No
+EMP-1142,28,Female,Marketing,Associate,Master's,37678.02,0,0,6,36.8,Yes,3.2,3,1,18,Single,No
+EMP-1143,22,Female,Engineering,Analyst,Bachelor's,45088.2,1,1,2,50.2,No,1.1,4,4,10,Single,No
+EMP-1144,38,Male,Marketing,Manager,Bachelor's,100735.79,1,1,10,55.1,Yes,1.0,4,3,45,Single,No
+EMP-1145,29,Other,Marketing,Executive,Bachelor's,148134.01,4,4,10,41.5,No,3.3,3,4,17,Married,No
+EMP-1146,33,Male,Finance,Associate,PhD,38368.67,0,0,8,58.3,Yes,1.7,3,3,17,Single,Yes
+EMP-1147,31,Female,Engineering,Associate,Bachelor's,36147.63,3,1,10,54.8,Yes,2.3,2,3,6,Married,No
+EMP-1148,35,Female,Engineering,Senior Engineer,Bachelor's,84696.53,11,5,7,36.9,No,4.9,3,2,23,Married,No
+EMP-1149,45,Male,Sales,Senior Engineer,Bachelor's,77135.33,5,0,7,45.2,No,3.6,3,4,33,Married,No
+EMP-1150,37,Female,Engineering,Director,High School,126418.37,16,0,9,36.7,No,2.7,5,4,49,Single,No
+EMP-1151,35,Female,Sales,Manager,PhD,103996.1,7,3,1,57.9,Yes,2.6,1,1,39,Married,No
+EMP-1152,28,Male,Finance,Associate,High School,31426.29,2,2,3,53.6,Yes,4.1,4,3,43,Single,Yes
+EMP-1153,23,Female,Engineering,Senior Engineer,Master's,83827.22,8,7,3,52.2,Yes,2.4,4,1,50,Divorced,Yes
+EMP-1154,32,Male,Sales,Analyst,Master's,45604.84,8,3,7,52.1,Yes,3.6,1,1,35,Single,No
+EMP-1155,36,Female,Operations,Associate,Master's,42230.06,5,3,3,42.1,No,2.2,3,3,43,Single,No
+EMP-1156,50,Male,HR,Associate,Master's,38496.09,8,7,4,58.3,No,4.0,3,1,16,Single,No
+EMP-1157,37,Other,Sales,Director,Master's,146842.35,14,3,5,58.1,Yes,1.0,3,1,36,Married,No
+EMP-1158,44,Female,HR,Analyst,Bachelor's,43802.71,4,0,8,53.5,Yes,2.9,3,1,32,Single,No
+EMP-1159,32,Male,Engineering,Manager,Bachelor's,78845.65,1,1,6,46.7,Yes,3.3,1,4,23,Married,No
+EMP-1160,27,Male,Engineering,Analyst,Master's,45990.74,3,2,1,36.2,No,4.6,3,3,33,Married,No
+EMP-1161,28,Female,Marketing,Associate,Master's,39312.06,1,0,7,35.7,No,1.5,4,2,37,Married,No
+EMP-1162,30,Female,Sales,Analyst,Bachelor's,63366.98,21,2,5,38.5,Yes,3.8,4,3,21,Single,No
+EMP-1163,53,Male,Engineering,Analyst,Bachelor's,44752.66,1,0,2,49.9,Yes,1.0,3,1,43,Single,Yes
+EMP-1164,29,Male,Engineering,Manager,Bachelor's,80142.43,1,0,7,55.0,Yes,2.0,4,1,2,Married,No
+EMP-1165,43,Male,Finance,Executive,Bachelor's,122680.27,5,2,3,58.7,Yes,3.0,5,1,17,Single,No
+EMP-1166,29,Other,Engineering,Analyst,High School,47012.64,7,6,5,39.4,No,2.9,3,2,19,Married,No
+EMP-1167,43,Male,Marketing,Senior Engineer,Bachelor's,75745.7,8,6,10,41.9,No,2.4,2,2,42,Married,Yes
+EMP-1168,39,Female,Sales,Team Lead,High School,53840.36,5,5,3,36.4,Yes,3.0,1,1,26,Married,No
+EMP-1169,35,Male,HR,Manager,Master's,91563.86,1,1,9,59.7,Yes,3.1,3,3,47,Single,No
+EMP-1170,36,Other,Engineering,Senior Engineer,Master's,79331.23,3,1,5,54.5,Yes,2.8,4,2,48,Married,Yes
+EMP-1171,31,Male,Engineering,Senior Engineer,Master's,80862.26,12,0,10,47.0,Yes,2.6,4,3,23,Single,No
+EMP-1172,40,Male,HR,Director,Master's,113149.79,4,0,9,49.4,Yes,2.4,4,1,37,Married,No
+EMP-1173,32,Other,Marketing,Manager,High School,77019.26,0,0,9,49.1,Yes,1.5,3,1,13,Single,No
+EMP-1174,26,Other,Engineering,Analyst,High School,40175.89,4,3,3,41.4,Yes,1.0,4,1,6,Divorced,Yes
+EMP-1175,26,Male,Sales,Executive,Master's,149878.18,0,0,8,39.6,No,3.1,3,5,25,Married,Yes
+EMP-1176,37,Male,Sales,Analyst,Master's,51476.44,4,1,4,42.4,Yes,2.6,2,1,16,Single,Yes
+EMP-1177,49,Male,Engineering,Team Lead,Master's,94063.29,21,7,10,41.2,No,2.2,2,4,37,Single,No
+EMP-1178,37,Male,HR,Analyst,Master's,47492.84,4,2,10,48.9,Yes,1.0,5,4,27,Married,No
+EMP-1179,35,Male,Engineering,Director,Master's,131401.65,5,5,7,42.7,No,4.6,4,2,7,Single,No
+EMP-1180,38,Female,HR,Analyst,Master's,55748.33,7,4,10,53.2,Yes,3.4,4,1,23,Single,Yes
+EMP-1181,46,Male,Engineering,Senior Engineer,Master's,76315.17,2,2,6,49.2,Yes,2.9,4,1,21,Divorced,No
+EMP-1182,38,Female,Sales,Team Lead,Master's,73030.91,1,0,1,48.3,Yes,2.9,2,1,1,Married,No
+EMP-1183,33,Male,Sales,Associate,High School,27951.0,5,4,9,58.8,No,4.9,3,4,28,Single,No
+EMP-1184,45,Male,Sales,Senior Engineer,High School,62488.77,2,1,6,43.1,No,3.3,4,4,47,Married,No
+EMP-1185,39,Female,Sales,Team Lead,Bachelor's,55389.4,4,0,1,50.9,Yes,1.4,5,2,45,Single,No
+EMP-1186,48,Male,Operations,Associate,Bachelor's,31989.01,2,0,1,35.0,Yes,2.3,4,1,46,Divorced,Yes
+EMP-1187,37,Female,Sales,Associate,Master's,41954.66,12,3,8,53.4,Yes,3.9,2,3,45,Single,Yes
+EMP-1188,26,Male,Finance,Director,Bachelor's,124356.24,4,0,10,47.6,No,3.8,5,4,47,Married,No
+EMP-1189,25,Other,Engineering,Manager,Bachelor's,87585.72,5,5,7,40.2,No,1.1,3,5,5,Married,Yes
+EMP-1190,49,Female,Sales,Executive,Master's,139198.41,1,0,5,35.0,No,4.7,3,2,22,Single,No
+EMP-1191,50,Female,Engineering,Senior Engineer,Bachelor's,65457.18,3,2,4,52.7,No,4.0,2,1,28,Single,No
+EMP-1192,35,Male,Sales,Senior Engineer,Master's,76761.64,6,3,5,51.6,No,2.6,1,4,42,Married,Yes
+EMP-1193,33,Male,Marketing,Manager,Bachelor's,88351.99,3,2,4,51.6,Yes,3.7,4,1,19,Divorced,No
+EMP-1194,48,Male,Finance,Associate,Bachelor's,36386.85,2,1,3,45.9,Yes,3.0,4,1,36,Married,No
+EMP-1195,27,Female,HR,Analyst,Bachelor's,46989.39,7,7,2,51.0,Yes,3.6,3,1,40,Married,No
+EMP-1196,29,Male,Marketing,Analyst,Bachelor's,59121.89,15,10,6,49.3,Yes,3.9,3,1,26,Married,No
+EMP-1197,41,Male,Engineering,Executive,High School,112544.0,1,1,3,41.0,No,1.2,4,3,13,Married,No
+EMP-1198,33,Male,Engineering,Executive,Bachelor's,141302.86,7,3,2,48.0,No,4.1,3,2,4,Married,No
+EMP-1199,36,Male,Finance,Manager,Bachelor's,80479.44,0,0,3,47.9,Yes,2.0,3,4,23,Married,No
+EMP-1200,35,Male,Engineering,Director,Bachelor's,123458.84,0,0,8,55.6,No,4.5,3,4,9,Married,No
+EMP-1201,39,Male,Engineering,Senior Engineer,Master's,87111.61,7,5,6,45.8,Yes,3.7,5,1,33,Single,No
+EMP-1202,47,Male,Operations,Associate,High School,25683.76,0,0,5,45.9,No,4.3,5,5,12,Divorced,No
+EMP-1203,37,Female,Operations,Associate,Bachelor's,35512.37,0,0,6,59.6,Yes,3.4,3,1,44,Single,No
+EMP-1204,41,Male,Marketing,Associate,High School,35463.13,2,0,6,57.4,Yes,3.0,4,1,45,Single,No
+EMP-1205,22,Male,Sales,Associate,PhD,42233.99,7,7,5,41.1,Yes,1.7,5,3,42,Married,Yes
+EMP-1206,36,Female,Finance,Manager,Master's,83541.01,0,0,9,57.8,Yes,1.2,1,1,34,Married,No
+EMP-1207,29,Female,Engineering,Senior Engineer,PhD,99828.33,7,1,8,38.4,Yes,1.0,5,1,6,Single,Yes
+EMP-1208,26,Male,Sales,Team Lead,PhD,102592.14,16,1,2,56.3,Yes,3.4,3,1,50,Single,No
+EMP-1209,29,Female,Sales,Executive,Bachelor's,147305.92,3,3,9,39.6,No,3.6,4,4,4,Married,No
+EMP-1210,33,Other,Operations,Manager,Master's,85362.65,6,5,2,45.6,No,3.5,4,2,29,Married,No
+EMP-1211,43,Female,Operations,Associate,Bachelor's,42865.64,15,1,1,59.6,Yes,1.0,3,1,41,Single,No
+EMP-1212,25,Other,Marketing,Team Lead,Master's,68134.22,0,0,5,37.4,No,3.5,4,2,5,Single,No
+EMP-1213,36,Female,Engineering,Senior Engineer,Bachelor's,72973.66,7,7,4,56.0,Yes,1.7,4,3,25,Married,No
+EMP-1214,32,Male,Sales,Team Lead,Bachelor's,67738.95,1,0,8,47.4,No,5.0,2,5,24,Divorced,No
+EMP-1215,33,Male,Engineering,Manager,PhD,108488.07,5,0,7,37.8,No,4.5,4,5,10,Single,No
+EMP-1216,44,Female,Operations,Analyst,Master's,55436.67,3,3,1,58.8,Yes,2.5,5,1,6,Divorced,No
+EMP-1217,40,Other,Engineering,Senior Engineer,PhD,78484.29,1,0,5,48.7,Yes,3.3,5,1,46,Divorced,No
+EMP-1218,47,Male,Engineering,Associate,High School,31421.42,1,0,8,57.0,Yes,1.0,4,3,46,Single,Yes
+EMP-1219,35,Male,Marketing,Director,Bachelor's,117441.64,10,8,8,56.7,Yes,1.0,3,1,5,Married,Yes
+EMP-1220,30,Female,Sales,Team Lead,Bachelor's,62624.19,1,1,6,35.4,No,3.5,3,1,14,Married,No
+EMP-1221,34,Male,Finance,Executive,Bachelor's,150000.0,6,3,7,41.6,No,3.9,3,2,20,Married,No
+EMP-1222,38,Female,Engineering,Director,Bachelor's,98909.24,1,1,6,43.4,No,1.2,4,5,10,Married,No
+EMP-1223,37,Female,Finance,Analyst,Bachelor's,43882.85,8,0,3,48.4,No,1.8,4,5,4,Married,No
+EMP-1224,27,Female,Engineering,Team Lead,Master's,73176.25,2,2,6,36.8,No,3.1,5,3,26,Married,Yes
+EMP-1225,37,Female,Engineering,Analyst,Bachelor's,47905.81,6,1,7,44.7,No,1.3,2,1,23,Married,No
+EMP-1226,38,Female,Sales,Analyst,Master's,54072.58,2,1,1,55.4,Yes,1.5,5,1,41,Divorced,No
+EMP-1227,56,Female,Engineering,Senior Engineer,Master's,74056.98,1,0,7,39.3,No,2.9,5,2,15,Married,No
+EMP-1228,51,Female,HR,Senior Engineer,Master's,92416.93,12,3,3,52.5,Yes,3.3,4,2,26,Married,No
+EMP-1229,29,Female,Engineering,Team Lead,Bachelor's,63830.54,0,0,1,46.5,Yes,1.1,5,4,16,Divorced,No
+EMP-1230,34,Female,Engineering,Senior Engineer,Bachelor's,84698.23,11,3,8,36.8,No,1.7,3,2,2,Single,Yes
+EMP-1231,24,Male,Marketing,Associate,Bachelor's,29974.37,4,2,4,39.4,No,1.0,3,5,37,Single,No
+EMP-1232,31,Female,Engineering,Analyst,Master's,61486.52,3,3,5,38.5,No,1.5,3,5,38,Married,No
+EMP-1233,39,Male,Marketing,Team Lead,Bachelor's,71679.71,11,1,7,50.5,Yes,2.9,1,3,34,Divorced,No
+EMP-1234,46,Female,Marketing,Director,High School,95972.41,5,3,6,37.2,No,2.8,1,4,2,Single,No
+EMP-1235,30,Female,Engineering,Analyst,PhD,70098.8,21,9,7,55.6,Yes,1.3,4,1,35,Married,No
+EMP-1236,31,Male,Finance,Manager,Master's,108449.67,11,8,10,55.2,Yes,4.1,3,3,31,Single,No
+EMP-1237,22,Male,Engineering,Manager,Master's,107357.66,7,7,7,37.0,No,4.2,2,4,23,Married,No
+EMP-1238,35,Male,Sales,Analyst,Bachelor's,50099.36,4,0,1,57.2,Yes,1.0,2,3,31,Married,No
+EMP-1239,28,Female,Engineering,Manager,PhD,111644.29,11,3,3,59.0,Yes,1.0,4,1,6,Single,No
+EMP-1240,32,Male,Finance,Analyst,Bachelor's,39076.43,2,1,5,36.1,No,4.4,5,2,11,Divorced,Yes
+EMP-1241,29,Male,HR,Associate,Bachelor's,34218.0,0,0,5,58.8,Yes,2.6,3,1,7,Single,No
+EMP-1242,35,Female,HR,Analyst,Master's,42318.52,1,1,4,42.0,No,4.8,4,3,23,Divorced,No
+EMP-1243,22,Female,Operations,Director,Master's,150000.0,10,3,2,51.6,Yes,1.0,5,1,45,Single,Yes
+EMP-1244,24,Male,Sales,Analyst,Bachelor's,43284.62,3,1,2,39.4,No,4.1,4,4,1,Divorced,No
+EMP-1245,53,Male,Operations,Associate,Bachelor's,37277.02,5,5,2,55.4,Yes,1.0,4,2,23,Married,Yes
+EMP-1246,26,Other,Marketing,Team Lead,Bachelor's,58184.01,1,0,10,56.0,Yes,1.4,4,1,15,Single,No
+EMP-1247,27,Female,Operations,Director,Master's,118734.75,2,2,4,59.5,Yes,3.3,5,1,47,Single,No
+EMP-1248,51,Female,Operations,Team Lead,Master's,76595.89,16,0,10,59.8,No,3.8,3,2,31,Single,No
+EMP-1249,59,Male,Operations,Associate,Bachelor's,36983.88,4,2,4,36.9,Yes,1.0,4,1,12,Married,Yes
+EMP-1250,27,Male,Engineering,Team Lead,High School,53834.06,2,1,4,51.4,Yes,1.1,3,1,15,Married,No
+EMP-1251,33,Male,Finance,Manager,Master's,95533.43,0,0,5,41.8,No,4.1,3,2,30,Married,No
+EMP-1252,39,Female,Finance,Associate,Master's,35314.43,2,2,10,38.1,No,1.5,4,4,3,Married,No
+EMP-1253,50,Male,Marketing,Associate,Bachelor's,34818.23,5,4,6,38.7,No,2.3,4,3,4,Married,No
+EMP-1254,28,Male,Engineering,Senior Engineer,Master's,82915.24,4,0,1,58.4,Yes,1.0,5,1,34,Married,No
+EMP-1255,34,Female,Operations,Analyst,PhD,55008.69,3,2,3,52.1,Yes,1.0,5,1,41,Married,No
+EMP-1256,42,Other,Engineering,Team Lead,Bachelor's,64430.88,10,3,10,36.3,No,4.3,4,1,38,Married,No
+EMP-1257,39,Female,Sales,Analyst,Master's,52984.24,3,3,2,59.6,Yes,1.0,4,2,9,Married,Yes
+EMP-1258,33,Male,HR,Associate,Master's,35746.82,1,1,9,55.2,Yes,1.7,5,3,44,Divorced,Yes
+EMP-1259,35,Male,Engineering,Analyst,Bachelor's,47291.97,2,0,10,42.7,No,3.8,3,2,12,Married,No
+EMP-1260,25,Male,Marketing,Team Lead,Master's,73824.03,8,3,3,46.8,Yes,1.0,2,4,44,Single,Yes
+EMP-1261,34,Male,Engineering,Senior Engineer,Master's,81659.47,0,0,6,53.2,Yes,2.7,3,2,15,Single,No
+EMP-1262,34,Female,Marketing,Team Lead,Bachelor's,69040.75,12,9,6,51.9,Yes,1.4,4,1,25,Married,No
+EMP-1263,38,Male,Finance,Associate,Bachelor's,32306.66,3,3,8,46.6,Yes,3.1,4,2,48,Married,No
+EMP-1264,32,Female,Sales,Analyst,Master's,54851.24,7,4,8,47.8,No,4.2,4,1,21,Divorced,No
+EMP-1265,40,Female,Marketing,Senior Engineer,Bachelor's,95459.42,26,2,1,36.1,Yes,3.6,1,1,34,Married,No
+EMP-1266,44,Other,Engineering,Associate,High School,36013.67,5,2,4,47.5,No,2.6,4,4,30,Married,Yes
+EMP-1267,37,Male,Finance,Manager,Bachelor's,86679.13,3,3,10,43.5,No,4.3,4,5,4,Married,No
+EMP-1268,39,Male,Operations,Associate,Master's,32043.94,0,0,4,42.1,No,3.5,5,2,40,Single,No
+EMP-1269,36,Male,Engineering,Analyst,PhD,51794.86,3,2,3,41.7,No,2.5,3,5,18,Married,No
+EMP-1270,36,Male,Marketing,Analyst,Master's,46812.43,4,1,7,51.2,Yes,1.0,4,2,24,Single,No
+EMP-1271,30,Male,HR,Manager,Master's,100656.77,2,0,2,45.7,No,1.3,4,2,16,Married,No
+EMP-1272,39,Male,HR,Executive,Bachelor's,150000.0,5,1,2,45.6,No,2.0,4,4,50,Divorced,No
+EMP-1273,35,Female,Marketing,Executive,Bachelor's,131355.38,0,0,8,39.0,No,2.2,3,5,28,Married,No
+EMP-1274,53,Male,Sales,Analyst,PhD,61187.71,10,5,2,59.0,Yes,3.3,1,1,32,Divorced,No
+EMP-1275,49,Other,Marketing,Associate,Bachelor's,34734.64,4,2,9,40.6,No,5.0,2,1,27,Married,No
+EMP-1276,39,Male,Engineering,Senior Engineer,Master's,87120.51,3,2,3,45.2,Yes,1.0,3,1,16,Married,No
+EMP-1277,30,Male,Sales,Manager,Bachelor's,88508.82,2,2,2,39.8,No,4.8,4,4,30,Married,No
+EMP-1278,27,Male,Operations,Associate,Bachelor's,37984.25,6,4,8,52.6,Yes,3.2,4,1,40,Married,Yes
+EMP-1279,46,Male,Engineering,Director,Master's,127020.15,5,3,2,45.9,Yes,2.4,4,1,5,Single,No
+EMP-1280,38,Male,HR,Director,Bachelor's,104442.27,0,0,4,45.3,Yes,3.8,1,1,8,Single,No
+EMP-1281,40,Other,Engineering,Senior Engineer,High School,74619.58,6,2,4,56.9,Yes,2.6,2,1,9,Married,No
+EMP-1282,22,Male,Finance,Associate,Bachelor's,37095.54,0,0,6,54.0,Yes,2.5,4,1,47,Single,No
+EMP-1283,43,Male,HR,Manager,Bachelor's,93840.65,3,2,5,48.0,No,1.8,4,5,29,Married,No
+EMP-1284,40,Female,Sales,Executive,Bachelor's,150000.0,2,2,2,46.7,Yes,1.0,4,1,18,Married,No
+EMP-1285,27,Male,Engineering,Analyst,Master's,51539.53,4,0,3,59.0,Yes,3.2,4,3,10,Divorced,Yes
+EMP-1286,32,Female,Sales,Associate,Bachelor's,33178.75,6,2,2,58.9,Yes,1.0,5,3,35,Single,No
+EMP-1287,38,Male,Operations,Team Lead,Master's,65948.38,5,0,1,52.6,Yes,1.0,5,3,27,Divorced,No
+EMP-1288,36,Female,HR,Associate,Master's,39973.16,0,0,7,54.0,Yes,1.0,4,2,32,Single,Yes
+EMP-1289,34,Male,Sales,Manager,High School,71487.74,8,1,5,57.5,Yes,1.8,3,1,36,Married,No
+EMP-1290,35,Male,Marketing,Analyst,Bachelor's,55212.35,8,0,2,59.1,Yes,1.2,1,1,5,Married,No
+EMP-1291,34,Female,Sales,Team Lead,PhD,71014.41,4,2,4,37.1,Yes,3.8,4,4,34,Single,No
+EMP-1292,37,Female,Sales,Executive,Master's,150000.0,1,1,7,59.9,Yes,1.9,3,1,37,Single,Yes
+EMP-1293,48,Male,Sales,Associate,PhD,39361.42,1,1,3,52.6,Yes,3.2,2,1,14,Single,Yes
+EMP-1294,22,Female,Engineering,Analyst,Bachelor's,56317.57,14,2,5,49.8,No,3.4,3,2,16,Married,No
+EMP-1295,34,Male,Marketing,Team Lead,Master's,79771.94,1,1,8,45.3,Yes,2.3,5,1,30,Married,Yes
+EMP-1296,37,Male,Operations,Associate,Master's,37677.86,5,1,7,43.4,Yes,1.0,2,1,20,Single,Yes
+EMP-1297,38,Male,Operations,Team Lead,PhD,84113.81,14,3,8,55.1,No,2.1,4,3,47,Single,No
+EMP-1298,33,Female,Operations,Manager,High School,72955.89,2,1,4,51.4,Yes,3.7,5,1,5,Married,No
+EMP-1299,22,Male,Sales,Analyst,PhD,48550.07,1,1,5,40.0,No,4.1,4,2,9,Single,No
+EMP-1300,39,Female,Engineering,Associate,Bachelor's,33093.14,2,1,9,50.2,Yes,2.2,2,1,41,Married,Yes
+EMP-1301,50,Male,Marketing,Manager,Master's,97615.84,9,0,9,38.5,No,4.6,4,3,35,Divorced,No
+EMP-1302,24,Female,Operations,Team Lead,Bachelor's,63432.8,11,4,1,47.4,No,4.3,4,2,44,Married,No
+EMP-1303,43,Female,Marketing,Analyst,Master's,48607.51,2,0,9,49.6,Yes,1.0,3,1,2,Divorced,No
+EMP-1304,33,Male,Sales,Associate,Bachelor's,36238.68,4,0,9,50.9,Yes,2.0,4,1,7,Married,No
+EMP-1305,36,Male,Marketing,Analyst,Master's,53248.87,13,0,10,38.6,No,4.2,2,5,42,Married,No
+EMP-1306,28,Male,Finance,Director,Bachelor's,110199.0,1,0,3,37.4,No,4.2,4,1,41,Single,Yes
+EMP-1307,33,Female,Operations,Director,Bachelor's,127884.22,3,0,6,41.5,Yes,1.0,5,1,42,Single,No
+EMP-1308,46,Male,Finance,Senior Engineer,Master's,75364.92,6,5,1,50.2,Yes,1.1,4,2,45,Married,No
+EMP-1309,41,Female,Sales,Associate,Master's,50914.92,15,0,2,58.3,Yes,1.6,5,1,12,Single,Yes
+EMP-1310,50,Male,Engineering,Manager,Bachelor's,93271.48,13,2,6,54.5,No,2.0,3,4,5,Divorced,No
+EMP-1311,45,Female,Sales,Team Lead,Master's,71084.42,4,4,3,53.6,Yes,1.0,5,1,15,Married,No
+EMP-1312,40,Male,Sales,Team Lead,Bachelor's,68691.88,2,2,3,43.3,No,3.5,4,4,50,Divorced,No
+EMP-1313,50,Female,Operations,Associate,Master's,44213.56,6,3,3,37.8,No,3.0,2,5,26,Married,Yes
+EMP-1314,40,Other,HR,Director,Master's,126377.93,1,0,5,57.3,Yes,1.0,5,3,1,Married,No
+EMP-1315,43,Male,Sales,Associate,Master's,46749.76,25,0,2,47.5,No,3.3,5,5,38,Married,No
+EMP-1316,34,Female,Sales,Associate,Master's,34757.87,2,2,9,37.5,No,1.2,3,3,43,Single,No
+EMP-1317,37,Male,Marketing,Director,Bachelor's,111237.4,4,3,7,48.4,Yes,1.9,4,4,7,Married,No
+EMP-1318,30,Male,HR,Analyst,Bachelor's,50650.18,0,0,8,51.9,Yes,2.8,3,1,28,Married,No
+EMP-1319,44,Female,Engineering,Analyst,Master's,48622.51,3,3,10,43.0,No,4.6,1,5,38,Divorced,No
+EMP-1320,27,Female,Operations,Team Lead,High School,59809.4,4,4,7,35.2,No,2.0,3,5,48,Married,No
+EMP-1321,42,Female,Sales,Director,Bachelor's,103839.38,2,0,4,50.5,Yes,3.7,3,1,31,Single,No
+EMP-1322,34,Male,Sales,Associate,Master's,34629.91,4,4,10,36.0,No,4.6,2,1,17,Married,No
+EMP-1323,45,Male,Engineering,Team Lead,Bachelor's,61537.15,1,0,6,45.8,No,3.4,3,4,46,Married,No
+EMP-1324,42,Male,HR,Analyst,Bachelor's,45428.31,4,3,5,55.6,Yes,3.5,5,1,19,Single,Yes
+EMP-1325,51,Female,Marketing,Analyst,PhD,58595.84,10,4,5,60.0,Yes,1.0,3,1,32,Married,Yes
+EMP-1326,42,Male,Operations,Analyst,Bachelor's,39375.58,1,1,1,44.3,No,1.3,4,5,43,Single,No
+EMP-1327,23,Male,Engineering,Manager,High School,89098.1,13,9,10,35.5,No,4.4,3,3,27,Single,No
+EMP-1328,35,Male,Operations,Associate,Bachelor's,38202.78,2,2,9,47.3,No,3.0,2,4,36,Married,No
+EMP-1329,27,Male,Marketing,Associate,Bachelor's,31670.42,2,1,7,41.9,No,2.4,4,5,43,Single,Yes
+EMP-1330,32,Male,Engineering,Manager,Master's,102249.23,4,1,3,57.3,Yes,1.0,3,3,31,Married,Yes
+EMP-1331,48,Male,Engineering,Manager,Master's,67984.13,3,2,10,52.8,Yes,1.0,3,3,22,Single,Yes
+EMP-1332,41,Female,Engineering,Team Lead,Master's,65469.43,4,2,2,45.1,Yes,1.0,5,1,33,Married,Yes
+EMP-1333,30,Female,Operations,Senior Engineer,Bachelor's,69658.45,10,2,3,54.1,Yes,1.0,3,1,21,Single,Yes
+EMP-1334,28,Male,Engineering,Analyst,Bachelor's,54878.88,9,7,1,43.5,No,4.9,3,4,35,Divorced,No
+EMP-1335,36,Female,Sales,Analyst,High School,43454.27,1,0,3,48.0,Yes,1.0,4,1,5,Single,Yes
+EMP-1336,26,Female,Marketing,Associate,Master's,34507.07,3,1,4,58.1,Yes,3.2,2,1,3,Married,No
+EMP-1337,31,Male,Operations,Team Lead,Master's,77656.49,10,7,8,40.0,No,1.1,4,3,24,Married,No
+EMP-1338,38,Male,Marketing,Analyst,High School,43845.47,0,0,4,42.8,No,2.3,3,2,6,Single,No
+EMP-1339,45,Male,Finance,Manager,Master's,101268.36,1,1,10,57.1,Yes,3.9,3,1,37,Married,No
+EMP-1340,41,Male,Engineering,Senior Engineer,Master's,75467.87,0,0,4,46.5,No,1.7,3,5,10,Married,Yes
+EMP-1341,22,Female,Operations,Analyst,Bachelor's,37311.57,2,1,6,42.9,Yes,1.0,3,2,25,Divorced,Yes
+EMP-1342,38,Other,Engineering,Executive,Master's,137658.28,2,2,6,35.9,No,4.3,4,3,9,Married,No
+EMP-1343,37,Male,Engineering,Manager,Master's,95516.24,0,0,9,45.5,No,1.5,5,4,47,Single,No
+EMP-1344,39,Female,Operations,Analyst,Bachelor's,56013.04,6,5,8,47.5,Yes,1.0,4,3,43,Married,Yes
+EMP-1345,49,Male,Engineering,Manager,Bachelor's,96926.92,12,2,9,45.2,Yes,3.8,3,2,1,Married,No
+EMP-1346,22,Female,Engineering,Team Lead,Master's,65621.8,3,3,10,41.9,No,2.6,5,5,20,Single,No
+EMP-1347,31,Female,Marketing,Associate,PhD,47183.3,1,0,2,44.2,No,3.6,4,2,48,Married,Yes
+EMP-1348,41,Male,Sales,Analyst,Master's,57735.09,11,6,1,51.1,Yes,1.0,1,3,25,Married,Yes
+EMP-1349,23,Male,Engineering,Team Lead,Master's,67552.23,9,2,5,57.3,No,1.9,2,4,43,Married,No
+EMP-1350,48,Female,Marketing,Analyst,Master's,50396.0,4,2,2,51.2,Yes,2.1,3,1,5,Married,No
+EMP-1351,39,Other,Finance,Associate,Bachelor's,35639.81,0,0,5,51.2,Yes,2.9,2,2,22,Married,No
+EMP-1352,43,Male,Finance,Associate,High School,31620.97,4,3,6,55.4,Yes,1.0,3,1,44,Single,Yes
+EMP-1353,31,Male,Engineering,Team Lead,Bachelor's,67240.22,3,3,3,39.1,No,4.5,3,3,10,Married,No
+EMP-1354,43,Male,HR,Senior Engineer,PhD,80278.66,6,6,1,42.5,No,4.1,5,5,1,Single,No
+EMP-1355,45,Female,Finance,Team Lead,Master's,68944.52,12,8,10,36.3,No,3.2,3,1,37,Married,No
+EMP-1356,38,Female,Engineering,Manager,PhD,98650.73,5,3,4,43.7,No,2.8,3,3,5,Married,No
+EMP-1357,38,Female,Engineering,Senior Engineer,Bachelor's,80368.73,10,9,9,60.0,Yes,2.6,5,2,16,Married,No
+EMP-1358,38,Female,Engineering,Manager,Bachelor's,97409.67,10,1,7,43.2,Yes,3.2,4,2,41,Single,Yes
+EMP-1359,29,Female,HR,Director,Master's,137463.06,6,6,7,56.5,Yes,1.0,2,1,45,Single,Yes
+EMP-1360,35,Female,Engineering,Director,Bachelor's,139603.91,4,1,8,37.1,No,4.4,2,1,7,Married,No
+EMP-1361,35,Male,Marketing,Executive,Bachelor's,124200.84,0,0,3,46.5,No,3.0,4,3,25,Married,No
+EMP-1362,39,Female,Operations,Associate,Master's,36675.02,3,1,3,43.8,No,4.7,3,1,40,Divorced,No
+EMP-1363,44,Male,Engineering,Team Lead,Master's,63181.46,1,1,10,40.0,No,4.8,4,1,20,Married,No
+EMP-1364,28,Male,Marketing,Executive,Master's,150000.0,2,2,7,44.3,No,1.1,4,5,18,Divorced,No
+EMP-1365,35,Other,Engineering,Team Lead,Bachelor's,66978.14,1,1,3,51.3,No,2.5,4,2,28,Single,No
+EMP-1366,48,Female,Engineering,Team Lead,Bachelor's,66208.35,9,6,7,47.3,No,3.1,5,3,39,Married,No
+EMP-1367,30,Other,Finance,Associate,High School,34957.79,0,0,4,56.1,Yes,2.4,4,1,3,Single,No
+EMP-1368,29,Male,Sales,Manager,Bachelor's,82490.54,4,3,9,57.6,Yes,2.9,4,2,3,Married,No
+EMP-1369,38,Female,Operations,Analyst,Bachelor's,47625.31,0,0,6,47.0,Yes,1.0,2,2,6,Single,Yes
+EMP-1370,43,Male,HR,Associate,Bachelor's,42918.53,11,1,4,59.5,No,3.5,3,1,18,Single,No
+EMP-1371,36,Male,Engineering,Associate,PhD,46219.99,22,10,7,36.8,No,4.8,3,4,14,Married,No
+EMP-1372,47,Male,Sales,Senior Engineer,Bachelor's,77048.18,2,1,8,41.9,No,5.0,4,2,25,Married,No
+EMP-1373,43,Female,Engineering,Associate,High School,29442.16,17,7,4,45.4,Yes,1.0,3,2,16,Single,No
+EMP-1374,43,Male,Operations,Analyst,High School,42637.48,0,0,8,49.6,Yes,3.6,4,2,32,Single,No
+EMP-1375,40,Other,Marketing,Analyst,Master's,48365.67,7,3,3,48.6,No,1.5,3,2,17,Married,No
+EMP-1376,55,Male,Sales,Associate,Bachelor's,38120.42,7,7,3,49.2,Yes,2.4,4,4,42,Married,No
+EMP-1377,34,Male,HR,Director,Bachelor's,137639.8,12,4,9,57.4,Yes,1.0,3,2,16,Single,Yes
+EMP-1378,22,Female,Marketing,Team Lead,Bachelor's,65921.47,0,0,7,41.9,No,3.4,5,2,13,Married,No
+EMP-1379,49,Male,Finance,Executive,Bachelor's,141400.67,0,0,1,55.4,Yes,1.0,3,1,44,Single,No
+EMP-1380,32,Other,Engineering,Analyst,Master's,56170.05,11,2,7,49.0,Yes,1.0,4,1,33,Married,No
+EMP-1381,37,Female,Engineering,Manager,Bachelor's,82388.52,2,0,4,47.3,Yes,1.3,4,2,3,Married,Yes
+EMP-1382,46,Male,Engineering,Team Lead,Bachelor's,74573.54,16,7,3,42.5,No,4.7,3,3,8,Single,No
+EMP-1383,23,Female,Sales,Associate,Master's,38687.38,12,8,5,42.6,No,3.3,4,3,3,Single,No
+EMP-1384,26,Female,Sales,Director,Bachelor's,109759.2,1,0,5,44.7,No,3.8,5,1,40,Single,No
+EMP-1385,23,Female,Engineering,Manager,Master's,97137.23,7,5,9,54.1,Yes,2.9,4,2,32,Single,No
+EMP-1386,30,Female,Sales,Associate,High School,28529.9,1,1,5,46.9,No,2.6,5,2,47,Married,No
+EMP-1387,40,Female,Sales,Associate,Master's,31450.14,1,1,3,38.8,No,1.1,3,2,17,Divorced,No
+EMP-1388,40,Female,Engineering,Associate,Bachelor's,37628.69,18,10,8,54.0,Yes,1.0,5,1,3,Married,No
+EMP-1389,38,Male,Operations,Team Lead,Bachelor's,50005.07,7,1,6,51.6,No,2.8,5,4,23,Married,No
+EMP-1390,25,Female,HR,Team Lead,Bachelor's,70516.79,13,4,1,58.7,Yes,3.4,4,1,4,Married,No
+EMP-1391,22,Other,Sales,Team Lead,PhD,75768.91,2,1,7,48.2,Yes,1.3,4,4,8,Married,No
+EMP-1392,36,Female,HR,Analyst,Bachelor's,36630.81,4,1,6,51.4,Yes,2.5,4,2,40,Married,No
+EMP-1393,32,Female,Sales,Team Lead,PhD,79410.87,6,0,6,47.0,Yes,2.9,4,2,19,Single,Yes
+EMP-1394,40,Male,Operations,Director,PhD,138380.74,5,2,2,52.0,Yes,4.0,4,1,45,Single,No
+EMP-1395,42,Female,HR,Associate,Bachelor's,33928.97,9,3,5,45.9,No,2.2,3,4,26,Married,No
+EMP-1396,37,Other,Sales,Team Lead,Bachelor's,60165.36,2,0,7,38.4,Yes,4.1,4,3,33,Single,No
+EMP-1397,42,Male,Operations,Analyst,Bachelor's,57000.1,13,4,7,59.7,No,3.4,3,2,42,Married,Yes
+EMP-1398,38,Male,Finance,Manager,PhD,92598.37,2,1,7,53.0,Yes,2.1,4,3,24,Divorced,No
+EMP-1399,40,Female,Finance,Manager,Master's,94643.28,3,3,10,50.2,Yes,3.4,4,3,16,Divorced,No
+EMP-1400,30,Male,Engineering,Associate,Bachelor's,39002.27,10,5,6,47.0,Yes,1.0,3,4,39,Single,No
+EMP-1401,35,Female,Engineering,Senior Engineer,High School,63457.13,3,1,5,52.8,Yes,3.0,2,1,42,Married,No
+EMP-1402,38,Male,Marketing,Associate,Master's,41821.61,5,2,6,38.2,Yes,2.2,3,3,15,Married,No
+EMP-1403,43,Male,Sales,Team Lead,High School,60183.51,4,2,4,43.2,No,4.2,4,1,42,Married,No
+EMP-1404,33,Female,Marketing,Analyst,High School,39781.79,1,0,4,38.1,No,4.4,3,3,50,Married,Yes
+EMP-1405,40,Female,Finance,Team Lead,Bachelor's,73017.16,1,1,7,38.2,No,3.5,1,1,10,Single,No
+EMP-1406,34,Female,Engineering,Director,Bachelor's,129612.65,6,2,4,35.5,No,1.1,3,2,43,Married,No
+EMP-1407,35,Female,Engineering,Senior Engineer,Master's,71527.06,4,2,8,53.9,Yes,1.3,3,2,5,Divorced,No
+EMP-1408,43,Female,Sales,Associate,Master's,38541.55,7,0,8,40.7,No,4.5,3,3,45,Married,No
+EMP-1409,22,Female,Engineering,Executive,Bachelor's,150000.0,0,0,10,55.8,Yes,2.1,3,3,45,Married,No
+EMP-1410,26,Female,Marketing,Analyst,Bachelor's,42975.28,4,4,2,57.6,Yes,3.4,4,1,43,Married,No
+EMP-1411,24,Female,Marketing,Analyst,Master's,48978.54,1,0,4,39.2,No,2.5,4,5,18,Married,No
+EMP-1412,22,Female,Sales,Director,Bachelor's,126270.22,3,0,8,52.7,Yes,2.2,5,2,47,Single,Yes
+EMP-1413,31,Male,Marketing,Executive,Bachelor's,143055.17,2,0,5,46.5,Yes,3.6,2,2,28,Married,No
+EMP-1414,42,Male,HR,Manager,Bachelor's,89073.05,1,0,7,58.0,No,4.0,3,1,4,Single,No
+EMP-1415,34,Female,Marketing,Manager,Master's,95310.66,0,0,8,47.1,Yes,2.0,2,1,43,Married,Yes
+EMP-1416,38,Female,Engineering,Director,PhD,132218.05,1,1,9,44.5,No,1.1,4,3,46,Married,No
+EMP-1417,45,Female,Marketing,Team Lead,Master's,71089.07,10,1,3,42.4,No,4.5,1,3,16,Married,No
+EMP-1418,47,Male,Marketing,Team Lead,High School,57766.66,1,0,3,57.6,Yes,2.8,3,1,13,Married,No
+EMP-1419,35,Female,Engineering,Associate,Master's,36930.4,4,2,5,40.7,Yes,1.6,4,1,29,Divorced,Yes
+EMP-1420,47,Male,HR,Manager,Bachelor's,94791.08,13,5,6,55.7,Yes,1.8,3,2,18,Single,Yes
+EMP-1421,37,Female,Operations,Team Lead,Master's,86008.98,11,10,10,39.9,No,1.8,4,4,32,Single,No
+EMP-1422,29,Female,Engineering,Analyst,Bachelor's,43938.66,2,2,1,51.1,Yes,1.9,4,1,19,Single,No
+EMP-1423,31,Female,Marketing,Manager,Bachelor's,96573.27,2,1,3,46.3,Yes,1.0,4,1,11,Married,No
+EMP-1424,24,Female,Operations,Team Lead,Bachelor's,61742.75,0,0,10,37.6,Yes,1.0,3,2,12,Divorced,Yes
+EMP-1425,29,Male,Operations,Analyst,Bachelor's,48652.58,8,3,7,38.1,No,4.4,3,4,33,Single,No
+EMP-1426,33,Male,Sales,Analyst,Bachelor's,43242.51,10,6,7,42.0,No,2.4,4,3,22,Divorced,No
+EMP-1427,42,Female,Marketing,Executive,Master's,150000.0,7,4,3,54.2,Yes,3.5,2,1,1,Single,No
+EMP-1428,50,Female,Operations,Analyst,Master's,50136.05,3,1,7,53.2,No,2.9,1,4,26,Married,No
+EMP-1429,25,Female,HR,Associate,Master's,29902.06,1,0,4,40.1,No,1.3,3,2,40,Single,No
+EMP-1430,39,Male,Engineering,Senior Engineer,Bachelor's,93351.25,14,10,8,46.9,No,2.4,3,4,8,Married,No
+EMP-1431,28,Male,Engineering,Senior Engineer,High School,66681.17,2,1,1,37.4,No,1.6,1,1,13,Married,No
+EMP-1432,40,Male,Finance,Team Lead,Bachelor's,55992.38,0,0,3,52.9,No,3.8,4,1,18,Married,No
+EMP-1433,35,Male,Sales,Analyst,Bachelor's,47277.77,0,0,7,54.8,Yes,4.0,4,1,47,Single,No
+EMP-1434,22,Male,Engineering,Senior Engineer,Bachelor's,61190.34,5,2,7,57.3,Yes,3.3,2,3,18,Married,No
+EMP-1435,43,Other,Sales,Executive,Master's,150000.0,30,8,9,57.1,No,4.1,4,2,42,Divorced,No
+EMP-1436,31,Female,Finance,Analyst,PhD,56845.02,8,2,9,43.4,No,4.4,5,1,34,Married,No
+EMP-1437,32,Male,Sales,Associate,High School,34929.32,6,1,1,41.4,No,4.1,3,5,50,Married,No
+EMP-1438,27,Male,Operations,Senior Engineer,Master's,103016.67,8,8,1,57.4,Yes,2.1,4,1,30,Married,Yes
+EMP-1439,31,Male,Marketing,Manager,Master's,92208.36,3,3,4,38.7,No,3.9,3,2,16,Single,No
+EMP-1440,39,Female,Operations,Manager,Bachelor's,89384.74,3,1,10,36.5,No,2.7,5,1,36,Divorced,Yes
+EMP-1441,34,Male,Operations,Senior Engineer,Master's,100858.94,4,4,5,42.9,No,1.3,1,4,5,Single,No
+EMP-1442,39,Female,Engineering,Director,Bachelor's,124897.31,9,3,9,54.0,Yes,2.5,3,1,40,Married,No
+EMP-1443,39,Female,Marketing,Analyst,High School,42743.18,2,2,1,52.4,Yes,2.6,5,1,12,Single,No
+EMP-1444,47,Male,Engineering,Team Lead,PhD,65388.68,1,0,10,59.7,Yes,1.4,4,2,34,Single,No
+EMP-1445,33,Female,Operations,Manager,Master's,124406.67,13,7,1,44.0,No,4.8,3,1,30,Married,No
+EMP-1446,24,Other,Engineering,Senior Engineer,Bachelor's,69444.43,2,0,9,41.9,No,1.2,4,3,13,Married,No
+EMP-1447,45,Male,Marketing,Director,Bachelor's,114048.88,1,0,9,44.5,No,3.9,5,4,25,Divorced,No
+EMP-1448,33,Male,Finance,Manager,PhD,106826.88,5,4,3,54.6,Yes,4.1,3,3,26,Divorced,No
+EMP-1449,45,Other,Engineering,Associate,Bachelor's,38209.09,10,2,4,40.4,No,2.2,3,4,39,Single,No
+EMP-1450,39,Female,Finance,Associate,PhD,39338.96,3,1,6,58.7,Yes,4.0,3,1,24,Single,No
+EMP-1451,35,Female,Engineering,Manager,Master's,104122.12,9,9,8,47.8,No,4.3,5,1,3,Married,No
+EMP-1452,39,Female,Sales,Associate,Bachelor's,37639.4,0,0,2,54.6,Yes,3.0,3,1,4,Married,No
+EMP-1453,52,Male,Sales,Senior Engineer,Master's,92233.03,0,0,3,55.7,No,4.8,3,2,34,Married,No
+EMP-1454,53,Female,Sales,Manager,Master's,92732.23,3,3,8,47.0,No,3.6,2,3,45,Divorced,No
+EMP-1455,37,Male,HR,Associate,Master's,35746.71,2,1,9,53.5,Yes,2.1,2,1,22,Married,Yes
+EMP-1456,37,Male,Operations,Associate,Bachelor's,33642.7,6,0,2,44.1,Yes,2.7,4,3,5,Single,No
+EMP-1457,45,Female,Sales,Team Lead,High School,75839.56,9,2,9,55.3,Yes,1.2,3,3,9,Married,No
+EMP-1458,29,Other,HR,Associate,Bachelor's,36340.74,6,4,9,55.6,Yes,1.4,1,1,49,Married,No
+EMP-1459,39,Female,Operations,Team Lead,Master's,74044.05,2,1,9,49.2,Yes,1.0,2,1,36,Married,Yes
+EMP-1460,36,Male,Finance,Associate,Master's,38576.48,1,1,3,40.5,No,2.5,1,3,2,Single,No
+EMP-1461,39,Male,Engineering,Senior Engineer,Master's,93157.13,1,1,7,59.3,Yes,3.1,1,1,13,Married,No
+EMP-1462,29,Other,Operations,Team Lead,Master's,74395.96,10,6,2,58.7,Yes,4.1,3,1,37,Married,No
+EMP-1463,23,Other,Engineering,Senior Engineer,High School,61020.54,2,1,2,50.5,No,4.9,4,2,32,Single,No
+EMP-1464,22,Female,HR,Executive,High School,150000.0,16,5,1,59.6,Yes,1.0,1,1,15,Married,Yes
+EMP-1465,27,Female,HR,Director,Master's,138322.12,5,1,5,47.6,No,3.3,3,3,35,Married,No
+EMP-1466,32,Male,Finance,Analyst,Bachelor's,51078.85,8,5,8,44.4,No,3.3,4,2,46,Married,No
+EMP-1467,34,Male,Engineering,Manager,Master's,104084.99,2,2,2,46.5,Yes,1.0,4,1,46,Married,No
+EMP-1468,51,Male,Engineering,Manager,Bachelor's,87176.3,1,1,2,36.1,No,3.3,4,5,42,Divorced,No
+EMP-1469,45,Male,Finance,Executive,Bachelor's,148578.15,0,0,3,48.7,Yes,1.2,5,2,18,Single,No
+EMP-1470,28,Male,Engineering,Analyst,PhD,57002.76,5,4,2,51.7,No,4.8,3,1,2,Single,Yes
+EMP-1471,39,Female,Sales,Manager,Bachelor's,88452.86,0,0,9,37.7,No,2.0,1,5,20,Married,No
+EMP-1472,33,Male,Marketing,Director,High School,105774.3,1,1,2,41.4,No,4.3,1,1,2,Married,No
+EMP-1473,34,Male,Marketing,Analyst,Master's,53763.55,10,4,3,53.0,Yes,3.7,2,1,29,Single,No
+EMP-1474,37,Female,Engineering,Manager,Master's,89849.01,1,0,4,54.8,Yes,2.8,5,2,31,Married,No
+EMP-1475,41,Male,Sales,Associate,PhD,38907.5,2,2,3,59.6,No,1.9,4,2,18,Single,No
+EMP-1476,33,Male,Operations,Team Lead,PhD,75209.14,2,1,10,41.3,No,2.0,4,5,8,Single,No
+EMP-1477,45,Female,Sales,Analyst,Master's,47637.21,2,2,3,56.0,Yes,3.9,5,1,27,Married,No
+EMP-1478,27,Male,Engineering,Executive,High School,126047.41,1,1,5,39.3,No,1.3,4,4,1,Married,No
+EMP-1479,36,Female,Engineering,Analyst,Bachelor's,47458.35,3,0,6,38.3,No,1.5,3,3,14,Divorced,No
+EMP-1480,57,Other,Sales,Associate,Master's,41530.61,9,3,3,53.2,Yes,3.7,5,1,49,Married,No
+EMP-1481,38,Male,Operations,Senior Engineer,Bachelor's,94604.65,20,3,5,46.1,No,4.1,3,3,46,Married,No
+EMP-1482,47,Other,Sales,Executive,PhD,150000.0,5,1,2,54.8,Yes,2.7,2,3,32,Married,No
+EMP-1483,37,Other,Engineering,Team Lead,Master's,71284.84,7,6,5,42.1,No,1.6,4,4,19,Married,No
+EMP-1484,41,Female,HR,Team Lead,Bachelor's,53200.47,1,1,1,40.3,No,3.0,5,2,1,Single,No
+EMP-1485,36,Female,Engineering,Senior Engineer,Bachelor's,71876.56,1,1,5,48.7,Yes,3.1,4,2,33,Married,No
+EMP-1486,35,Female,Engineering,Manager,Master's,86632.76,3,0,4,37.9,No,2.3,3,3,25,Married,No
+EMP-1487,30,Female,Operations,Associate,High School,37043.57,15,4,4,42.0,No,1.8,5,4,36,Married,No
+EMP-1488,39,Female,Marketing,Analyst,Bachelor's,47085.47,9,2,2,39.2,No,1.0,3,3,8,Married,No
+EMP-1489,29,Male,Engineering,Director,Master's,103322.95,2,0,10,43.0,No,3.5,4,3,42,Married,No
+EMP-1490,41,Other,Sales,Team Lead,Bachelor's,72472.85,1,1,1,54.1,Yes,1.0,3,1,41,Married,No
+EMP-1491,45,Female,Engineering,Senior Engineer,Bachelor's,73334.15,3,3,2,38.0,No,4.5,3,2,22,Single,Yes
+EMP-1492,39,Female,Engineering,Senior Engineer,Master's,90945.97,3,0,2,50.3,Yes,1.4,3,1,2,Married,No
+EMP-1493,34,Male,HR,Executive,Master's,146204.82,4,3,10,49.6,No,1.6,5,5,24,Divorced,No
+EMP-1494,40,Male,HR,Associate,Bachelor's,39169.76,3,0,4,48.5,No,4.8,5,5,19,Single,No
+EMP-1495,34,Female,Marketing,Associate,PhD,37531.1,4,4,5,47.1,No,4.9,3,1,39,Married,No
+EMP-1496,43,Female,Operations,Associate,PhD,46074.84,11,0,8,51.6,Yes,2.9,3,1,12,Single,No
+EMP-1497,22,Male,Engineering,Senior Engineer,Bachelor's,67209.67,2,1,1,56.3,Yes,4.1,2,2,1,Single,No
+EMP-1498,33,Male,Operations,Analyst,Bachelor's,53951.94,1,0,1,39.1,Yes,1.0,4,1,50,Divorced,No
+EMP-1499,22,Male,HR,Senior Engineer,Master's,85617.96,8,3,2,55.4,No,2.8,4,3,13,Married,No
+EMP-1500,24,Female,Engineering,Analyst,Bachelor's,50434.86,5,2,7,36.5,Yes,1.1,4,2,4,Married,No
+EMP-1501,47,Male,Finance,Associate,Master's,37857.13,1,1,10,47.1,Yes,1.7,1,1,43,Single,No
+EMP-1502,43,Other,Engineering,Team Lead,Master's,67841.24,2,2,7,47.8,Yes,3.1,2,2,36,Divorced,No
+EMP-1503,30,Male,HR,Manager,Bachelor's,92360.72,5,5,9,39.9,Yes,3.2,5,2,14,Single,No
+EMP-1504,24,Male,Marketing,Team Lead,Master's,83055.25,9,3,9,37.2,No,1.0,4,4,24,Married,No
+EMP-1505,22,Male,Engineering,Team Lead,Bachelor's,79030.3,16,10,3,36.9,No,2.6,3,5,35,Single,No
+EMP-1506,32,Female,Operations,Team Lead,PhD,76775.0,4,2,2,35.9,Yes,4.3,3,4,41,Single,No
+EMP-1507,55,Male,Engineering,Manager,Bachelor's,88505.36,2,0,2,49.3,No,3.4,3,3,19,Married,No
+EMP-1508,39,Female,Finance,Team Lead,PhD,84927.64,2,1,8,38.9,No,2.2,2,4,11,Single,No
+EMP-1509,32,Other,Engineering,Team Lead,High School,56356.0,4,3,7,55.2,Yes,1.3,1,2,1,Married,No
+EMP-1510,40,Male,Engineering,Team Lead,Master's,60427.34,5,1,9,57.5,No,2.3,4,4,43,Single,No
+EMP-1511,24,Female,Sales,Associate,PhD,36112.6,1,1,6,42.3,No,2.8,3,4,41,Married,No
+EMP-1512,34,Male,Operations,Manager,Bachelor's,80299.22,4,2,10,39.1,Yes,1.8,3,1,48,Married,Yes
+EMP-1513,37,Male,Engineering,Team Lead,High School,61091.23,13,1,9,45.2,Yes,1.8,4,1,38,Married,Yes
+EMP-1514,35,Male,Operations,Analyst,Master's,45419.1,1,0,9,57.0,No,2.9,3,1,11,Single,No
+EMP-1515,42,Male,Engineering,Associate,Master's,38087.96,4,2,9,45.0,No,3.1,3,1,13,Married,No
+EMP-1516,39,Female,Sales,Analyst,Bachelor's,46890.1,3,1,2,37.7,No,1.1,5,2,13,Divorced,No
+EMP-1517,41,Female,Sales,Associate,Bachelor's,36651.05,6,6,8,59.6,Yes,1.0,3,1,23,Single,Yes
+EMP-1518,30,Female,Engineering,Associate,Master's,35422.16,3,1,10,47.5,No,2.5,4,4,49,Single,No
+EMP-1519,43,Female,Operations,Associate,Bachelor's,38295.69,5,3,3,43.6,No,4.5,3,2,35,Married,No
+EMP-1520,49,Female,Sales,Analyst,Master's,50803.1,1,0,9,57.3,Yes,3.4,3,1,22,Single,Yes
+EMP-1521,28,Male,Marketing,Associate,Bachelor's,38847.51,3,1,4,58.2,No,1.4,2,1,37,Married,No
+EMP-1522,29,Male,HR,Director,Bachelor's,119213.27,1,1,3,47.4,No,3.0,4,1,42,Married,No
+EMP-1523,47,Male,HR,Analyst,Master's,48057.53,2,2,8,42.7,Yes,2.6,3,2,21,Single,Yes
+EMP-1524,34,Female,Marketing,Team Lead,Bachelor's,67820.84,1,1,2,47.1,No,2.9,4,3,43,Married,No
+EMP-1525,47,Other,Operations,Manager,PhD,125040.63,17,0,5,40.5,No,3.8,2,2,1,Married,No
+EMP-1526,32,Male,Marketing,Manager,Master's,97181.63,1,1,10,47.0,No,5.0,4,2,16,Married,No
+EMP-1527,48,Female,HR,Executive,Bachelor's,143795.97,2,0,2,40.7,No,1.4,1,3,9,Divorced,No
+EMP-1528,37,Female,Marketing,Executive,Bachelor's,132647.49,1,0,2,50.6,Yes,2.0,3,2,9,Single,Yes
+EMP-1529,38,Female,Marketing,Associate,Bachelor's,34270.81,2,0,10,54.0,Yes,2.0,4,1,11,Married,No
+EMP-1530,49,Female,Sales,Director,Master's,120519.89,1,1,8,59.2,Yes,2.0,2,3,19,Married,Yes
+EMP-1531,33,Female,Marketing,Manager,Master's,100211.25,13,6,5,56.1,No,1.7,3,1,37,Single,No
+EMP-1532,28,Female,Sales,Associate,Master's,30270.63,1,1,5,37.2,No,3.6,4,1,30,Married,No
+EMP-1533,32,Female,Finance,Analyst,Bachelor's,44674.64,5,5,10,40.3,No,1.2,4,1,23,Single,No
+EMP-1534,40,Male,Operations,Team Lead,Bachelor's,66995.72,6,0,8,48.3,Yes,2.5,4,2,25,Married,No
+EMP-1535,23,Other,Operations,Associate,High School,35539.89,6,0,10,41.4,No,3.7,2,3,10,Single,Yes
+EMP-1536,41,Male,Finance,Associate,Master's,40590.0,4,4,1,35.4,No,2.3,2,1,37,Married,No
+EMP-1537,32,Female,Marketing,Associate,Bachelor's,38068.95,12,6,6,53.9,Yes,3.7,3,1,38,Married,No
+EMP-1538,45,Male,Marketing,Manager,Bachelor's,82691.48,4,3,8,43.9,No,4.3,3,2,28,Married,No
+EMP-1539,22,Male,Engineering,Senior Engineer,Bachelor's,74699.39,4,2,1,36.7,No,3.2,3,5,41,Divorced,No
+EMP-1540,30,Male,Sales,Executive,Bachelor's,130831.73,5,0,6,47.7,Yes,4.3,3,1,41,Married,No
+EMP-1541,23,Male,Engineering,Analyst,Master's,41073.69,2,1,1,59.4,Yes,3.2,3,3,41,Married,No
+EMP-1542,29,Male,Engineering,Senior Engineer,Master's,75535.92,7,7,10,52.0,Yes,1.0,4,1,6,Married,No
+EMP-1543,38,Male,Operations,Analyst,PhD,64645.19,8,1,7,39.0,No,3.4,1,5,5,Divorced,No
+EMP-1544,35,Male,Operations,Team Lead,Bachelor's,79912.65,10,1,2,47.9,Yes,2.6,3,2,22,Married,Yes
+EMP-1545,34,Male,HR,Manager,Master's,102585.5,5,2,6,57.5,No,3.6,3,1,3,Divorced,No
+EMP-1546,35,Female,Engineering,Manager,High School,79130.15,4,2,2,36.4,No,4.8,3,4,1,Single,No
+EMP-1547,38,Female,Marketing,Analyst,Master's,61843.89,30,6,9,50.9,Yes,2.0,4,1,7,Married,No
+EMP-1548,28,Female,Sales,Executive,Master's,150000.0,7,1,2,53.0,Yes,1.0,3,3,7,Married,No
+EMP-1549,42,Male,Finance,Manager,Bachelor's,108605.36,17,10,7,52.6,Yes,2.3,3,1,17,Single,Yes
+EMP-1550,41,Male,Operations,Associate,Master's,42996.87,8,1,1,38.8,No,4.2,5,1,17,Single,Yes
+EMP-1551,39,Other,Sales,Team Lead,Bachelor's,76281.45,13,2,2,57.7,Yes,1.2,3,1,41,Divorced,No
+EMP-1552,40,Male,Engineering,Team Lead,Bachelor's,71330.88,5,5,10,43.1,No,1.1,3,4,46,Married,No
+EMP-1553,38,Male,Engineering,Manager,Bachelor's,98183.19,2,1,4,36.3,No,2.2,4,2,9,Single,No
+EMP-1554,52,Other,Engineering,Analyst,High School,38703.93,0,0,2,37.1,Yes,2.4,4,3,20,Married,Yes
+EMP-1555,35,Other,Sales,Analyst,Master's,62298.74,4,2,7,46.4,No,1.3,5,1,26,Married,Yes
+EMP-1556,34,Male,Engineering,Manager,Master's,75456.45,0,0,3,36.0,No,2.5,5,1,14,Married,No
+EMP-1557,30,Female,Engineering,Senior Engineer,Master's,84114.84,10,4,6,54.5,Yes,1.0,4,2,17,Divorced,No
+EMP-1558,28,Male,Engineering,Senior Engineer,Master's,82814.16,3,1,9,56.6,Yes,1.5,3,1,34,Divorced,Yes
+EMP-1559,26,Female,Engineering,Executive,Master's,150000.0,8,4,7,35.3,No,1.6,3,3,22,Married,No
+EMP-1560,29,Male,Marketing,Team Lead,Bachelor's,61409.51,2,2,3,55.3,No,1.4,2,1,36,Married,No
+EMP-1561,35,Male,Engineering,Analyst,Bachelor's,46691.67,7,0,3,59.5,Yes,3.3,4,1,4,Married,Yes
+EMP-1562,39,Female,Operations,Associate,Bachelor's,45219.27,11,9,3,35.8,No,1.6,5,1,25,Divorced,No
+EMP-1563,36,Male,Engineering,Team Lead,PhD,76597.98,8,1,7,53.1,Yes,1.0,1,1,16,Single,No
+EMP-1564,30,Female,Engineering,Senior Engineer,PhD,79937.3,2,2,7,60.0,Yes,2.3,5,1,15,Single,No
+EMP-1565,43,Male,Engineering,Senior Engineer,Master's,97848.58,7,7,6,54.9,Yes,1.0,4,1,24,Divorced,No
+EMP-1566,42,Female,Marketing,Analyst,Bachelor's,50513.19,5,5,4,47.6,Yes,1.0,3,1,16,Divorced,No
+EMP-1567,35,Female,Engineering,Team Lead,Bachelor's,67772.38,2,1,1,57.1,Yes,2.1,5,1,38,Married,No
+EMP-1568,31,Male,HR,Manager,Master's,94152.58,2,2,9,52.7,Yes,1.5,4,3,10,Married,No
+EMP-1569,40,Female,Engineering,Senior Engineer,Bachelor's,64583.8,1,1,7,42.3,No,3.2,3,1,45,Married,No
+EMP-1570,38,Male,Operations,Associate,Master's,40049.29,7,5,7,40.6,No,5.0,3,5,19,Married,No
+EMP-1571,24,Male,Engineering,Manager,Bachelor's,82298.47,9,8,2,47.8,Yes,1.8,2,2,27,Single,No
+EMP-1572,35,Male,Sales,Manager,Bachelor's,90406.67,5,2,3,44.3,Yes,2.6,2,2,9,Single,Yes
+EMP-1573,38,Female,Operations,Manager,Master's,116013.01,15,9,4,43.2,No,4.7,4,4,46,Married,No
+EMP-1574,29,Female,Engineering,Senior Engineer,PhD,93146.38,1,1,6,39.4,No,2.9,5,4,33,Married,No
+EMP-1575,38,Other,Engineering,Team Lead,Master's,69442.92,4,3,8,56.1,Yes,3.1,4,3,39,Married,No
+EMP-1576,24,Female,Finance,Director,Bachelor's,116583.19,0,0,9,52.6,Yes,2.0,4,3,45,Single,Yes
+EMP-1577,47,Other,Engineering,Manager,Bachelor's,84570.75,7,0,6,43.3,No,3.5,4,1,50,Divorced,No
+EMP-1578,46,Male,Engineering,Senior Engineer,PhD,96496.49,4,1,4,40.9,No,4.7,1,3,13,Married,No
+EMP-1579,34,Other,Sales,Team Lead,Master's,81039.46,11,1,5,38.2,No,1.0,4,3,17,Divorced,Yes
+EMP-1580,39,Female,Engineering,Analyst,Bachelor's,44271.83,5,3,8,37.8,No,4.6,4,3,13,Single,No
+EMP-1581,22,Male,Operations,Associate,Master's,41467.83,7,3,4,50.6,Yes,2.2,3,3,26,Married,No
+EMP-1582,27,Female,Marketing,Associate,Bachelor's,40720.24,9,8,5,37.7,Yes,2.4,3,3,45,Married,No
+EMP-1583,34,Male,HR,Executive,High School,126188.98,3,1,8,59.0,Yes,2.1,4,1,37,Married,No
+EMP-1584,27,Male,Engineering,Analyst,Master's,48204.67,5,0,6,42.0,No,2.0,5,5,29,Single,No
+EMP-1585,42,Male,Marketing,Executive,Master's,150000.0,8,5,5,35.6,No,1.3,5,4,24,Single,No
+EMP-1586,52,Male,Marketing,Manager,Bachelor's,88730.56,2,0,8,56.4,No,4.8,3,3,37,Single,No
+EMP-1587,27,Male,Engineering,Manager,Bachelor's,80487.86,3,3,3,44.2,No,3.5,4,4,24,Married,No
+EMP-1588,29,Female,Operations,Associate,PhD,36931.84,2,0,1,43.6,No,4.5,3,1,45,Married,No
+EMP-1589,38,Female,HR,Manager,Master's,97974.69,3,1,8,38.0,No,2.2,5,5,28,Single,No
+EMP-1590,49,Female,Finance,Analyst,Master's,51928.96,1,1,5,51.5,No,2.1,4,3,34,Married,No
+EMP-1591,26,Male,Engineering,Analyst,High School,48285.6,2,1,4,44.0,No,2.3,5,1,34,Single,No
+EMP-1592,38,Male,Engineering,Senior Engineer,PhD,89000.31,0,0,1,55.6,Yes,1.0,5,1,38,Married,Yes
+EMP-1593,51,Male,Marketing,Associate,Master's,33493.38,2,2,10,50.8,Yes,2.0,3,1,24,Married,No
+EMP-1594,23,Female,Finance,Associate,Bachelor's,40688.13,4,2,8,57.0,Yes,3.8,5,1,20,Single,Yes
+EMP-1595,26,Male,Sales,Associate,Bachelor's,36858.72,2,2,3,50.6,Yes,4.0,4,2,21,Single,No
+EMP-1596,33,Female,Engineering,Senior Engineer,Master's,70398.64,5,4,7,54.5,No,3.0,3,2,47,Single,No
+EMP-1597,32,Female,Finance,Executive,Master's,142040.89,5,3,5,52.4,Yes,1.3,1,1,6,Single,No
+EMP-1598,43,Female,Engineering,Senior Engineer,Master's,79428.64,4,0,4,46.6,No,3.4,4,4,36,Married,No
+EMP-1599,38,Female,Sales,Analyst,PhD,55486.49,0,0,4,52.2,Yes,2.8,3,1,49,Single,No
+EMP-1600,22,Male,Marketing,Associate,Master's,34393.66,12,10,1,51.6,Yes,3.2,3,1,4,Single,No
+EMP-1601,40,Female,Engineering,Analyst,Bachelor's,44888.15,2,0,10,35.2,No,3.1,4,5,31,Divorced,No
+EMP-1602,31,Female,Engineering,Team Lead,Bachelor's,69101.3,5,2,10,52.5,Yes,1.0,1,1,30,Divorced,Yes
+EMP-1603,46,Female,Engineering,Senior Engineer,Master's,67552.96,8,5,9,41.6,No,1.3,3,2,17,Single,Yes
+EMP-1604,31,Female,Operations,Team Lead,Bachelor's,65076.03,1,1,4,48.5,Yes,3.9,4,3,5,Married,No
+EMP-1605,31,Female,Sales,Manager,Bachelor's,89545.15,1,1,10,37.8,No,4.0,1,4,34,Married,No
+EMP-1606,40,Other,Marketing,Associate,Master's,33561.64,0,0,3,35.6,No,4.8,4,1,27,Married,No
+EMP-1607,42,Male,Operations,Director,Bachelor's,114828.73,10,4,9,35.4,No,2.4,3,1,38,Married,No
+EMP-1608,40,Female,Marketing,Senior Engineer,Master's,73708.58,1,0,2,39.0,No,3.1,5,5,5,Single,Yes
+EMP-1609,23,Female,HR,Associate,Bachelor's,34118.54,21,10,4,35.5,No,2.3,3,3,47,Single,No
+EMP-1610,40,Male,HR,Analyst,Bachelor's,44137.37,2,1,6,38.3,Yes,3.8,4,2,32,Married,No
+EMP-1611,28,Other,Sales,Associate,Bachelor's,37105.61,7,6,10,49.0,No,2.2,4,3,23,Divorced,No
+EMP-1612,38,Male,HR,Associate,Master's,32488.31,0,0,3,45.0,No,3.8,5,3,23,Divorced,No
+EMP-1613,25,Female,Operations,Team Lead,Master's,77534.34,6,0,5,59.5,Yes,1.0,4,2,48,Single,No
+EMP-1614,40,Male,Finance,Associate,Bachelor's,33769.84,1,1,9,55.2,No,1.4,3,1,28,Married,No
+EMP-1615,30,Male,Sales,Analyst,Bachelor's,44915.26,0,0,5,38.7,No,1.6,1,2,30,Single,Yes
+EMP-1616,26,Female,Sales,Associate,Bachelor's,32417.81,1,1,7,45.4,No,3.1,4,5,33,Married,No
+EMP-1617,42,Male,Operations,Analyst,Master's,55430.08,6,4,5,45.8,Yes,3.0,4,1,16,Divorced,No
+EMP-1618,38,Male,Engineering,Executive,PhD,150000.0,1,0,1,44.1,Yes,4.1,4,4,13,Married,No
+EMP-1619,31,Male,Finance,Director,Master's,119570.46,2,2,3,47.4,No,3.5,2,3,38,Single,No
+EMP-1620,48,Male,Engineering,Senior Engineer,Bachelor's,84955.47,8,4,6,51.7,Yes,1.7,4,1,16,Married,Yes
+EMP-1621,32,Female,Marketing,Team Lead,Master's,73229.74,3,2,1,51.0,Yes,3.1,3,1,2,Married,Yes
+EMP-1622,36,Female,Finance,Manager,Bachelor's,85257.95,0,0,3,43.9,No,1.3,4,4,25,Married,No
+EMP-1623,38,Male,Sales,Team Lead,High School,63314.72,1,1,10,52.6,Yes,3.0,4,1,1,Married,No
+EMP-1624,31,Female,Engineering,Manager,Bachelor's,78870.75,1,1,1,42.2,No,4.0,3,4,29,Divorced,No
+EMP-1625,40,Male,Finance,Director,Bachelor's,111073.44,3,2,3,55.9,Yes,2.4,4,1,33,Single,No
+EMP-1626,32,Female,Sales,Associate,Bachelor's,38840.78,17,10,7,59.1,Yes,1.0,3,1,47,Single,No
+EMP-1627,33,Male,Sales,Analyst,Master's,53069.37,3,0,6,42.4,No,1.8,4,4,31,Married,Yes
+EMP-1628,47,Male,HR,Senior Engineer,Bachelor's,74137.86,4,2,3,54.6,Yes,1.7,4,1,18,Single,Yes
+EMP-1629,28,Male,Sales,Associate,Master's,35526.07,3,2,1,55.3,No,4.8,3,3,33,Single,No
+EMP-1630,22,Female,Marketing,Analyst,PhD,59802.47,1,1,9,47.3,Yes,2.5,3,4,30,Married,No
+EMP-1631,49,Female,Engineering,Team Lead,Master's,78954.13,3,0,6,37.2,No,3.0,4,5,38,Single,No
+EMP-1632,56,Male,Sales,Team Lead,Bachelor's,85418.23,30,8,6,54.7,Yes,1.7,4,1,47,Single,No
+EMP-1633,33,Female,Operations,Manager,Master's,86166.26,5,1,1,45.2,No,4.1,1,3,5,Single,No
+EMP-1634,22,Female,Engineering,Team Lead,High School,71731.41,9,4,3,40.2,Yes,1.5,3,4,36,Single,No
+EMP-1635,34,Male,Sales,Team Lead,Bachelor's,66545.04,4,3,1,50.7,Yes,1.0,3,3,41,Divorced,No
+EMP-1636,34,Female,Marketing,Analyst,Bachelor's,58443.01,19,2,10,45.9,Yes,2.4,4,1,17,Divorced,No
+EMP-1637,34,Female,Operations,Team Lead,Master's,67552.72,1,0,8,37.2,No,2.3,2,3,21,Single,Yes
+EMP-1638,27,Male,HR,Team Lead,Master's,63627.55,2,2,6,59.6,Yes,1.3,4,3,21,Married,No
+EMP-1639,41,Female,Finance,Director,Master's,122994.41,4,1,7,41.1,No,2.8,4,1,19,Married,Yes
+EMP-1640,40,Male,Engineering,Senior Engineer,Master's,83462.41,1,1,2,47.8,No,2.0,4,5,44,Divorced,No
+EMP-1641,24,Female,Sales,Associate,Bachelor's,32772.99,2,2,10,51.7,Yes,4.1,5,2,17,Married,No
+EMP-1642,42,Male,Operations,Manager,Master's,105688.34,9,3,6,37.9,No,4.4,3,1,22,Single,No
+EMP-1643,52,Female,Operations,Analyst,Master's,53096.71,7,5,6,53.5,Yes,3.9,4,2,30,Married,No
+EMP-1644,37,Male,HR,Associate,Bachelor's,31569.26,3,0,10,51.2,No,4.9,4,2,13,Divorced,No
+EMP-1645,33,Female,Sales,Executive,PhD,150000.0,1,1,1,47.3,No,2.3,4,2,35,Married,Yes
+EMP-1646,35,Other,Sales,Manager,Master's,95691.19,1,0,5,48.2,No,2.5,4,4,27,Married,No
+EMP-1647,41,Male,Engineering,Analyst,Bachelor's,49228.63,6,6,1,58.9,No,3.8,2,3,9,Single,No
+EMP-1648,22,Female,Operations,Associate,High School,31802.03,1,1,5,57.8,Yes,1.0,5,3,10,Married,No
+EMP-1649,37,Other,Finance,Analyst,Bachelor's,42777.04,9,3,3,37.8,No,5.0,2,3,2,Divorced,Yes
+EMP-1650,33,Female,Sales,Team Lead,Master's,70052.59,7,6,5,44.2,No,1.0,5,1,30,Married,Yes
+EMP-1651,51,Male,Engineering,Analyst,Bachelor's,44417.49,10,6,8,47.9,No,3.1,3,5,41,Married,No
+EMP-1652,35,Female,Sales,Associate,Bachelor's,35328.92,4,3,3,58.0,Yes,2.9,3,1,50,Married,No
+EMP-1653,49,Male,Engineering,Analyst,Master's,50729.05,2,1,1,55.4,Yes,3.8,5,2,33,Married,Yes
+EMP-1654,27,Male,Marketing,Analyst,Master's,50727.16,3,0,2,44.7,No,3.6,4,4,49,Married,No
+EMP-1655,41,Female,HR,Associate,Master's,41167.08,3,2,8,57.2,No,3.4,4,1,50,Married,No
+EMP-1656,39,Female,Engineering,Senior Engineer,Master's,84104.24,15,0,6,44.5,No,2.2,3,3,31,Divorced,Yes
+EMP-1657,29,Female,Marketing,Manager,Bachelor's,81858.44,4,1,10,41.8,No,3.4,3,1,19,Married,No
+EMP-1658,37,Male,Operations,Associate,Bachelor's,34093.88,0,0,9,50.2,Yes,3.1,1,2,45,Married,No
+EMP-1659,46,Female,Engineering,Analyst,Master's,51219.13,3,0,2,43.9,Yes,2.1,4,3,32,Married,No
+EMP-1660,33,Female,Sales,Analyst,Bachelor's,39960.23,1,0,8,50.6,Yes,3.5,3,1,41,Single,No
+EMP-1661,22,Male,Sales,Analyst,Master's,52594.67,0,0,1,45.2,No,1.3,3,2,12,Single,No
+EMP-1662,36,Female,Engineering,Senior Engineer,PhD,102052.1,5,0,1,54.9,Yes,1.0,3,3,48,Single,No
+EMP-1663,29,Male,HR,Associate,Master's,38342.46,2,0,8,58.9,Yes,3.9,5,1,22,Married,No
+EMP-1664,33,Male,Marketing,Analyst,Master's,42838.24,1,1,5,41.8,No,2.3,4,1,44,Single,No
+EMP-1665,35,Female,Engineering,Analyst,Master's,58822.15,14,8,10,47.8,Yes,2.8,3,1,19,Married,No
+EMP-1666,22,Other,Engineering,Team Lead,Master's,78983.52,11,10,1,53.1,Yes,1.8,5,3,45,Married,No
+EMP-1667,23,Male,Operations,Associate,Bachelor's,33250.81,2,0,6,39.0,No,4.7,3,5,34,Single,Yes
+EMP-1668,40,Male,Sales,Team Lead,Bachelor's,70036.59,3,3,4,54.9,Yes,1.0,3,1,12,Married,Yes
+EMP-1669,32,Male,Marketing,Team Lead,Bachelor's,66232.44,7,4,10,49.6,No,2.2,3,5,8,Divorced,Yes
+EMP-1670,22,Female,Marketing,Analyst,Master's,56922.66,1,1,7,38.7,No,4.4,5,5,8,Married,No
+EMP-1671,42,Male,Finance,Analyst,Bachelor's,47457.92,1,1,8,56.7,Yes,2.4,3,1,19,Single,Yes
+EMP-1672,38,Female,Marketing,Analyst,Bachelor's,49019.26,6,1,3,45.7,No,3.2,3,1,3,Married,No
+EMP-1673,30,Other,Finance,Analyst,Master's,61583.66,13,8,9,39.4,No,2.6,5,5,28,Married,No
+EMP-1674,25,Male,Marketing,Manager,High School,91761.99,6,4,9,39.9,No,2.6,4,4,33,Married,No
+EMP-1675,43,Female,Sales,Associate,Master's,54796.76,28,4,8,54.6,Yes,4.1,4,1,38,Single,Yes
+EMP-1676,39,Female,Sales,Executive,Bachelor's,133167.17,1,0,5,58.4,Yes,2.3,4,3,47,Married,Yes
+EMP-1677,55,Female,Sales,Analyst,Bachelor's,50429.27,14,2,10,44.5,No,4.7,4,2,41,Married,No
+EMP-1678,39,Male,Sales,Team Lead,High School,56821.2,9,1,7,37.0,No,4.9,2,4,50,Single,Yes
+EMP-1679,39,Male,Engineering,Team Lead,Bachelor's,49417.22,1,1,1,37.5,No,3.2,4,2,31,Married,No
+EMP-1680,35,Male,Sales,Manager,PhD,103307.68,3,2,9,51.4,Yes,2.3,3,1,43,Single,Yes
+EMP-1681,43,Female,Sales,Senior Engineer,PhD,90476.69,7,4,1,44.3,Yes,2.4,2,2,39,Married,Yes
+EMP-1682,41,Female,Engineering,Executive,Master's,150000.0,17,7,7,45.7,Yes,2.9,5,2,42,Married,No
+EMP-1683,46,Male,Engineering,Analyst,Master's,52730.08,1,0,3,43.4,No,3.6,1,5,21,Single,No
+EMP-1684,32,Male,Finance,Analyst,Master's,58272.81,15,2,9,46.6,Yes,1.0,1,1,26,Married,No
+EMP-1685,33,Female,HR,Analyst,Master's,56935.51,2,2,8,51.1,No,4.8,3,4,46,Married,No
+EMP-1686,32,Male,Finance,Analyst,Bachelor's,44501.65,4,4,9,48.5,No,3.6,4,1,23,Married,No
+EMP-1687,42,Male,HR,Manager,High School,72287.14,3,0,7,39.1,No,4.5,5,5,31,Divorced,No
+EMP-1688,48,Female,Operations,Analyst,Master's,44465.8,2,2,6,47.3,Yes,1.2,2,3,33,Married,No
+EMP-1689,32,Male,Finance,Manager,PhD,104684.52,1,0,9,46.5,Yes,2.3,3,1,10,Single,Yes
+EMP-1690,33,Male,Engineering,Team Lead,Bachelor's,70037.58,4,3,3,48.6,Yes,2.9,4,4,2,Divorced,Yes
+EMP-1691,39,Male,Operations,Analyst,Bachelor's,42536.35,1,0,6,37.8,No,4.1,4,2,35,Married,No
+EMP-1692,34,Male,Engineering,Manager,Bachelor's,101517.53,23,5,3,38.8,No,1.3,3,4,40,Married,No
+EMP-1693,44,Female,HR,Analyst,Bachelor's,54572.16,7,0,2,48.3,Yes,1.5,3,1,30,Single,No
+EMP-1694,22,Female,Finance,Team Lead,Master's,60092.13,2,2,9,41.9,No,4.1,4,1,33,Single,No
+EMP-1695,29,Female,Sales,Manager,Bachelor's,93179.99,3,1,5,50.7,Yes,4.2,1,1,4,Married,No
+EMP-1696,30,Male,HR,Associate,PhD,40009.93,5,1,1,44.3,No,1.0,4,2,9,Single,No
+EMP-1697,22,Female,Sales,Team Lead,Master's,71161.01,3,2,9,40.5,No,2.1,3,2,37,Single,Yes
+EMP-1698,28,Male,Engineering,Senior Engineer,High School,74835.99,4,4,10,51.4,Yes,1.7,4,1,32,Married,Yes
+EMP-1699,29,Female,Engineering,Team Lead,Master's,73653.23,5,2,7,44.8,No,1.9,4,4,10,Single,No
+EMP-1700,34,Male,Engineering,Manager,Master's,90510.38,2,2,4,38.9,No,1.1,4,1,30,Single,Yes
+EMP-1701,45,Female,Engineering,Analyst,Bachelor's,58452.54,13,7,9,55.2,Yes,1.7,4,2,2,Single,No
+EMP-1702,34,Male,Marketing,Team Lead,Bachelor's,62827.74,1,0,8,45.8,No,3.6,2,5,40,Married,No
+EMP-1703,28,Male,HR,Director,Master's,150000.0,0,0,3,57.9,Yes,1.9,3,3,2,Married,Yes
+EMP-1704,36,Male,Sales,Team Lead,Bachelor's,52247.05,0,0,4,39.8,No,2.5,4,1,42,Divorced,No
+EMP-1705,44,Male,Marketing,Manager,Bachelor's,73282.94,2,2,10,56.9,Yes,4.2,4,3,12,Single,No
+EMP-1706,28,Male,Engineering,Team Lead,Bachelor's,76088.74,11,1,10,55.4,Yes,1.7,4,1,13,Single,No
+EMP-1707,29,Female,Engineering,Analyst,Bachelor's,44546.56,1,1,7,37.6,No,4.2,3,1,47,Married,Yes
+EMP-1708,40,Female,Finance,Team Lead,Master's,74396.08,4,2,1,48.3,Yes,1.0,4,3,41,Married,No
+EMP-1709,34,Male,Operations,Senior Engineer,Bachelor's,66195.52,1,0,3,51.3,No,4.3,3,3,17,Married,No
+EMP-1710,41,Female,Sales,Associate,Master's,39409.93,6,6,4,47.4,No,4.3,2,1,10,Divorced,No
+EMP-1711,36,Female,Engineering,Senior Engineer,Bachelor's,75227.59,1,1,6,44.8,No,2.1,3,3,6,Married,No
+EMP-1712,42,Female,Finance,Analyst,Master's,45912.15,0,0,9,58.6,Yes,2.5,5,1,20,Married,No
+EMP-1713,28,Female,Operations,Associate,Bachelor's,34620.39,2,2,9,52.5,Yes,3.0,4,2,30,Divorced,No
+EMP-1714,36,Female,Sales,Analyst,PhD,46336.05,0,0,3,59.1,Yes,2.3,3,1,25,Single,Yes
+EMP-1715,34,Female,Engineering,Senior Engineer,PhD,89784.07,2,0,2,56.2,Yes,3.6,4,2,45,Divorced,Yes
+EMP-1716,26,Female,Engineering,Manager,Bachelor's,104465.35,9,7,3,55.4,Yes,1.5,1,1,41,Married,No
+EMP-1717,23,Other,HR,Associate,Master's,32435.78,0,0,3,53.1,Yes,1.9,2,3,14,Married,No
+EMP-1718,41,Male,Operations,Analyst,Bachelor's,44754.42,9,6,9,51.2,Yes,4.0,2,1,46,Divorced,No
+EMP-1719,33,Male,Marketing,Team Lead,Master's,79872.48,7,7,1,57.2,Yes,1.0,2,2,24,Married,No
+EMP-1720,28,Male,Sales,Analyst,Master's,51322.8,13,4,9,50.3,No,1.6,3,2,1,Married,No
+EMP-1721,35,Other,Marketing,Associate,Bachelor's,40502.06,10,10,7,36.9,No,1.6,3,2,43,Single,Yes
+EMP-1722,45,Male,Finance,Team Lead,Bachelor's,62590.92,2,2,2,49.6,No,5.0,4,4,37,Married,No
+EMP-1723,22,Female,Sales,Director,Bachelor's,122271.64,10,2,7,37.6,No,1.6,4,2,18,Married,No
+EMP-1724,24,Female,Finance,Associate,Master's,46860.48,11,2,6,58.7,Yes,1.0,5,1,44,Single,No
+EMP-1725,29,Other,Sales,Associate,Master's,42153.64,6,6,1,51.2,Yes,2.9,3,1,46,Married,No
+EMP-1726,48,Male,Sales,Associate,High School,30671.32,0,0,3,48.9,Yes,3.3,4,1,48,Married,No
+EMP-1727,38,Female,HR,Senior Engineer,Bachelor's,61850.15,3,2,4,39.9,No,3.1,1,5,46,Married,No
+EMP-1728,42,Female,Sales,Team Lead,Bachelor's,65865.73,2,0,3,47.9,No,4.9,3,4,14,Single,Yes
+EMP-1729,27,Male,Operations,Manager,Master's,97101.97,12,1,6,43.6,No,1.2,4,2,28,Married,No
+EMP-1730,27,Female,HR,Manager,Bachelor's,81038.88,0,0,7,51.9,Yes,2.5,3,1,9,Single,No
+EMP-1731,40,Male,Sales,Associate,Bachelor's,33514.65,1,1,2,50.1,Yes,2.7,4,1,35,Single,No
+EMP-1732,36,Female,Sales,Analyst,Master's,62749.09,9,1,2,47.5,No,2.3,4,1,25,Married,No
+EMP-1733,40,Female,HR,Team Lead,Bachelor's,63719.88,5,1,7,41.3,No,4.6,2,2,44,Single,No
+EMP-1734,34,Male,Sales,Executive,Master's,127609.67,0,0,5,48.1,Yes,1.8,5,1,46,Single,No
+EMP-1735,38,Male,Marketing,Analyst,Bachelor's,52861.13,5,3,3,46.5,Yes,1.0,1,3,16,Married,No
+EMP-1736,37,Male,Sales,Manager,Bachelor's,96455.27,7,6,3,56.3,Yes,1.0,5,1,16,Married,No
+EMP-1737,42,Male,Sales,Associate,Master's,44499.94,11,3,1,57.4,Yes,1.0,4,1,2,Divorced,Yes
+EMP-1738,42,Female,Marketing,Senior Engineer,Bachelor's,100417.26,17,7,9,54.0,Yes,3.2,1,1,26,Divorced,No
+EMP-1739,23,Male,Engineering,Senior Engineer,Bachelor's,81356.75,0,0,9,43.0,No,2.0,3,5,20,Married,No
+EMP-1740,22,Male,Marketing,Team Lead,PhD,69387.25,3,2,6,36.0,No,4.6,3,5,50,Divorced,No
+EMP-1741,44,Female,HR,Associate,Master's,34873.4,6,4,4,58.1,Yes,1.0,4,1,41,Divorced,No
+EMP-1742,46,Female,Sales,Manager,Master's,101829.73,4,3,3,59.8,Yes,3.8,3,1,23,Married,No
+EMP-1743,28,Female,Marketing,Team Lead,Bachelor's,66337.22,8,2,4,38.2,No,4.3,4,2,29,Married,No
+EMP-1744,22,Other,Finance,Manager,High School,103926.91,27,6,10,52.1,No,1.5,3,2,32,Single,No
+EMP-1745,37,Male,Finance,Senior Engineer,Bachelor's,93395.61,29,0,1,45.6,No,1.3,5,3,46,Married,No
+EMP-1746,43,Female,Sales,Executive,PhD,150000.0,5,4,9,38.7,No,4.2,3,2,50,Married,No
+EMP-1747,50,Male,Sales,Executive,Master's,150000.0,6,5,4,60.0,Yes,1.0,4,2,21,Single,No
+EMP-1748,40,Female,Marketing,Associate,Bachelor's,38455.59,12,8,3,58.3,Yes,1.5,4,1,19,Single,No
+EMP-1749,33,Other,HR,Team Lead,PhD,63558.68,0,0,9,59.6,Yes,3.5,3,2,36,Divorced,No
+EMP-1750,29,Female,Marketing,Manager,Bachelor's,91837.6,1,0,10,38.6,No,4.6,2,4,14,Married,No
+EMP-1751,36,Female,HR,Manager,Master's,93218.69,1,1,10,47.3,No,4.1,4,1,8,Single,No
+EMP-1752,34,Female,Finance,Manager,Bachelor's,102011.27,9,4,3,57.4,Yes,3.7,4,2,15,Single,No
+EMP-1753,28,Male,Engineering,Manager,Bachelor's,86118.25,17,0,6,51.9,Yes,2.1,4,2,16,Married,No
+EMP-1754,52,Female,HR,Associate,PhD,40940.27,3,2,3,45.9,Yes,3.0,3,4,31,Married,No
+EMP-1755,50,Female,Engineering,Analyst,Master's,45925.82,1,1,2,47.9,Yes,1.7,5,4,37,Married,No
+EMP-1756,45,Other,Sales,Associate,Bachelor's,36074.02,6,2,4,36.0,No,4.1,5,1,9,Married,No
+EMP-1757,29,Male,Marketing,Associate,Bachelor's,36022.43,1,1,1,50.3,Yes,3.0,4,1,3,Single,No
+EMP-1758,43,Male,Sales,Associate,Master's,39289.38,4,2,2,56.5,No,3.3,1,1,9,Single,No
+EMP-1759,41,Female,Sales,Associate,High School,30494.15,1,0,6,35.1,No,5.0,2,3,46,Married,Yes
+EMP-1760,40,Male,Operations,Manager,Master's,95497.54,4,3,7,39.0,Yes,2.4,5,3,14,Married,No
+EMP-1761,46,Male,Finance,Associate,Master's,33398.35,4,1,3,47.9,Yes,2.6,4,3,27,Married,No
+EMP-1762,41,Male,HR,Associate,Bachelor's,32902.16,5,0,6,49.0,Yes,1.9,4,1,28,Married,No
+EMP-1763,42,Female,Operations,Manager,Bachelor's,96643.04,5,1,8,43.6,No,2.0,5,2,14,Married,Yes
+EMP-1764,41,Male,Sales,Senior Engineer,Bachelor's,70666.58,2,2,9,35.7,Yes,1.4,1,1,43,Married,No
+EMP-1765,39,Male,Finance,Director,PhD,150000.0,12,6,6,53.6,No,4.9,4,1,4,Married,No
+EMP-1766,22,Male,Engineering,Associate,Bachelor's,35709.34,1,0,3,41.1,No,2.6,4,2,27,Married,No
+EMP-1767,37,Female,Engineering,Executive,Master's,150000.0,0,0,8,51.1,Yes,2.7,4,1,21,Married,No
+EMP-1768,32,Female,Sales,Manager,Bachelor's,88508.61,3,1,2,49.0,No,3.3,4,1,40,Married,No
+EMP-1769,26,Male,Engineering,Executive,Master's,138977.19,0,0,2,45.8,No,4.6,3,2,10,Divorced,No
+EMP-1770,49,Male,HR,Executive,Bachelor's,132359.89,1,1,4,49.8,No,4.0,2,5,48,Married,No
+EMP-1771,50,Female,Engineering,Analyst,High School,42679.97,1,1,4,52.4,Yes,1.0,5,1,40,Single,No
+EMP-1772,47,Male,Marketing,Executive,Master's,119512.93,0,0,2,49.3,No,2.4,4,5,38,Single,Yes
+EMP-1773,38,Female,Engineering,Team Lead,Master's,81275.2,8,6,1,48.9,Yes,2.4,3,1,25,Married,No
+EMP-1774,47,Male,Engineering,Team Lead,Bachelor's,59821.8,2,1,10,45.9,Yes,1.0,5,3,33,Married,No
+EMP-1775,36,Other,Operations,Director,Bachelor's,133819.86,15,10,7,45.8,No,3.0,3,1,11,Married,No
+EMP-1776,38,Male,Marketing,Associate,PhD,41664.52,5,3,8,47.3,Yes,1.4,3,1,1,Married,Yes
+EMP-1777,27,Female,Operations,Analyst,Bachelor's,51096.65,11,4,1,46.3,Yes,1.0,5,4,38,Single,No
+EMP-1778,39,Male,Sales,Manager,Bachelor's,79367.21,5,1,8,46.0,Yes,3.8,4,3,23,Married,No
+EMP-1779,36,Other,Engineering,Team Lead,Bachelor's,63989.89,3,0,4,40.3,Yes,3.9,5,2,18,Married,No
+EMP-1780,26,Other,HR,Director,Bachelor's,122144.23,4,3,8,53.1,Yes,2.6,5,2,14,Married,Yes
+EMP-1781,36,Female,HR,Director,Master's,103384.46,2,2,5,38.3,No,1.8,4,4,32,Married,Yes
+EMP-1782,35,Male,Engineering,Team Lead,Master's,61792.78,3,2,3,57.7,Yes,4.1,3,2,26,Single,Yes
+EMP-1783,50,Male,Operations,Executive,Bachelor's,143582.24,1,0,3,50.6,No,3.5,4,2,34,Married,No
+EMP-1784,43,Female,Marketing,Analyst,Master's,53769.16,4,0,2,36.2,Yes,3.5,4,2,48,Married,No
+EMP-1785,36,Female,Marketing,Senior Engineer,Bachelor's,79797.59,6,4,9,51.5,No,1.2,4,1,42,Divorced,No
+EMP-1786,38,Male,Sales,Associate,Master's,36588.07,5,1,5,44.0,No,1.7,4,5,17,Married,No
+EMP-1787,36,Male,Marketing,Manager,High School,81672.49,2,1,8,58.2,Yes,2.3,1,1,13,Single,No
+EMP-1788,34,Male,Engineering,Senior Engineer,Bachelor's,65588.7,1,0,9,58.4,Yes,3.5,1,1,9,Married,No
+EMP-1789,27,Female,Operations,Team Lead,Master's,71149.6,6,6,2,56.1,No,1.7,4,1,29,Married,Yes
+EMP-1790,35,Female,Sales,Analyst,Bachelor's,45902.33,11,10,4,49.2,Yes,1.1,4,3,42,Married,No
+EMP-1791,30,Female,Engineering,Senior Engineer,High School,65119.95,1,0,2,58.0,Yes,1.9,3,2,13,Married,No
+EMP-1792,26,Female,Engineering,Manager,Bachelor's,77970.4,2,0,1,51.2,No,5.0,3,4,50,Single,No
+EMP-1793,40,Male,Marketing,Team Lead,Master's,73140.26,3,3,10,56.9,Yes,3.5,3,3,22,Single,No
+EMP-1794,39,Male,Operations,Associate,Bachelor's,38752.99,9,0,7,39.0,Yes,3.7,4,4,40,Single,No
+EMP-1795,22,Male,Operations,Manager,Master's,89756.99,3,2,5,57.6,Yes,2.5,2,2,15,Single,Yes
+EMP-1796,35,Female,Marketing,Analyst,Master's,56100.76,5,0,3,51.5,Yes,3.5,4,3,7,Divorced,No
+EMP-1797,44,Male,Operations,Associate,Master's,33744.5,1,0,6,42.6,No,3.0,4,1,26,Married,No
+EMP-1798,44,Male,Marketing,Analyst,Bachelor's,44533.94,1,0,6,59.9,Yes,1.0,3,1,28,Single,No
+EMP-1799,44,Male,Sales,Manager,Master's,94558.48,7,1,3,52.2,No,3.8,4,2,24,Married,No
+EMP-1800,36,Male,Marketing,Team Lead,Bachelor's,71784.25,8,3,1,57.7,Yes,1.9,5,2,21,Married,Yes
+EMP-1801,29,Female,Engineering,Manager,PhD,105594.42,2,0,5,35.1,No,2.9,3,2,33,Married,No
+EMP-1802,27,Male,Engineering,Associate,Master's,46904.57,12,8,6,48.8,Yes,1.0,2,1,32,Single,No
+EMP-1803,39,Male,Sales,Manager,High School,75497.91,0,0,8,52.8,Yes,3.1,2,3,8,Married,No
+EMP-1804,39,Female,Engineering,Team Lead,Master's,51884.53,2,1,4,35.3,No,4.3,4,4,34,Single,No
+EMP-1805,46,Male,Operations,Executive,Bachelor's,129361.78,1,0,1,54.1,Yes,1.5,5,2,17,Married,No
+EMP-1806,45,Male,Operations,Analyst,Bachelor's,50252.36,1,0,9,51.3,Yes,4.2,4,1,41,Single,No
+EMP-1807,35,Male,Sales,Associate,Bachelor's,32142.01,0,0,5,41.9,No,2.5,5,3,25,Married,No
+EMP-1808,26,Female,Marketing,Analyst,Master's,45513.06,8,7,8,52.2,Yes,1.0,4,1,13,Married,No
+EMP-1809,33,Male,Sales,Manager,Master's,101626.36,6,5,1,38.3,No,1.7,3,4,10,Single,No
+EMP-1810,38,Female,Engineering,Manager,Master's,97993.02,3,0,1,55.6,Yes,2.0,3,3,49,Single,No
+EMP-1811,34,Other,Sales,Associate,Bachelor's,32945.01,4,3,1,56.7,Yes,1.0,4,1,36,Divorced,No
+EMP-1812,31,Female,Engineering,Associate,Master's,36877.38,3,1,8,47.1,No,3.9,4,5,11,Married,No
+EMP-1813,38,Male,Sales,Director,Master's,123611.88,7,6,3,47.7,Yes,2.8,4,3,26,Married,No
+EMP-1814,32,Female,Engineering,Senior Engineer,Master's,82479.75,1,1,8,45.1,Yes,2.5,4,2,7,Single,No
+EMP-1815,31,Male,Engineering,Senior Engineer,Bachelor's,71823.75,0,0,10,43.6,Yes,4.1,3,4,42,Single,No
+EMP-1816,38,Male,Engineering,Senior Engineer,Bachelor's,76501.48,12,7,7,56.8,Yes,3.8,3,1,42,Married,No
+EMP-1817,33,Female,Operations,Analyst,Master's,50121.7,3,2,10,42.6,No,2.8,4,4,41,Divorced,Yes
+EMP-1818,38,Male,Engineering,Associate,Bachelor's,38054.4,15,2,10,45.1,Yes,1.0,4,1,24,Single,Yes
+EMP-1819,38,Male,Sales,Manager,Bachelor's,122550.19,22,9,8,42.5,No,1.9,4,4,9,Married,No
+EMP-1820,27,Male,HR,Associate,Bachelor's,43315.22,15,7,9,51.4,Yes,2.4,3,1,25,Married,No
+EMP-1821,32,Male,Sales,Analyst,Bachelor's,46837.29,5,1,7,55.4,Yes,1.4,5,2,26,Single,No
+EMP-1822,48,Male,HR,Associate,High School,30194.55,0,0,3,39.1,No,3.7,3,1,16,Single,Yes
+EMP-1823,27,Female,Engineering,Analyst,High School,59460.62,25,2,2,41.4,No,3.7,3,2,19,Single,No
+EMP-1824,22,Other,Marketing,Associate,Master's,37630.0,4,2,4,37.6,No,3.4,4,5,3,Married,No
+EMP-1825,22,Male,HR,Manager,PhD,106517.93,2,1,5,39.0,No,1.6,5,4,27,Married,No
+EMP-1826,36,Female,Marketing,Manager,Bachelor's,100553.32,6,4,4,45.2,Yes,1.1,5,2,10,Married,No
+EMP-1827,36,Male,HR,Director,Bachelor's,108850.64,2,1,2,54.4,Yes,1.7,2,1,43,Single,Yes
+EMP-1828,35,Male,Sales,Associate,Master's,41963.12,2,0,6,48.5,Yes,3.3,3,1,39,Married,Yes
+EMP-1829,46,Male,Sales,Team Lead,Bachelor's,74099.94,7,3,5,36.3,No,3.7,4,1,31,Married,No
+EMP-1830,22,Male,Engineering,Senior Engineer,PhD,87472.96,1,1,10,50.6,Yes,2.7,4,2,12,Married,No
+EMP-1831,39,Male,HR,Analyst,Master's,49767.53,5,4,10,54.9,Yes,2.8,4,1,34,Married,No
+EMP-1832,48,Male,Engineering,Associate,Bachelor's,35640.73,4,1,7,44.8,No,3.0,1,1,50,Single,No
+EMP-1833,27,Male,Sales,Team Lead,Bachelor's,63765.36,5,4,9,41.1,No,1.2,4,3,32,Married,No
+EMP-1834,33,Female,Marketing,Analyst,Bachelor's,44918.29,6,0,4,54.1,No,1.8,1,1,40,Married,No
+EMP-1835,30,Male,Engineering,Analyst,Master's,50794.6,1,1,10,35.6,No,1.6,3,5,46,Married,No
+EMP-1836,29,Male,Engineering,Team Lead,Bachelor's,63044.87,9,7,10,55.4,No,1.3,4,1,43,Single,No
+EMP-1837,33,Male,Marketing,Director,Master's,130759.86,8,0,2,55.1,Yes,1.0,2,1,9,Married,No
+EMP-1838,47,Female,Sales,Manager,Master's,88971.96,1,1,8,57.2,Yes,2.7,4,1,44,Married,No
+EMP-1839,51,Male,Finance,Analyst,Master's,51736.46,14,5,5,37.2,No,1.5,4,1,39,Married,No
+EMP-1840,33,Female,Operations,Team Lead,Master's,83024.7,13,9,3,37.7,No,1.4,3,3,36,Divorced,Yes
+EMP-1841,51,Male,Operations,Associate,Bachelor's,42116.34,20,2,5,56.8,Yes,1.0,3,1,12,Married,Yes
+EMP-1842,36,Male,Sales,Associate,Bachelor's,38614.68,4,4,10,46.9,Yes,1.1,5,3,24,Single,Yes
+EMP-1843,50,Other,Engineering,Manager,Master's,88238.5,0,0,10,44.8,Yes,1.0,4,4,46,Married,No
+EMP-1844,35,Male,Marketing,Team Lead,Bachelor's,65555.93,8,7,4,49.3,No,1.1,5,3,46,Married,No
+EMP-1845,37,Male,Marketing,Analyst,High School,42114.34,9,2,5,36.5,Yes,1.0,3,1,6,Divorced,No
+EMP-1846,39,Male,Marketing,Team Lead,Bachelor's,61599.23,1,0,6,51.1,Yes,3.7,4,3,22,Single,No
+EMP-1847,60,Other,Sales,Team Lead,Bachelor's,63448.47,3,2,8,58.6,Yes,1.0,5,3,31,Single,No
+EMP-1848,43,Female,Engineering,Team Lead,Master's,70965.28,1,0,5,51.9,Yes,1.0,2,3,5,Married,Yes
+EMP-1849,30,Female,Engineering,Senior Engineer,Bachelor's,74039.85,2,2,4,46.6,No,3.0,3,5,13,Single,No
+EMP-1850,44,Other,Engineering,Analyst,Master's,61924.91,7,1,10,59.0,Yes,1.0,5,3,30,Married,No
+EMP-1851,33,Male,Engineering,Senior Engineer,PhD,99407.87,9,2,4,52.2,Yes,2.4,3,2,33,Married,No
+EMP-1852,32,Other,Operations,Associate,Bachelor's,30850.67,1,1,3,36.4,No,2.6,3,5,6,Single,No
+EMP-1853,43,Male,Engineering,Analyst,Master's,51126.64,11,5,4,51.8,Yes,4.0,5,1,22,Married,No
+EMP-1854,36,Female,Marketing,Associate,High School,33160.52,4,0,4,36.5,Yes,4.1,2,4,33,Divorced,No
+EMP-1855,38,Male,Operations,Associate,Bachelor's,34403.68,9,9,6,42.7,No,3.9,4,1,50,Married,No
+EMP-1856,36,Male,Sales,Associate,Bachelor's,35607.5,2,0,7,50.4,Yes,1.0,4,3,50,Married,Yes
+EMP-1857,39,Other,HR,Executive,Bachelor's,143579.82,1,0,2,40.4,No,2.9,4,2,16,Single,No
+EMP-1858,39,Male,Marketing,Team Lead,Bachelor's,72745.74,8,4,9,36.0,No,2.2,3,2,34,Single,No
+EMP-1859,22,Other,Sales,Analyst,Bachelor's,41554.57,1,1,3,50.4,Yes,3.3,1,2,28,Divorced,No
+EMP-1860,41,Male,Sales,Senior Engineer,Bachelor's,80225.5,3,0,2,42.1,No,1.1,4,1,11,Married,No
+EMP-1861,28,Female,Finance,Analyst,High School,41032.29,0,0,7,48.3,Yes,3.1,4,4,26,Married,No
+EMP-1862,24,Other,Marketing,Associate,Master's,34763.07,1,0,3,41.5,No,2.3,3,4,7,Divorced,No
+EMP-1863,36,Male,Finance,Senior Engineer,High School,72834.21,9,9,8,52.2,Yes,2.2,3,1,7,Single,No
+EMP-1864,37,Other,Operations,Analyst,Master's,51304.01,2,2,10,57.4,Yes,1.7,4,3,18,Married,No
+EMP-1865,30,Female,Sales,Associate,PhD,41328.79,8,1,7,37.2,No,2.5,2,1,14,Single,No
+EMP-1866,43,Female,Marketing,Associate,Master's,41293.68,8,5,8,54.7,Yes,2.9,4,3,8,Single,No
+EMP-1867,25,Male,Marketing,Manager,Master's,112457.33,8,7,5,38.9,Yes,2.3,5,4,3,Married,No
+EMP-1868,33,Female,Marketing,Manager,Master's,105665.91,6,4,4,43.2,No,2.0,3,4,29,Married,No
+EMP-1869,31,Female,Marketing,Associate,Master's,36779.66,1,1,7,43.9,No,1.2,5,4,1,Divorced,No
+EMP-1870,36,Male,Marketing,Associate,PhD,42114.36,4,3,4,40.2,Yes,3.3,4,4,40,Married,No
+EMP-1871,38,Male,Operations,Analyst,PhD,54240.21,6,3,9,36.9,No,3.0,4,5,4,Married,No
+EMP-1872,28,Male,Sales,Manager,Bachelor's,92191.91,11,0,5,54.2,Yes,2.6,5,2,33,Married,No
+EMP-1873,42,Female,Marketing,Analyst,Master's,46517.37,7,5,5,54.8,Yes,2.1,3,1,8,Married,No
+EMP-1874,37,Male,Engineering,Associate,Master's,41129.98,8,5,7,59.9,No,3.5,5,3,31,Divorced,Yes
+EMP-1875,22,Female,HR,Team Lead,High School,64093.31,7,6,2,58.4,No,3.5,2,1,8,Married,No
+EMP-1876,22,Other,Finance,Manager,Bachelor's,83262.92,1,1,6,45.9,No,1.1,3,1,22,Married,No
+EMP-1877,36,Male,Finance,Team Lead,Master's,63208.76,2,1,8,38.3,No,3.1,4,1,33,Single,No
+EMP-1878,34,Male,Sales,Associate,Master's,37819.02,3,3,8,35.3,No,3.0,2,3,9,Single,No
+EMP-1879,35,Female,HR,Analyst,Bachelor's,50915.55,3,0,3,48.3,Yes,1.0,4,4,7,Divorced,No
+EMP-1880,36,Male,Sales,Analyst,Bachelor's,49283.14,3,3,1,56.5,No,4.0,3,1,32,Married,Yes
+EMP-1881,38,Female,Engineering,Analyst,Bachelor's,44554.69,1,0,2,41.7,No,1.9,3,1,33,Married,No
+EMP-1882,44,Female,Engineering,Team Lead,Master's,87179.84,9,6,9,40.0,No,1.2,4,1,21,Single,No
+EMP-1883,27,Female,Operations,Executive,PhD,150000.0,2,2,3,46.0,Yes,3.1,2,1,7,Married,No
+EMP-1884,27,Male,Sales,Analyst,Master's,47540.94,2,1,1,57.3,Yes,3.6,3,1,16,Married,No
+EMP-1885,27,Female,Operations,Analyst,Bachelor's,44428.52,2,2,6,46.3,Yes,1.2,3,4,11,Single,No
+EMP-1886,38,Female,Engineering,Manager,Bachelor's,94912.83,6,3,9,53.1,Yes,2.9,5,1,33,Married,No
+EMP-1887,46,Male,Marketing,Associate,Master's,35873.43,5,0,3,46.6,Yes,1.0,4,4,16,Married,No
+EMP-1888,33,Female,HR,Associate,Master's,40175.55,3,2,1,44.3,No,3.9,4,5,19,Married,No
+EMP-1889,22,Female,Marketing,Senior Engineer,Bachelor's,79648.84,7,2,2,46.0,No,2.9,4,1,14,Single,No
+EMP-1890,22,Female,Marketing,Executive,Bachelor's,142041.11,3,2,2,54.2,Yes,2.8,4,1,9,Married,No
+EMP-1891,29,Male,Marketing,Senior Engineer,Bachelor's,79462.9,11,4,3,53.9,Yes,1.3,3,3,41,Single,No
+EMP-1892,32,Male,Operations,Associate,Master's,42332.92,17,0,2,45.8,Yes,1.8,2,3,25,Married,No
+EMP-1893,33,Male,HR,Associate,Master's,31190.32,2,1,7,41.7,No,4.4,4,1,29,Married,No
+EMP-1894,36,Male,Engineering,Analyst,Bachelor's,53656.81,6,0,3,38.5,No,1.2,3,1,15,Married,No
+EMP-1895,34,Male,Engineering,Director,PhD,150000.0,11,3,6,35.0,Yes,1.2,5,2,5,Single,Yes
+EMP-1896,44,Other,Marketing,Analyst,Master's,52862.06,3,2,5,37.8,No,2.6,3,5,37,Divorced,No
+EMP-1897,31,Male,Sales,Associate,PhD,44897.19,8,7,7,39.1,No,3.4,4,5,37,Single,No
+EMP-1898,29,Female,HR,Associate,Bachelor's,27724.34,2,0,7,52.2,Yes,1.0,3,1,3,Married,No
+EMP-1899,40,Male,HR,Team Lead,Bachelor's,59423.58,3,1,6,55.4,No,3.3,4,2,45,Divorced,No
+EMP-1900,24,Male,Sales,Team Lead,PhD,71085.75,1,0,9,53.4,Yes,1.4,5,1,43,Married,No
+EMP-1901,39,Male,Finance,Associate,PhD,36160.59,1,1,2,53.1,Yes,2.5,3,1,43,Married,Yes
+EMP-1902,37,Male,Marketing,Analyst,PhD,47652.25,4,0,6,59.9,Yes,3.8,1,2,24,Married,Yes
+EMP-1903,35,Female,Marketing,Team Lead,Master's,60839.52,0,0,4,59.1,No,2.8,4,1,35,Married,No
+EMP-1904,49,Other,Marketing,Associate,Bachelor's,34123.63,2,1,6,41.7,No,3.2,2,3,1,Married,No
+EMP-1905,31,Female,Operations,Associate,Bachelor's,34621.28,3,3,2,38.6,No,2.9,2,4,30,Married,No
+EMP-1906,52,Male,HR,Analyst,Bachelor's,53565.74,9,0,4,38.8,No,1.5,4,3,7,Single,No
+EMP-1907,34,Female,Operations,Team Lead,PhD,83301.39,0,0,10,57.4,No,4.2,2,4,46,Married,No
+EMP-1908,26,Male,Engineering,Analyst,Bachelor's,46413.88,0,0,9,37.6,No,4.5,2,4,48,Single,No
+EMP-1909,37,Other,Marketing,Senior Engineer,Master's,93054.53,14,10,5,43.5,No,4.2,3,4,8,Divorced,No
+EMP-1910,27,Female,Marketing,Associate,PhD,47963.3,5,3,2,48.3,No,4.8,3,5,27,Single,No
+EMP-1911,30,Male,Sales,Analyst,PhD,47463.01,3,2,7,50.3,Yes,1.9,5,1,30,Single,Yes
+EMP-1912,39,Male,Engineering,Team Lead,PhD,62291.42,3,2,4,49.9,No,3.6,3,2,39,Divorced,Yes
+EMP-1913,40,Male,HR,Manager,Master's,86124.06,2,2,4,54.7,Yes,1.0,3,1,25,Single,No
+EMP-1914,31,Male,Sales,Associate,Bachelor's,35671.34,1,1,1,49.3,No,4.9,4,5,45,Married,No
+EMP-1915,44,Other,Operations,Team Lead,PhD,81159.86,8,7,3,56.3,Yes,2.1,4,3,18,Married,Yes
+EMP-1916,45,Female,Sales,Associate,Bachelor's,35875.36,13,3,3,37.1,No,2.0,3,2,17,Single,No
+EMP-1917,47,Other,Engineering,Analyst,Bachelor's,44548.67,5,1,1,56.5,Yes,3.7,4,1,37,Single,No
+EMP-1918,40,Male,HR,Team Lead,PhD,75990.48,12,7,6,49.8,Yes,2.8,4,1,28,Married,Yes
+EMP-1919,47,Female,Sales,Manager,Master's,84708.89,3,0,10,40.6,No,4.8,3,1,5,Single,No
+EMP-1920,22,Male,Engineering,Analyst,Bachelor's,50201.62,1,0,2,59.4,Yes,3.0,2,1,33,Single,Yes
+EMP-1921,33,Female,HR,Associate,Bachelor's,37025.21,9,2,1,58.5,Yes,3.3,4,1,14,Single,No
+EMP-1922,29,Male,HR,Manager,Bachelor's,94179.24,0,0,2,56.1,No,3.2,3,1,43,Married,No
+EMP-1923,37,Male,Engineering,Analyst,PhD,52644.32,6,1,6,57.8,Yes,2.2,3,1,42,Married,No
+EMP-1924,31,Female,HR,Executive,Master's,150000.0,4,0,9,44.6,No,4.0,4,2,22,Single,No
+EMP-1925,35,Male,HR,Manager,Bachelor's,86518.71,2,2,4,40.7,No,1.4,3,4,43,Married,No
+EMP-1926,51,Male,Finance,Director,Master's,134224.97,3,2,2,39.6,No,1.2,3,5,48,Married,No
+EMP-1927,35,Female,Sales,Analyst,Master's,63670.71,20,2,1,56.8,No,4.9,3,4,37,Single,No
+EMP-1928,39,Male,Engineering,Associate,PhD,45228.97,5,1,7,55.7,Yes,3.3,5,1,31,Married,No
+EMP-1929,34,Other,Operations,Associate,Bachelor's,39632.54,10,10,4,59.5,No,4.8,4,2,47,Divorced,Yes
+EMP-1930,37,Female,HR,Analyst,Master's,44466.66,1,1,4,56.2,Yes,1.0,3,3,44,Married,No
+EMP-1931,36,Female,Engineering,Senior Engineer,Bachelor's,82503.33,6,0,3,50.8,Yes,1.0,3,1,24,Married,Yes
+EMP-1932,40,Female,Finance,Analyst,Bachelor's,46255.32,4,3,9,38.6,No,4.6,5,1,5,Married,No
+EMP-1933,45,Female,Engineering,Director,Bachelor's,104712.34,1,0,4,39.1,No,1.4,4,5,31,Single,No
+EMP-1934,49,Female,Finance,Team Lead,Bachelor's,65774.62,2,1,8,46.8,Yes,2.1,4,3,24,Married,No
+EMP-1935,38,Female,Marketing,Manager,Master's,119827.67,16,6,8,54.2,Yes,1.5,2,2,19,Divorced,No
+EMP-1936,41,Female,Operations,Team Lead,Bachelor's,61649.12,4,4,1,39.3,No,4.5,2,1,9,Divorced,No
+EMP-1937,27,Male,Operations,Team Lead,Bachelor's,65859.66,8,5,3,57.9,Yes,2.0,3,1,36,Single,No
+EMP-1938,35,Male,Engineering,Manager,Bachelor's,74445.18,1,1,9,52.1,Yes,1.6,4,1,46,Married,No
+EMP-1939,44,Female,Finance,Senior Engineer,Bachelor's,68518.2,8,7,9,42.8,No,3.1,5,5,30,Single,No
+EMP-1940,43,Male,Sales,Manager,Master's,93550.7,4,3,5,57.1,Yes,1.0,3,1,12,Married,No
+EMP-1941,38,Male,Marketing,Team Lead,Bachelor's,74948.58,11,8,2,50.0,Yes,3.1,4,1,1,Married,No
+EMP-1942,43,Male,HR,Analyst,Bachelor's,43241.57,2,2,3,53.3,No,3.5,5,3,36,Married,No
+EMP-1943,40,Female,Engineering,Executive,PhD,150000.0,3,1,10,44.6,No,3.4,5,1,8,Single,No
+EMP-1944,46,Male,Engineering,Senior Engineer,Bachelor's,80876.02,10,10,7,44.8,No,2.8,3,4,4,Divorced,No
+EMP-1945,38,Female,Engineering,Analyst,Master's,51478.66,6,6,1,35.3,No,2.2,3,1,10,Single,No
+EMP-1946,33,Female,Engineering,Associate,Master's,36749.95,3,2,8,48.4,Yes,1.0,5,1,11,Single,Yes
+EMP-1947,39,Female,Engineering,Senior Engineer,Master's,85387.01,1,1,2,54.0,Yes,4.3,3,1,17,Divorced,Yes
+EMP-1948,22,Male,Operations,Associate,Master's,33736.91,1,1,4,59.2,Yes,1.8,3,1,16,Married,Yes
+EMP-1949,39,Female,HR,Analyst,Bachelor's,57263.07,21,1,5,57.3,Yes,1.8,3,1,10,Married,No
+EMP-1950,22,Female,Finance,Manager,Master's,89931.57,3,0,4,37.2,Yes,1.9,4,2,40,Married,Yes
+EMP-1951,22,Male,Finance,Director,Master's,119766.35,3,3,7,59.5,Yes,3.5,2,2,42,Single,Yes
+EMP-1952,40,Female,Marketing,Executive,Bachelor's,140313.5,4,2,2,38.7,No,4.2,4,2,13,Single,No
+EMP-1953,40,Male,Sales,Analyst,Master's,64688.18,24,7,9,36.0,Yes,1.0,5,1,19,Married,No
+EMP-1954,27,Other,Operations,Executive,Bachelor's,147398.82,2,1,6,53.7,No,3.4,4,3,41,Married,No
+EMP-1955,30,Male,Marketing,Manager,PhD,103260.92,4,2,4,57.6,Yes,2.3,5,3,48,Married,No
+EMP-1956,47,Female,Marketing,Executive,Master's,150000.0,1,0,10,58.7,Yes,3.7,5,1,40,Single,No
+EMP-1957,32,Female,Operations,Associate,High School,31327.05,2,0,5,55.6,Yes,3.6,4,1,28,Married,No
+EMP-1958,54,Male,HR,Analyst,Master's,53390.43,0,0,5,40.1,No,4.0,4,5,50,Married,No
+EMP-1959,36,Female,HR,Associate,PhD,39198.26,2,0,1,38.9,Yes,3.2,5,1,37,Single,Yes
+EMP-1960,39,Male,Operations,Associate,Master's,36718.41,3,1,10,36.5,Yes,1.9,4,4,34,Single,No
+EMP-1961,49,Female,Sales,Team Lead,Bachelor's,65067.58,1,0,9,49.5,No,2.5,3,3,2,Married,No
+EMP-1962,37,Female,Finance,Analyst,Master's,50295.54,5,4,2,47.2,Yes,2.2,5,1,32,Married,Yes
+EMP-1963,28,Male,Engineering,Manager,Master's,93588.42,0,0,10,37.7,Yes,3.4,4,3,15,Married,Yes
+EMP-1964,35,Male,Engineering,Team Lead,Bachelor's,73969.97,2,0,8,46.6,Yes,1.2,5,4,31,Married,No
+EMP-1965,36,Female,HR,Associate,Master's,33678.33,1,1,5,49.2,Yes,2.1,3,4,29,Married,No
+EMP-1966,25,Male,Engineering,Analyst,Master's,54689.84,1,0,10,53.1,Yes,1.0,3,2,6,Single,No
+EMP-1967,34,Female,Operations,Manager,Master's,86456.11,0,0,6,45.4,Yes,1.0,4,2,24,Married,No
+EMP-1968,30,Female,Engineering,Associate,Master's,41048.09,2,0,7,43.0,No,4.5,4,1,26,Single,No
+EMP-1969,43,Female,Marketing,Associate,Bachelor's,37944.17,6,2,2,51.6,Yes,1.0,3,1,3,Married,No
+EMP-1970,36,Male,Engineering,Executive,PhD,150000.0,2,2,2,52.1,No,4.2,5,4,43,Single,No
+EMP-1971,34,Female,Operations,Senior Engineer,Master's,78213.86,1,1,6,41.8,No,2.5,4,1,47,Single,Yes
+EMP-1972,35,Other,Sales,Team Lead,Bachelor's,66402.07,8,4,4,35.5,No,3.7,1,3,2,Married,No
+EMP-1973,38,Male,Engineering,Analyst,Bachelor's,44567.92,5,3,10,58.6,Yes,4.1,4,1,7,Married,No
+EMP-1974,41,Male,Engineering,Team Lead,Bachelor's,65978.11,6,4,1,53.9,Yes,2.8,2,2,7,Married,Yes
+EMP-1975,28,Male,HR,Director,Master's,118234.45,0,0,8,40.0,No,4.3,3,2,23,Married,No
+EMP-1976,28,Male,Operations,Analyst,Bachelor's,48022.81,5,4,7,49.1,No,2.0,3,4,31,Divorced,No
+EMP-1977,45,Female,Operations,Executive,PhD,144622.8,3,2,9,49.9,Yes,1.1,3,2,13,Married,Yes
+EMP-1978,33,Male,Sales,Senior Engineer,PhD,92271.86,6,0,10,38.1,No,3.9,5,5,43,Divorced,No
+EMP-1979,25,Female,Sales,Analyst,Master's,63946.79,14,4,9,39.8,No,4.1,2,1,16,Married,No
+EMP-1980,40,Male,Engineering,Team Lead,Bachelor's,70925.42,6,5,4,58.9,Yes,3.5,4,2,16,Married,Yes
+EMP-1981,40,Male,HR,Manager,Master's,92870.58,2,1,7,47.7,No,4.0,4,4,30,Married,Yes
+EMP-1982,24,Male,HR,Team Lead,High School,67268.76,1,0,2,39.8,No,1.9,3,5,44,Married,No
+EMP-1983,38,Female,Engineering,Associate,Master's,35882.4,3,2,5,54.9,No,2.2,5,2,13,Married,No
+EMP-1984,42,Female,Marketing,Analyst,Bachelor's,43694.91,0,0,3,46.8,No,4.8,3,2,17,Married,No
+EMP-1985,39,Male,Operations,Associate,PhD,36542.86,4,1,3,51.0,Yes,2.0,4,1,17,Single,Yes
+EMP-1986,41,Female,Engineering,Analyst,Bachelor's,43217.89,1,1,6,42.4,No,4.0,4,5,24,Single,No
+EMP-1987,25,Male,Engineering,Director,Bachelor's,127618.76,1,1,2,36.4,Yes,2.7,4,1,22,Divorced,No
+EMP-1988,39,Male,Engineering,Analyst,PhD,51236.79,1,1,6,39.1,No,4.7,3,4,48,Single,No
+EMP-1989,34,Male,Engineering,Associate,Bachelor's,32442.51,8,8,5,59.3,Yes,3.2,4,1,8,Married,No
+EMP-1990,32,Other,Engineering,Analyst,Master's,57510.29,8,6,3,50.6,Yes,1.0,5,2,21,Married,No
+EMP-1991,43,Female,Marketing,Associate,PhD,42627.2,4,4,6,55.8,Yes,3.9,3,1,13,Single,Yes
+EMP-1992,48,Female,Engineering,Director,Bachelor's,124348.27,4,0,8,35.5,No,2.2,4,5,30,Divorced,No
+EMP-1993,50,Male,Marketing,Manager,Bachelor's,103493.21,19,8,7,54.1,Yes,2.1,3,1,40,Single,Yes
+EMP-1994,47,Male,Operations,Analyst,Master's,50752.54,10,4,1,47.1,Yes,3.3,3,1,47,Divorced,No
+EMP-1995,35,Female,Operations,Associate,Master's,41855.97,12,8,6,51.6,Yes,1.1,3,3,22,Married,No
+EMP-1996,39,Male,Marketing,Analyst,PhD,58381.27,5,0,7,44.0,No,2.2,3,2,14,Single,Yes
+EMP-1997,42,Other,Engineering,Senior Engineer,Bachelor's,71086.29,0,0,7,50.5,No,3.7,4,1,49,Single,No
+EMP-1998,37,Female,Engineering,Analyst,Master's,54686.17,7,4,5,35.9,No,5.0,3,5,5,Married,Yes
+EMP-1999,37,Male,Engineering,Manager,Bachelor's,82510.06,3,0,1,36.1,No,1.5,1,3,7,Married,No
+EMP-2000,43,Female,Operations,Analyst,Master's,49632.37,0,0,2,55.0,Yes,2.7,3,3,48,Single,No
+EMP-2001,36,Other,Operations,Associate,Master's,37610.93,3,2,4,38.1,No,3.1,2,3,45,Divorced,No
+EMP-2002,30,Male,Sales,Associate,Master's,38043.13,8,1,7,35.3,No,2.6,4,4,28,Single,No
+EMP-2003,33,Female,Sales,Analyst,Bachelor's,45160.01,1,0,8,57.8,Yes,3.3,4,1,17,Married,No
+EMP-2004,41,Other,HR,Senior Engineer,Bachelor's,70327.44,1,0,7,41.6,No,3.2,2,3,49,Single,No
+EMP-2005,36,Male,Engineering,Analyst,Bachelor's,46865.01,1,0,4,49.6,Yes,3.0,3,2,48,Divorced,No
+EMP-2006,39,Female,Operations,Associate,Bachelor's,35305.13,0,0,5,56.0,No,4.0,1,1,44,Single,No
+EMP-2007,41,Male,Engineering,Manager,Bachelor's,99968.82,11,10,1,53.6,Yes,3.5,4,2,39,Married,Yes
+EMP-2008,33,Female,Sales,Senior Engineer,Master's,74916.43,7,7,8,36.2,No,4.2,3,3,30,Married,No
+EMP-2009,42,Female,Sales,Team Lead,Bachelor's,68392.37,15,0,4,49.0,No,1.3,4,1,19,Single,No
+EMP-2010,39,Female,Engineering,Associate,Bachelor's,34607.98,7,7,6,48.5,No,4.1,4,2,24,Married,No
+EMP-2011,26,Male,Sales,Senior Engineer,Master's,79603.79,6,4,5,43.8,No,3.6,3,3,28,Single,No
+EMP-2012,48,Female,Operations,Team Lead,Bachelor's,59608.8,2,0,3,53.8,Yes,1.0,1,3,25,Married,No
+EMP-2013,32,Male,Engineering,Executive,Bachelor's,146023.74,2,2,2,59.1,Yes,2.0,3,1,44,Married,No
+EMP-2014,23,Male,HR,Associate,PhD,43650.59,4,1,10,38.7,Yes,2.9,3,2,9,Married,No
+EMP-2015,28,Male,Sales,Executive,High School,128103.79,7,1,2,38.6,No,1.8,3,1,5,Single,No
+EMP-2016,28,Female,Engineering,Associate,Bachelor's,35080.77,1,0,10,53.4,Yes,1.8,5,1,23,Single,No
+EMP-2017,36,Male,Engineering,Director,Master's,132393.65,5,0,2,46.4,No,3.2,3,2,11,Single,No
+EMP-2018,34,Male,Engineering,Analyst,Bachelor's,45200.87,2,1,1,54.9,Yes,1.7,3,1,42,Married,Yes
+EMP-2019,33,Female,Engineering,Team Lead,Bachelor's,74975.16,9,1,10,38.5,No,4.5,4,5,43,Single,No
+EMP-2020,41,Male,Sales,Associate,Bachelor's,32660.62,3,0,10,36.0,No,1.7,5,5,50,Divorced,No
+EMP-2021,39,Male,Finance,Associate,Bachelor's,34630.55,3,1,9,52.4,Yes,2.9,3,1,20,Married,No
+EMP-2022,39,Male,Marketing,Associate,Master's,35941.14,6,4,8,59.9,No,4.1,4,3,49,Married,No
+EMP-2023,39,Male,Operations,Team Lead,Bachelor's,59819.26,5,5,5,37.4,No,2.8,2,5,6,Married,No
+EMP-2024,41,Female,Sales,Team Lead,Bachelor's,57957.44,5,0,2,56.6,Yes,2.3,4,1,49,Single,Yes
+EMP-2025,22,Male,Marketing,Associate,Bachelor's,30853.3,1,1,6,44.6,No,1.6,4,3,13,Married,No
+EMP-2026,33,Male,Marketing,Analyst,PhD,55486.44,4,0,6,35.4,No,1.8,3,3,1,Single,No
+EMP-2027,22,Other,Engineering,Analyst,Bachelor's,42935.26,0,0,8,47.8,Yes,2.2,3,1,42,Married,No
+EMP-2028,36,Female,Sales,Team Lead,Master's,65543.71,1,1,1,42.0,No,1.9,3,3,26,Married,No
+EMP-2029,36,Female,HR,Manager,Bachelor's,82941.29,2,0,1,52.3,Yes,3.0,4,1,21,Married,No
+EMP-2030,44,Female,Finance,Team Lead,PhD,84089.29,2,2,6,42.2,No,3.5,2,2,11,Divorced,No
+EMP-2031,46,Other,Sales,Associate,Bachelor's,29997.84,0,0,9,47.0,Yes,1.0,4,1,21,Single,Yes
+EMP-2032,38,Male,Engineering,Associate,High School,27824.6,2,2,10,40.0,No,2.4,1,4,31,Married,No
+EMP-2033,32,Female,Operations,Manager,Bachelor's,80381.62,3,1,6,55.7,Yes,3.5,4,3,8,Single,No
+EMP-2034,40,Female,Engineering,Senior Engineer,Bachelor's,80685.74,9,3,4,58.1,Yes,1.2,3,1,48,Married,No
+EMP-2035,32,Male,Operations,Analyst,Master's,56723.58,9,3,5,45.1,Yes,3.3,5,1,37,Married,No
+EMP-2036,36,Male,Finance,Manager,Master's,112872.33,13,5,6,46.2,Yes,1.0,3,2,44,Single,Yes
+EMP-2037,44,Male,Finance,Manager,Master's,117129.69,14,4,7,59.6,Yes,3.8,3,1,3,Married,No
+EMP-2038,32,Female,Finance,Analyst,Bachelor's,46890.42,5,3,3,38.6,No,2.8,3,3,44,Married,No
+EMP-2039,42,Female,Engineering,Senior Engineer,Master's,97052.14,19,5,4,55.2,Yes,1.6,4,1,44,Single,No
+EMP-2040,41,Female,Marketing,Analyst,Bachelor's,51242.28,2,2,6,49.2,No,3.3,3,3,19,Divorced,No
+EMP-2041,28,Male,Finance,Analyst,PhD,41630.22,2,1,9,57.0,Yes,1.8,3,1,29,Married,No
+EMP-2042,44,Male,Marketing,Associate,Master's,36723.46,1,0,9,42.3,No,3.9,3,3,26,Married,Yes
+EMP-2043,42,Male,Engineering,Associate,Master's,37238.42,0,0,8,42.4,No,1.1,3,1,42,Married,Yes
+EMP-2044,37,Female,Engineering,Manager,Master's,103490.52,0,0,3,43.1,No,1.6,4,4,15,Divorced,Yes
+EMP-2045,30,Other,Sales,Analyst,Master's,42247.78,1,0,5,35.4,No,1.8,3,4,46,Single,No
+EMP-2046,29,Female,Sales,Team Lead,Master's,81002.73,18,8,6,39.2,No,3.5,4,1,28,Married,No
+EMP-2047,32,Other,HR,Manager,Bachelor's,77952.16,4,0,10,59.9,Yes,3.3,5,1,1,Married,No
+EMP-2048,40,Female,Finance,Analyst,Master's,41711.04,1,0,4,41.2,No,1.3,4,2,16,Married,No
+EMP-2049,28,Other,Finance,Analyst,Bachelor's,44578.47,2,0,10,35.5,No,4.4,1,2,8,Married,No
+EMP-2050,40,Male,Marketing,Analyst,High School,43305.89,1,1,8,42.0,No,4.3,4,4,41,Divorced,No
+EMP-2051,26,Male,Engineering,Manager,Master's,103123.72,3,0,7,45.2,Yes,1.0,4,2,21,Married,No
+EMP-2052,34,Male,Sales,Analyst,High School,39446.95,2,1,8,48.7,Yes,1.0,3,4,24,Married,Yes
+EMP-2053,37,Male,Sales,Analyst,Master's,58901.77,11,7,8,36.7,No,2.4,3,3,18,Married,No
+EMP-2054,56,Male,Engineering,Manager,Bachelor's,104335.65,19,10,7,54.8,Yes,1.0,3,1,36,Married,No
+EMP-2055,25,Male,Engineering,Executive,Bachelor's,142013.74,2,1,7,55.6,Yes,3.0,3,2,50,Divorced,Yes
+EMP-2056,48,Other,Sales,Analyst,Master's,57938.67,7,7,4,40.3,No,3.0,2,1,44,Married,No
+EMP-2057,37,Male,Engineering,Manager,High School,78264.69,4,3,5,55.0,Yes,1.6,3,1,50,Single,Yes
+EMP-2058,39,Other,HR,Analyst,Master's,56045.75,5,4,6,44.0,No,3.9,4,5,15,Single,No
+EMP-2059,37,Female,Engineering,Team Lead,Master's,62277.0,3,0,9,45.6,No,2.2,3,5,34,Married,No
+EMP-2060,40,Female,Engineering,Team Lead,Master's,78844.34,9,9,7,58.4,Yes,3.9,3,1,32,Married,No
+EMP-2061,35,Female,Engineering,Team Lead,Bachelor's,73363.34,8,2,10,57.3,No,3.6,5,4,16,Married,No
+EMP-2062,48,Male,Marketing,Analyst,Master's,54666.32,4,0,7,44.4,No,2.4,3,5,43,Single,No
+EMP-2063,32,Female,HR,Analyst,Bachelor's,42218.45,4,0,5,47.2,No,3.2,2,5,46,Single,No
+EMP-2064,45,Male,Sales,Executive,Bachelor's,131774.04,1,1,6,42.2,No,2.0,3,5,48,Married,No
+EMP-2065,31,Other,Engineering,Analyst,Bachelor's,45739.61,1,1,7,47.9,Yes,3.7,3,1,50,Married,Yes
+EMP-2066,36,Male,Operations,Executive,Bachelor's,138728.81,1,0,9,52.0,Yes,2.0,4,1,9,Single,Yes
+EMP-2067,27,Male,HR,Analyst,Bachelor's,44407.88,0,0,3,37.3,No,4.6,2,4,8,Married,No
+EMP-2068,40,Female,Marketing,Associate,Bachelor's,37876.24,2,2,3,58.0,Yes,4.0,5,1,35,Married,No
+EMP-2069,48,Female,HR,Analyst,Bachelor's,41805.69,4,1,3,53.0,Yes,2.6,5,1,37,Divorced,No
+EMP-2070,35,Male,Finance,Manager,Master's,98862.62,8,5,1,37.4,No,3.9,3,5,22,Single,No
+EMP-2071,34,Female,Operations,Senior Engineer,Bachelor's,61845.94,0,0,7,56.7,Yes,2.7,4,3,9,Divorced,Yes
+EMP-2072,27,Male,Sales,Associate,Bachelor's,36718.5,4,2,10,53.6,Yes,1.0,4,1,15,Married,No
+EMP-2073,34,Female,Marketing,Manager,Bachelor's,102961.78,13,6,7,42.8,No,4.8,4,3,7,Married,No
+EMP-2074,23,Male,Engineering,Manager,Bachelor's,107738.81,2,2,1,48.0,Yes,2.0,3,2,8,Single,No
+EMP-2075,29,Male,Marketing,Executive,Master's,150000.0,1,1,4,56.5,Yes,3.5,4,1,10,Married,Yes
+EMP-2076,38,Male,Sales,Manager,PhD,110593.54,7,5,10,59.2,Yes,2.8,2,1,30,Married,Yes
+EMP-2077,47,Male,Engineering,Executive,Master's,150000.0,3,3,1,42.0,Yes,1.0,1,2,26,Married,Yes
+EMP-2078,58,Male,Operations,Director,Master's,125732.58,5,5,7,51.3,Yes,1.5,5,2,17,Married,Yes
+EMP-2079,31,Male,Operations,Analyst,High School,41630.09,2,1,5,56.5,Yes,1.0,3,3,28,Married,No
+EMP-2080,47,Male,Engineering,Associate,PhD,42253.61,4,2,10,59.7,Yes,1.0,3,3,34,Married,No
+EMP-2081,38,Male,Operations,Executive,Bachelor's,136283.87,15,2,6,36.8,Yes,3.2,3,1,5,Single,No
+EMP-2082,35,Female,Sales,Associate,Bachelor's,34525.45,2,2,6,47.6,Yes,1.0,5,3,15,Married,Yes
+EMP-2083,39,Male,Sales,Manager,Bachelor's,91899.16,7,7,8,56.8,Yes,4.3,3,2,11,Single,No
+EMP-2084,36,Female,Operations,Analyst,High School,49033.81,5,5,9,35.1,No,2.8,3,1,1,Divorced,No
+EMP-2085,37,Other,Sales,Manager,Master's,99738.2,8,6,6,45.9,No,3.0,4,5,6,Divorced,No
+EMP-2086,33,Male,Sales,Associate,Bachelor's,34696.44,8,7,8,49.6,Yes,1.6,3,2,39,Single,Yes
+EMP-2087,25,Other,Marketing,Team Lead,Bachelor's,65507.68,4,3,9,48.2,Yes,1.0,3,3,44,Single,Yes
+EMP-2088,24,Male,Engineering,Analyst,Bachelor's,52892.74,13,2,6,53.3,Yes,2.5,4,2,9,Single,Yes
+EMP-2089,41,Male,Sales,Manager,PhD,96481.32,0,0,8,36.6,No,2.4,5,2,39,Married,No
+EMP-2090,34,Female,Sales,Associate,Master's,32316.51,0,0,4,54.6,Yes,2.7,4,1,13,Divorced,Yes
+EMP-2091,31,Female,Marketing,Team Lead,PhD,70607.57,0,0,4,42.1,Yes,2.6,2,1,7,Married,No
+EMP-2092,36,Female,Engineering,Analyst,Master's,48522.46,4,1,1,55.6,Yes,1.0,3,2,12,Single,No
+EMP-2093,42,Male,Engineering,Manager,PhD,97248.62,1,1,7,45.5,No,2.8,4,4,46,Single,No
+EMP-2094,37,Female,Marketing,Associate,Bachelor's,37028.86,4,2,3,36.1,No,2.2,3,4,18,Single,Yes
+EMP-2095,31,Male,Engineering,Senior Engineer,Bachelor's,72714.91,5,4,9,59.1,Yes,1.1,4,1,38,Married,No
+EMP-2096,46,Male,Sales,Analyst,Bachelor's,45814.54,4,3,10,54.5,Yes,3.4,3,1,25,Married,No
+EMP-2097,49,Male,Marketing,Director,Bachelor's,118205.48,2,2,9,43.7,No,1.0,5,4,22,Married,No
+EMP-2098,40,Other,Finance,Analyst,Master's,49783.42,4,3,3,41.8,No,2.1,3,5,41,Married,Yes
+EMP-2099,44,Male,Engineering,Team Lead,High School,72463.66,6,0,7,49.7,No,3.1,5,2,50,Divorced,Yes
+EMP-2100,46,Female,Operations,Associate,Bachelor's,38705.56,10,3,8,59.7,Yes,1.7,3,1,33,Married,No
+EMP-2101,45,Female,Marketing,Team Lead,Master's,60334.43,1,0,6,42.3,Yes,3.5,4,4,43,Married,No
+EMP-2102,41,Female,Sales,Associate,Bachelor's,34940.11,9,6,6,58.7,No,4.4,3,1,8,Divorced,No
+EMP-2103,41,Female,Finance,Manager,High School,73522.01,4,1,5,43.3,Yes,3.2,4,2,46,Married,No
+EMP-2104,40,Female,Marketing,Associate,Bachelor's,30821.93,0,0,4,52.6,Yes,2.1,3,1,10,Divorced,No
+EMP-2105,27,Male,Marketing,Analyst,Master's,52314.79,3,3,6,44.5,No,2.7,1,2,10,Single,No
+EMP-2106,42,Male,HR,Analyst,Bachelor's,41909.82,3,1,10,37.1,No,1.1,3,2,43,Married,Yes
+EMP-2107,25,Female,Marketing,Associate,Bachelor's,34053.15,4,2,3,58.4,Yes,3.0,3,2,25,Single,No
+EMP-2108,30,Male,Operations,Team Lead,Bachelor's,69992.75,4,4,1,39.1,No,2.7,5,2,13,Married,No
+EMP-2109,46,Male,HR,Senior Engineer,Master's,89334.16,13,4,1,58.6,Yes,1.1,4,1,2,Single,No
+EMP-2110,43,Male,Finance,Manager,Bachelor's,90843.74,3,0,6,37.6,No,3.4,4,2,11,Single,No
+EMP-2111,48,Male,Marketing,Director,High School,91728.41,4,1,3,41.7,No,4.0,3,1,42,Single,No
+EMP-2112,34,Male,Operations,Team Lead,PhD,70420.78,1,0,5,58.0,Yes,2.2,3,2,1,Married,No
+EMP-2113,27,Male,Operations,Associate,Master's,34953.66,3,2,10,51.5,No,1.6,3,3,47,Married,No
+EMP-2114,34,Other,Engineering,Senior Engineer,Bachelor's,84196.89,10,7,1,39.7,No,4.7,3,4,39,Married,No
+EMP-2115,37,Male,Engineering,Analyst,Bachelor's,42779.04,4,2,2,49.8,Yes,1.0,4,2,11,Married,No
+EMP-2116,37,Other,HR,Analyst,Bachelor's,52823.75,2,1,3,39.5,No,4.9,4,1,37,Divorced,No
+EMP-2117,45,Other,Sales,Executive,Master's,126991.0,1,1,5,56.9,Yes,1.5,3,1,26,Divorced,No
+EMP-2118,33,Male,HR,Manager,Bachelor's,92696.04,2,0,7,36.2,No,4.8,1,4,18,Single,No
+EMP-2119,39,Female,Finance,Associate,PhD,42992.43,2,0,2,48.2,Yes,3.7,2,2,26,Married,No
+EMP-2120,28,Female,Operations,Team Lead,Master's,68650.61,1,1,2,36.6,No,2.6,3,4,1,Married,No
+EMP-2121,40,Female,Sales,Analyst,Master's,61948.6,19,9,1,52.4,Yes,2.9,1,1,45,Married,Yes
+EMP-2122,36,Male,Marketing,Manager,High School,88713.64,2,1,9,58.4,No,1.4,3,2,40,Married,No
+EMP-2123,30,Male,Engineering,Senior Engineer,Master's,94820.1,1,0,1,55.8,Yes,1.0,2,1,9,Married,No
+EMP-2124,34,Male,HR,Associate,Master's,36465.16,2,2,7,44.3,No,2.4,2,5,5,Single,No
+EMP-2125,35,Female,Engineering,Analyst,Master's,49334.92,1,0,6,40.9,No,3.4,4,1,22,Married,No
+EMP-2126,34,Other,HR,Associate,High School,32115.15,8,6,2,38.0,No,1.0,5,2,24,Married,No
+EMP-2127,50,Female,HR,Manager,Master's,84028.56,2,2,6,56.8,Yes,2.3,3,2,39,Married,No
+EMP-2128,35,Female,Marketing,Analyst,Master's,49778.35,0,0,3,37.0,No,4.9,3,1,43,Married,No
+EMP-2129,34,Other,Marketing,Analyst,PhD,55425.16,3,3,6,50.7,Yes,3.5,3,1,4,Single,No
+EMP-2130,22,Female,Sales,Senior Engineer,Master's,74067.92,6,0,2,44.2,No,1.9,4,1,13,Single,No
+EMP-2131,29,Male,Engineering,Executive,Bachelor's,136815.38,0,0,7,59.9,No,3.1,4,2,30,Single,No
+EMP-2132,34,Female,Engineering,Analyst,Bachelor's,46346.55,2,0,8,47.7,No,1.7,4,2,19,Single,No
+EMP-2133,31,Male,Operations,Team Lead,Master's,67537.34,5,3,1,48.7,No,2.1,4,1,50,Single,No
+EMP-2134,47,Male,Operations,Manager,PhD,93685.64,1,1,6,57.9,Yes,3.7,5,1,34,Married,No
+EMP-2135,35,Female,Sales,Associate,Master's,37778.79,1,1,7,59.2,Yes,4.2,1,1,17,Married,No
+EMP-2136,46,Other,Engineering,Analyst,Bachelor's,53388.01,5,3,1,49.6,Yes,1.2,3,1,34,Married,Yes
+EMP-2137,36,Male,Sales,Associate,High School,39778.65,19,1,8,54.9,Yes,1.1,3,1,22,Married,No
+EMP-2138,36,Male,Marketing,Associate,Master's,39395.23,2,2,6,50.9,Yes,1.6,3,1,24,Single,No
+EMP-2139,35,Male,Sales,Director,Master's,130492.72,11,7,4,45.7,Yes,1.9,2,3,36,Married,No
+EMP-2140,36,Male,Engineering,Team Lead,High School,61153.78,10,5,5,36.4,Yes,1.0,5,4,22,Single,Yes
+EMP-2141,50,Male,Sales,Director,Bachelor's,120541.32,3,2,7,52.9,Yes,1.0,4,2,35,Divorced,Yes
+EMP-2142,22,Female,Engineering,Team Lead,PhD,66598.13,3,0,7,52.5,Yes,1.9,5,2,21,Single,Yes
+EMP-2143,22,Female,Sales,Manager,Bachelor's,83867.53,0,0,8,37.9,No,1.9,5,4,30,Married,Yes
+EMP-2144,32,Male,Engineering,Team Lead,Bachelor's,63831.49,1,1,1,40.8,No,4.4,4,4,25,Divorced,Yes
+EMP-2145,36,Male,Marketing,Team Lead,Bachelor's,60313.49,0,0,8,53.3,No,4.0,5,3,29,Married,No
+EMP-2146,42,Male,HR,Analyst,Bachelor's,58661.45,20,0,1,38.7,No,3.1,4,4,18,Married,No
+EMP-2147,40,Male,Engineering,Senior Engineer,Bachelor's,79372.96,7,6,7,52.3,Yes,1.9,3,1,6,Married,No
+EMP-2148,33,Female,HR,Manager,Master's,88086.05,2,2,4,52.9,Yes,3.2,4,2,13,Single,No
+EMP-2149,44,Female,Sales,Associate,Master's,33585.26,2,2,1,43.8,No,1.7,5,5,18,Married,No
+EMP-2150,44,Female,Finance,Manager,Master's,96050.97,5,4,7,41.5,No,4.5,4,3,16,Divorced,No
+EMP-2151,37,Male,Operations,Associate,Master's,49298.65,16,10,6,44.3,No,1.2,4,2,22,Divorced,No
+EMP-2152,44,Female,Engineering,Manager,High School,86015.06,4,0,7,44.0,No,4.7,3,3,24,Married,No
+EMP-2153,38,Male,Operations,Associate,Bachelor's,33050.97,2,1,4,50.2,Yes,1.0,4,1,13,Married,No
+EMP-2154,32,Male,Marketing,Associate,Bachelor's,34916.5,6,4,3,53.6,Yes,3.4,3,1,20,Married,No
+EMP-2155,42,Other,Marketing,Associate,High School,29813.03,2,2,7,56.5,Yes,1.0,4,3,15,Married,No
+EMP-2156,37,Female,Sales,Associate,Master's,42549.15,15,8,3,35.7,No,4.3,4,1,30,Single,No
+EMP-2157,36,Other,Sales,Director,Bachelor's,115908.16,2,1,9,53.2,Yes,2.2,4,3,24,Single,No
+EMP-2158,48,Other,Engineering,Analyst,Master's,52841.64,1,1,7,42.9,No,1.1,3,3,32,Single,Yes
+EMP-2159,22,Female,Operations,Analyst,Bachelor's,54303.52,3,0,10,56.0,Yes,3.3,4,1,22,Married,No
+EMP-2160,25,Other,Marketing,Analyst,Bachelor's,44159.86,5,1,1,36.9,No,1.4,3,3,50,Single,No
+EMP-2161,27,Male,Sales,Executive,Bachelor's,145125.91,3,1,6,48.8,No,3.2,3,5,25,Single,No
+EMP-2162,33,Male,HR,Manager,Bachelor's,89952.98,3,3,6,48.7,No,2.3,2,1,31,Single,Yes
+EMP-2163,34,Male,Engineering,Analyst,Master's,48836.79,3,3,9,43.2,No,4.0,4,3,23,Divorced,Yes
+EMP-2164,24,Male,Engineering,Senior Engineer,Master's,74819.6,3,2,5,59.3,Yes,3.1,2,1,37,Single,No
+EMP-2165,28,Male,Marketing,Team Lead,Bachelor's,67397.76,6,0,10,37.7,No,2.9,3,3,28,Single,No
+EMP-2166,29,Male,HR,Executive,Master's,150000.0,0,0,3,38.4,No,4.0,5,4,5,Married,No
+EMP-2167,56,Female,Finance,Manager,Master's,100211.48,6,5,9,51.1,No,4.7,3,4,37,Single,No
+EMP-2168,50,Female,Marketing,Analyst,Bachelor's,41847.38,1,0,6,47.9,Yes,2.9,5,1,39,Divorced,No
+EMP-2169,33,Female,Marketing,Analyst,High School,39496.75,0,0,10,41.6,No,2.3,3,4,21,Divorced,No
+EMP-2170,33,Male,Finance,Analyst,Bachelor's,39986.59,0,0,3,42.6,No,2.9,3,3,26,Married,No
+EMP-2171,27,Female,Engineering,Team Lead,High School,58386.33,4,3,3,38.9,No,1.9,4,3,1,Married,No
+EMP-2172,22,Male,Marketing,Senior Engineer,Master's,98306.04,13,4,6,56.7,Yes,2.3,3,1,44,Married,Yes
+EMP-2173,35,Male,Marketing,Senior Engineer,Bachelor's,67538.33,0,0,6,49.2,Yes,1.2,5,4,39,Single,No
+EMP-2174,28,Male,Engineering,Team Lead,Bachelor's,48098.56,5,4,2,41.1,No,4.2,3,1,49,Single,No
+EMP-2175,35,Male,Engineering,Senior Engineer,Master's,96470.56,14,2,7,44.8,No,3.4,4,1,30,Single,No
+EMP-2176,23,Male,Engineering,Executive,Bachelor's,143808.59,9,1,5,57.7,Yes,2.8,3,2,12,Single,No
+EMP-2177,30,Female,Engineering,Analyst,Master's,46470.95,2,0,2,57.2,Yes,1.0,4,1,15,Married,Yes
+EMP-2178,37,Female,HR,Analyst,High School,42078.66,8,8,6,36.7,No,1.0,3,1,47,Single,No
+EMP-2179,39,Female,Engineering,Team Lead,Bachelor's,63373.78,1,0,7,51.4,Yes,3.5,4,2,3,Single,No
+EMP-2180,39,Male,Marketing,Analyst,High School,47401.01,15,3,1,38.8,No,3.2,2,2,34,Married,No
+EMP-2181,25,Female,Engineering,Associate,Bachelor's,35456.38,0,0,10,40.3,No,4.7,4,5,4,Married,No
+EMP-2182,43,Female,Engineering,Executive,Bachelor's,148450.49,3,1,7,56.6,Yes,2.1,3,3,37,Single,No
+EMP-2183,30,Male,Sales,Team Lead,Master's,65539.63,1,1,3,57.4,Yes,1.0,3,1,30,Single,No
+EMP-2184,41,Female,Engineering,Team Lead,Master's,67044.82,4,1,8,37.1,No,3.8,4,3,24,Single,No
+EMP-2185,36,Male,Operations,Analyst,Master's,48490.4,0,0,9,56.8,Yes,2.4,3,1,36,Single,Yes
+EMP-2186,25,Male,Sales,Associate,High School,30540.59,2,2,10,53.2,No,1.3,4,3,18,Married,No
+EMP-2187,33,Male,Engineering,Team Lead,PhD,67008.43,6,6,8,54.4,Yes,2.9,4,3,29,Divorced,No
+EMP-2188,39,Female,Engineering,Manager,High School,86484.62,0,0,3,54.8,Yes,1.0,2,2,41,Married,No
+EMP-2189,41,Male,Sales,Senior Engineer,Master's,114615.86,26,7,2,47.7,No,2.0,4,1,23,Married,No
+EMP-2190,35,Male,Marketing,Analyst,Master's,48993.43,4,1,3,58.7,Yes,1.0,3,1,2,Married,Yes
+EMP-2191,48,Male,Finance,Manager,Master's,76202.04,0,0,9,40.0,No,3.5,4,4,50,Married,No
+EMP-2192,44,Other,Sales,Analyst,Bachelor's,44665.83,2,1,4,47.6,No,3.9,3,2,28,Single,No
+EMP-2193,34,Male,Marketing,Team Lead,Master's,70442.94,8,6,4,43.0,No,1.9,3,3,22,Single,No
+EMP-2194,42,Male,Sales,Team Lead,Master's,65680.17,0,0,9,55.6,Yes,2.8,4,1,4,Married,No
+EMP-2195,51,Male,Finance,Executive,Bachelor's,118972.99,6,0,3,37.1,No,4.0,5,3,5,Married,No
+EMP-2196,52,Female,HR,Analyst,Master's,49650.57,5,4,5,45.8,Yes,1.8,5,1,13,Single,Yes
+EMP-2197,26,Female,Engineering,Analyst,High School,39264.03,1,0,3,54.3,Yes,1.0,4,1,47,Single,Yes
+EMP-2198,29,Other,Marketing,Analyst,Bachelor's,49821.67,10,9,4,42.8,Yes,1.0,2,1,37,Married,Yes
+EMP-2199,48,Male,Finance,Analyst,Master's,54156.91,10,6,6,41.0,No,1.7,3,4,21,Single,No
+EMP-2200,28,Male,Sales,Analyst,Master's,48923.65,1,1,8,41.6,No,4.8,3,4,38,Married,No
+EMP-2201,25,Female,Operations,Team Lead,Bachelor's,72952.19,5,0,3,52.8,Yes,3.7,4,3,20,Married,No
+EMP-2202,32,Male,Operations,Team Lead,Bachelor's,62357.88,5,0,1,42.2,No,1.3,3,1,45,Married,No
+EMP-2203,39,Female,Engineering,Analyst,Bachelor's,42016.51,2,0,7,45.1,Yes,2.3,5,1,17,Single,Yes
+EMP-2204,35,Female,Finance,Associate,Bachelor's,28866.45,1,1,6,48.6,Yes,1.3,3,1,36,Single,Yes
+EMP-2205,31,Male,Marketing,Executive,Bachelor's,134198.83,4,4,7,58.5,Yes,1.0,2,1,22,Married,No
+EMP-2206,31,Other,HR,Associate,Bachelor's,30619.23,3,3,5,54.9,Yes,1.6,4,1,34,Married,No
+EMP-2207,30,Female,HR,Analyst,Master's,54012.67,3,1,8,39.6,No,1.5,3,1,10,Single,No
+EMP-2208,29,Male,Operations,Manager,Bachelor's,83093.69,1,0,7,57.1,Yes,1.0,1,1,48,Single,Yes
+EMP-2209,54,Male,Marketing,Team Lead,Bachelor's,65047.01,0,0,8,56.1,Yes,1.0,4,1,15,Married,No
+EMP-2210,38,Male,HR,Director,Bachelor's,137645.91,8,3,8,53.6,No,2.6,5,3,27,Married,No
+EMP-2211,43,Female,Engineering,Senior Engineer,High School,68669.43,9,8,5,47.9,No,2.9,3,3,35,Divorced,No
+EMP-2212,32,Male,Sales,Manager,Bachelor's,87426.09,6,1,4,36.7,Yes,2.5,3,1,33,Married,No
+EMP-2213,35,Male,Operations,Director,Bachelor's,127196.19,3,2,6,52.8,Yes,1.2,3,1,28,Married,No
+EMP-2214,30,Female,Marketing,Associate,Bachelor's,35007.01,3,2,7,48.0,Yes,1.8,4,3,44,Married,Yes
+EMP-2215,22,Male,Engineering,Analyst,Bachelor's,47210.79,2,1,6,42.7,No,2.7,3,5,49,Single,No
+EMP-2216,25,Male,Operations,Executive,Master's,150000.0,1,0,6,35.2,No,4.9,4,5,39,Married,No
+EMP-2217,22,Female,Finance,Analyst,Master's,62245.57,14,7,4,40.8,No,1.3,3,3,10,Married,No
+EMP-2218,22,Male,HR,Team Lead,Bachelor's,63423.43,1,1,2,50.1,No,3.3,5,2,39,Single,No
+EMP-2219,26,Male,Engineering,Associate,Bachelor's,36686.39,0,0,5,37.8,No,1.8,4,5,26,Divorced,No
+EMP-2220,47,Male,HR,Associate,High School,30283.73,1,0,9,51.4,Yes,1.3,4,3,27,Married,No
+EMP-2221,36,Male,Engineering,Team Lead,Bachelor's,64904.38,2,1,8,55.5,Yes,2.4,3,3,48,Single,Yes
+EMP-2222,46,Male,Sales,Analyst,Master's,48740.88,2,0,8,43.0,Yes,2.6,3,1,27,Married,No
+EMP-2223,39,Female,Marketing,Executive,Master's,150000.0,3,0,8,37.0,Yes,3.6,3,2,43,Divorced,No
+EMP-2224,42,Other,Operations,Director,High School,105721.15,8,5,10,38.5,No,3.0,4,1,33,Divorced,No
+EMP-2225,29,Male,Sales,Executive,Bachelor's,143357.44,17,5,3,43.9,No,2.0,3,1,5,Married,No
+EMP-2226,40,Other,Operations,Associate,Bachelor's,37333.68,5,1,8,55.3,Yes,2.8,2,1,36,Divorced,No
+EMP-2227,42,Female,Operations,Manager,Bachelor's,93951.19,16,0,1,50.9,Yes,1.1,3,3,25,Divorced,No
+EMP-2228,31,Female,Engineering,Director,PhD,120135.27,1,1,3,56.7,Yes,1.6,2,1,28,Married,No
+EMP-2229,40,Female,Engineering,Manager,Bachelor's,99024.91,6,5,1,59.9,Yes,3.9,3,1,16,Divorced,No
+EMP-2230,41,Female,Marketing,Manager,High School,82009.64,1,1,5,40.1,No,2.6,4,5,10,Married,Yes
+EMP-2231,32,Female,Finance,Analyst,Bachelor's,46645.89,6,0,2,52.4,Yes,2.6,4,1,38,Married,Yes
+EMP-2232,27,Male,Sales,Executive,Bachelor's,101337.51,1,0,4,46.7,Yes,1.0,3,1,13,Married,No
+EMP-2233,27,Female,Marketing,Analyst,Bachelor's,46565.16,1,0,2,47.3,Yes,1.0,4,3,5,Married,Yes
+EMP-2234,37,Male,Marketing,Associate,Bachelor's,35270.25,1,0,1,43.1,No,4.9,1,2,25,Single,No
+EMP-2235,39,Male,Marketing,Director,Bachelor's,119702.6,3,1,5,43.6,No,1.7,5,2,36,Married,Yes
+EMP-2236,30,Female,Marketing,Director,High School,114662.34,7,5,5,51.9,Yes,1.5,4,3,11,Divorced,Yes
+EMP-2237,36,Male,Engineering,Executive,Master's,141910.4,0,0,5,50.5,Yes,1.7,3,1,19,Married,Yes
+EMP-2238,41,Male,Engineering,Analyst,Bachelor's,48938.42,10,2,4,43.0,No,2.5,4,2,22,Divorced,No
+EMP-2239,41,Male,Engineering,Senior Engineer,High School,60136.68,1,0,5,38.0,No,1.4,3,5,47,Married,No
+EMP-2240,48,Male,Operations,Team Lead,Master's,66991.58,5,3,1,49.5,Yes,1.0,3,3,8,Single,No
+EMP-2241,46,Female,Operations,Associate,Bachelor's,34864.18,2,0,5,53.5,Yes,2.3,3,2,46,Single,No
+EMP-2242,28,Female,Finance,Director,PhD,133514.44,0,0,9,49.0,No,2.8,5,2,8,Married,No
+EMP-2243,49,Male,Engineering,Manager,PhD,106770.45,2,1,2,35.1,No,4.2,5,4,29,Married,No
+EMP-2244,32,Male,HR,Analyst,Bachelor's,39635.1,1,1,2,42.1,No,2.2,4,5,43,Married,No
+EMP-2245,44,Male,Engineering,Senior Engineer,Bachelor's,62939.37,1,1,8,54.5,Yes,3.8,4,1,46,Married,No
+EMP-2246,37,Male,Sales,Analyst,Master's,46541.93,0,0,6,53.6,Yes,1.0,2,1,28,Married,No
+EMP-2247,33,Female,Engineering,Associate,Bachelor's,33489.61,7,2,3,35.3,Yes,1.8,4,2,25,Married,No
+EMP-2248,22,Female,Finance,Team Lead,Bachelor's,67847.2,7,0,8,46.8,Yes,3.4,3,3,40,Divorced,No
+EMP-2249,35,Male,Engineering,Senior Engineer,Master's,80300.33,10,9,4,45.9,No,4.4,3,1,46,Married,No
+EMP-2250,24,Male,Marketing,Analyst,Bachelor's,53210.63,7,4,7,51.3,Yes,1.0,5,1,1,Married,Yes
+EMP-2251,44,Other,Operations,Analyst,Master's,58968.92,21,5,6,38.1,No,2.6,4,1,14,Married,No
+EMP-2252,48,Female,Marketing,Analyst,Master's,54115.87,0,0,2,50.5,Yes,3.7,5,3,15,Divorced,No
+EMP-2253,30,Male,Engineering,Director,Master's,125033.3,0,0,8,58.7,Yes,1.0,4,2,42,Single,No
+EMP-2254,38,Male,Operations,Manager,Master's,83638.36,1,1,7,44.3,No,2.2,3,5,1,Single,Yes
+EMP-2255,30,Male,Marketing,Analyst,Master's,57725.14,2,2,3,43.4,No,3.1,4,2,7,Single,No
+EMP-2256,31,Other,Sales,Team Lead,Bachelor's,66418.65,5,0,8,35.7,No,4.3,2,4,1,Married,No
+EMP-2257,42,Male,Marketing,Associate,PhD,39518.29,0,0,7,36.4,No,3.3,5,2,48,Married,No
+EMP-2258,36,Male,Operations,Associate,PhD,41124.33,4,4,9,58.3,Yes,2.0,1,1,2,Married,No
+EMP-2259,50,Other,Sales,Manager,Master's,104562.29,8,5,9,59.4,Yes,3.7,4,1,14,Married,No
+EMP-2260,32,Female,HR,Associate,Master's,44265.59,12,6,4,35.1,No,1.5,4,3,27,Single,No
+EMP-2261,44,Male,Sales,Analyst,Master's,46018.86,2,2,10,57.5,Yes,3.4,2,1,18,Married,No
+EMP-2262,37,Male,Engineering,Associate,Bachelor's,36815.11,9,3,1,39.3,No,1.5,2,5,5,Divorced,No
+EMP-2263,42,Male,Finance,Director,Master's,126560.71,3,3,4,49.0,No,3.9,3,2,21,Single,No
+EMP-2264,32,Female,Engineering,Analyst,High School,42492.74,1,1,7,52.0,Yes,2.5,3,2,40,Single,No
+EMP-2265,36,Male,Sales,Manager,Bachelor's,87754.82,1,1,6,44.0,No,2.1,5,1,15,Single,No
+EMP-2266,35,Other,Sales,Associate,Bachelor's,34437.42,2,1,3,48.2,Yes,2.6,3,4,26,Married,No
+EMP-2267,29,Other,Engineering,Manager,Master's,88618.8,2,2,2,50.7,Yes,3.7,3,1,24,Single,No
+EMP-2268,41,Female,Sales,Associate,Master's,34781.43,1,0,8,39.8,No,2.9,3,4,13,Married,No
+EMP-2269,41,Female,Marketing,Manager,Bachelor's,79114.35,4,1,9,59.9,Yes,1.0,2,1,1,Married,No
+EMP-2270,41,Male,Sales,Associate,Bachelor's,36638.34,4,1,7,40.1,Yes,1.0,3,1,42,Married,No
+EMP-2271,48,Male,Engineering,Director,Bachelor's,117128.93,8,8,6,35.3,No,3.5,5,5,50,Married,No
+EMP-2272,48,Female,Operations,Director,Bachelor's,109937.25,1,1,8,58.6,Yes,2.5,4,1,26,Single,Yes
+EMP-2273,33,Male,Operations,Analyst,High School,44429.25,6,1,3,45.7,Yes,1.7,5,2,42,Divorced,No
+EMP-2274,39,Male,Sales,Team Lead,Master's,68991.71,3,3,10,45.0,No,2.0,3,2,18,Married,No
+EMP-2275,31,Male,Sales,Associate,Bachelor's,35459.08,5,3,2,41.9,No,3.9,3,2,48,Married,No
+EMP-2276,36,Male,Engineering,Team Lead,Bachelor's,59487.18,4,0,6,35.6,No,2.2,1,4,29,Single,No
+EMP-2277,31,Male,Engineering,Senior Engineer,Bachelor's,78515.74,5,4,4,41.6,No,1.3,3,4,41,Married,No
+EMP-2278,49,Female,Sales,Associate,Bachelor's,34104.58,4,0,10,44.8,No,2.6,1,3,34,Divorced,No
+EMP-2279,39,Female,Operations,Manager,Master's,108147.28,14,9,3,48.0,No,3.2,1,4,47,Single,Yes
+EMP-2280,34,Female,Marketing,Associate,Bachelor's,37138.75,2,1,7,46.4,No,4.9,4,1,28,Single,Yes
+EMP-2281,46,Female,Sales,Manager,Bachelor's,87122.63,1,1,2,57.0,No,3.4,3,1,43,Single,No
+EMP-2282,22,Male,Operations,Team Lead,Master's,63930.94,1,0,2,57.8,Yes,1.0,4,2,47,Married,No
+EMP-2283,22,Female,Sales,Associate,High School,30976.52,3,0,5,42.9,No,4.3,4,4,39,Divorced,No
+EMP-2284,42,Female,Engineering,Senior Engineer,Master's,90619.9,2,2,8,59.0,Yes,1.1,4,1,18,Married,Yes
+EMP-2285,36,Male,Sales,Manager,PhD,97955.49,2,2,3,56.6,Yes,3.4,3,3,5,Married,No
+EMP-2286,38,Other,Engineering,Manager,Master's,90287.14,0,0,7,58.2,Yes,1.3,4,1,21,Married,No
+EMP-2287,25,Male,Operations,Associate,PhD,42920.38,3,1,6,52.7,Yes,4.0,3,1,35,Married,No
+EMP-2288,36,Male,Sales,Analyst,Bachelor's,50128.37,8,1,10,40.0,No,4.5,2,3,43,Single,No
+EMP-2289,52,Male,Marketing,Manager,Bachelor's,82440.58,2,2,4,39.9,No,4.5,3,2,39,Single,No
+EMP-2290,43,Male,Sales,Team Lead,Bachelor's,58608.9,2,2,3,57.7,Yes,1.0,1,1,32,Married,No
+EMP-2291,37,Male,Operations,Senior Engineer,High School,65921.7,1,0,10,47.7,Yes,3.0,3,1,27,Married,No
+EMP-2292,32,Female,Marketing,Associate,Bachelor's,35779.29,2,2,4,57.3,Yes,2.9,4,1,49,Married,No
+EMP-2293,33,Female,Sales,Manager,Bachelor's,111741.98,15,2,3,53.0,Yes,1.5,4,3,13,Married,Yes
+EMP-2294,22,Male,Engineering,Manager,Bachelor's,75013.52,2,0,9,40.3,No,3.0,3,4,40,Married,No
+EMP-2295,38,Female,Operations,Analyst,Bachelor's,50205.0,0,0,9,44.6,No,3.6,2,2,28,Single,Yes
+EMP-2296,43,Male,HR,Associate,Master's,38862.17,7,5,1,59.2,Yes,4.0,3,3,26,Married,No
+EMP-2297,23,Female,Engineering,Senior Engineer,Bachelor's,76790.01,0,0,9,35.5,No,4.1,5,4,20,Single,No
+EMP-2298,31,Male,Operations,Senior Engineer,Bachelor's,72327.4,5,4,7,52.9,Yes,2.0,3,2,32,Divorced,No
+EMP-2299,27,Male,Engineering,Senior Engineer,Bachelor's,66957.45,5,5,3,59.5,Yes,3.0,3,2,50,Married,No
+EMP-2300,28,Female,Sales,Manager,Master's,92628.81,10,5,6,37.6,No,1.7,2,5,21,Single,No
+EMP-2301,36,Female,HR,Manager,Bachelor's,81520.42,1,0,3,41.8,No,2.7,4,5,6,Single,No
+EMP-2302,22,Female,Sales,Analyst,Master's,51512.89,2,1,2,48.7,Yes,3.3,3,1,7,Married,Yes
+EMP-2303,41,Female,Sales,Executive,High School,147366.82,15,7,2,56.1,No,3.4,2,3,9,Married,No
+EMP-2304,42,Female,Engineering,Team Lead,Bachelor's,61067.53,2,2,2,47.7,Yes,3.5,3,1,21,Married,Yes
+EMP-2305,34,Male,Engineering,Senior Engineer,PhD,93438.71,1,0,6,36.5,No,3.0,4,3,1,Single,No
+EMP-2306,22,Male,Engineering,Team Lead,High School,64085.18,11,7,9,38.2,No,2.5,3,1,15,Divorced,No
+EMP-2307,28,Male,Engineering,Manager,Bachelor's,86876.98,2,1,5,44.4,No,4.0,5,1,35,Married,No
+EMP-2308,46,Male,Operations,Analyst,High School,49955.29,0,0,1,43.1,No,1.4,5,4,34,Married,No
+EMP-2309,22,Male,HR,Team Lead,Bachelor's,63181.84,3,2,5,40.5,No,4.9,4,2,34,Married,No
+EMP-2310,33,Male,Sales,Team Lead,Bachelor's,61417.02,5,0,8,56.0,Yes,3.8,5,1,34,Divorced,No
+EMP-2311,27,Male,Sales,Analyst,Bachelor's,46378.37,1,0,9,35.7,No,4.5,4,5,4,Divorced,No
+EMP-2312,42,Female,Marketing,Senior Engineer,Bachelor's,79105.44,3,2,8,55.7,Yes,3.7,3,3,47,Married,No
+EMP-2313,31,Male,Engineering,Manager,PhD,107336.25,5,1,4,58.0,Yes,1.7,4,1,15,Married,No
+EMP-2314,39,Female,Engineering,Manager,Bachelor's,89800.79,5,3,7,50.8,No,3.0,4,2,4,Married,No
+EMP-2315,41,Female,Marketing,Analyst,Bachelor's,52170.5,4,0,1,50.6,No,4.3,4,1,41,Married,Yes
+EMP-2316,51,Male,Sales,Associate,Master's,39908.87,0,0,5,38.7,No,2.1,4,5,24,Married,No
+EMP-2317,34,Male,Finance,Manager,Bachelor's,82953.04,1,1,6,49.2,No,4.4,4,4,18,Single,No
+EMP-2318,39,Female,Operations,Team Lead,Master's,70114.63,8,2,1,44.4,No,1.8,5,3,20,Single,No
+EMP-2319,24,Female,Finance,Associate,Bachelor's,36181.08,4,2,1,40.7,No,4.5,3,5,30,Divorced,No
+EMP-2320,46,Male,Engineering,Team Lead,Master's,66326.37,4,1,9,49.6,No,3.2,4,4,27,Divorced,No
+EMP-2321,30,Male,Engineering,Senior Engineer,PhD,104056.25,10,4,3,35.0,No,4.4,4,1,1,Divorced,No
+EMP-2322,32,Female,Engineering,Team Lead,Bachelor's,65367.29,3,2,2,41.9,No,3.0,5,3,6,Married,No
+EMP-2323,36,Female,Finance,Senior Engineer,Master's,98920.74,3,2,6,51.4,Yes,2.8,3,3,48,Married,No
+EMP-2324,23,Male,Operations,Manager,Master's,102116.85,1,1,3,46.4,Yes,3.2,3,2,25,Married,No
+EMP-2325,38,Male,Operations,Manager,Master's,85933.56,3,3,10,38.6,No,2.7,3,1,50,Married,No
+EMP-2326,44,Female,Engineering,Associate,Bachelor's,33053.77,3,0,10,35.0,No,1.9,2,4,33,Single,No
+EMP-2327,38,Male,Finance,Analyst,Bachelor's,37262.89,0,0,9,41.8,No,1.4,2,3,37,Divorced,No
+EMP-2328,23,Female,HR,Manager,Bachelor's,72494.32,4,4,4,48.7,Yes,2.7,3,1,16,Single,No
+EMP-2329,35,Male,Finance,Executive,PhD,150000.0,1,1,9,48.4,No,3.4,2,5,42,Married,No
+EMP-2330,42,Female,HR,Manager,High School,75987.18,8,2,3,38.3,No,3.5,5,5,33,Married,No
+EMP-2331,22,Male,Engineering,Senior Engineer,High School,75740.19,2,2,3,50.3,No,1.1,3,2,38,Married,No
+EMP-2332,27,Male,Engineering,Executive,Master's,150000.0,3,2,10,60.0,Yes,1.0,3,2,14,Single,Yes
+EMP-2333,43,Other,Operations,Associate,Bachelor's,34220.25,4,0,7,49.6,Yes,3.4,4,1,30,Married,No
+EMP-2334,38,Male,Sales,Analyst,Master's,46739.28,0,0,1,48.2,Yes,2.7,3,3,19,Single,No
+EMP-2335,39,Other,Sales,Associate,Bachelor's,40244.31,6,1,9,50.6,Yes,1.0,4,3,46,Married,No
+EMP-2336,51,Male,Sales,Analyst,Master's,61134.18,8,5,2,57.0,Yes,1.0,4,1,46,Single,Yes
+EMP-2337,40,Female,Sales,Analyst,Bachelor's,41938.77,2,2,7,58.6,No,1.6,3,4,18,Married,No
+EMP-2338,41,Other,Operations,Team Lead,Bachelor's,58685.71,4,0,5,36.0,No,4.2,3,1,2,Married,No
+EMP-2339,58,Female,Engineering,Director,Bachelor's,112181.17,3,2,1,40.1,No,3.9,3,3,13,Single,No
+EMP-2340,34,Male,Engineering,Analyst,Bachelor's,46883.33,2,1,8,37.9,No,3.6,3,1,14,Single,Yes
+EMP-2341,30,Female,Finance,Associate,Bachelor's,33067.88,3,3,7,54.3,Yes,2.3,4,1,1,Married,No
+EMP-2342,39,Female,HR,Director,Bachelor's,124237.64,6,5,9,36.1,No,4.4,3,4,47,Single,Yes
+EMP-2343,40,Other,Engineering,Associate,Master's,42865.37,2,2,7,57.6,Yes,1.0,3,3,24,Single,No
+EMP-2344,32,Male,Engineering,Senior Engineer,Bachelor's,65361.23,2,0,8,35.5,No,2.3,3,1,8,Married,No
+EMP-2345,28,Male,Engineering,Senior Engineer,Bachelor's,79293.34,10,8,10,50.1,No,2.7,1,4,31,Divorced,No
+EMP-2346,54,Male,Engineering,Manager,Bachelor's,73345.85,0,0,10,41.9,No,5.0,3,5,20,Married,No
+EMP-2347,39,Female,Engineering,Associate,Bachelor's,32177.03,3,1,6,46.8,No,3.2,4,1,9,Married,No
+EMP-2348,30,Other,Engineering,Manager,Master's,93151.03,4,2,1,46.0,No,3.2,1,5,23,Divorced,No
+EMP-2349,43,Male,Marketing,Analyst,Bachelor's,46413.04,8,7,4,53.7,Yes,3.3,4,3,30,Married,No
+EMP-2350,35,Female,Operations,Manager,Master's,106399.26,9,8,7,47.4,No,1.7,5,1,33,Married,Yes
+EMP-2351,34,Other,Operations,Manager,Master's,92453.19,1,0,2,45.5,Yes,1.6,4,1,12,Married,No
+EMP-2352,40,Male,Sales,Manager,Master's,104593.58,9,2,2,53.3,Yes,2.5,3,2,31,Married,No
+EMP-2353,26,Male,Sales,Executive,Master's,150000.0,8,6,4,58.1,Yes,3.6,3,1,40,Married,No
+EMP-2354,39,Female,Operations,Manager,Bachelor's,82299.84,1,1,10,54.8,No,1.6,4,1,32,Married,No
+EMP-2355,51,Female,Finance,Associate,PhD,40748.78,5,3,4,53.4,Yes,2.0,4,1,48,Single,Yes
+EMP-2356,40,Male,HR,Manager,Master's,90855.95,2,0,10,47.2,No,4.6,5,2,48,Married,No
+EMP-2357,33,Female,Engineering,Team Lead,Master's,72305.11,4,0,9,57.5,Yes,2.8,3,3,25,Single,No
+EMP-2358,32,Female,Sales,Manager,Bachelor's,72946.18,3,2,4,47.2,No,3.5,3,2,20,Married,No
+EMP-2359,33,Other,HR,Analyst,Bachelor's,51090.38,9,7,3,58.3,Yes,1.2,3,1,23,Single,No
+EMP-2360,34,Female,HR,Team Lead,Master's,63255.5,2,2,9,55.1,Yes,1.2,5,3,25,Married,Yes
+EMP-2361,33,Female,Engineering,Manager,Bachelor's,83875.4,3,2,8,38.8,Yes,1.1,4,4,9,Married,No
+EMP-2362,43,Female,Operations,Team Lead,Master's,59487.76,2,1,7,36.2,No,2.0,5,5,49,Married,No
+EMP-2363,22,Male,HR,Associate,Bachelor's,39745.85,16,1,10,53.5,Yes,3.1,4,3,29,Single,No
+EMP-2364,43,Female,HR,Team Lead,Bachelor's,61844.96,0,0,2,52.1,Yes,3.1,5,1,7,Single,No
+EMP-2365,33,Male,Engineering,Manager,Bachelor's,91930.51,5,4,4,50.1,Yes,3.4,4,2,46,Married,No
+EMP-2366,39,Female,Finance,Manager,Bachelor's,108271.81,30,10,7,59.4,Yes,1.0,5,1,48,Single,No
+EMP-2367,27,Male,Marketing,Associate,High School,32840.09,4,0,1,48.6,Yes,1.3,5,2,29,Married,No
+EMP-2368,47,Female,Engineering,Senior Engineer,Master's,92772.3,6,3,10,43.7,Yes,3.4,4,2,48,Married,Yes
+EMP-2369,46,Male,HR,Senior Engineer,Master's,88404.86,12,3,6,49.1,Yes,1.0,5,4,49,Single,No
+EMP-2370,44,Male,Marketing,Executive,PhD,150000.0,1,1,4,35.7,No,1.6,4,3,48,Married,No
+EMP-2371,24,Male,Finance,Associate,Master's,30042.59,0,0,3,49.5,Yes,1.8,4,1,49,Married,Yes
+EMP-2372,43,Female,Engineering,Analyst,Master's,45223.72,1,1,1,57.6,Yes,1.0,4,1,4,Single,Yes
+EMP-2373,39,Female,Operations,Manager,Bachelor's,89342.56,4,1,6,35.1,No,1.3,4,3,2,Divorced,No
+EMP-2374,23,Male,Sales,Manager,Master's,101238.94,3,3,10,56.1,Yes,1.1,4,3,29,Single,No
+EMP-2375,36,Female,Engineering,Executive,PhD,150000.0,6,0,1,55.0,No,4.5,4,3,38,Married,No
+EMP-2376,39,Female,Engineering,Senior Engineer,Master's,97496.68,2,2,5,37.7,No,1.2,3,5,42,Married,No
+EMP-2377,40,Male,Engineering,Senior Engineer,Bachelor's,82090.9,8,6,7,56.2,Yes,2.4,4,1,33,Married,Yes
+EMP-2378,37,Female,Engineering,Manager,Master's,82044.31,1,0,5,54.1,No,3.3,5,2,16,Married,No
+EMP-2379,38,Male,Sales,Associate,Bachelor's,36944.13,1,1,7,47.3,No,3.1,4,4,47,Single,Yes
+EMP-2380,48,Male,Marketing,Manager,High School,69506.81,2,0,8,41.1,No,3.0,3,5,30,Divorced,No
+EMP-2381,46,Female,Engineering,Team Lead,Master's,72814.15,5,1,10,42.2,No,1.1,5,2,35,Married,No
+EMP-2382,22,Male,Operations,Associate,Master's,33823.64,1,0,7,50.3,No,1.2,4,3,13,Divorced,Yes
+EMP-2383,33,Female,Engineering,Analyst,Bachelor's,45693.43,11,8,8,41.2,No,3.0,3,2,38,Married,No
+EMP-2384,35,Other,HR,Manager,High School,88042.48,6,5,4,43.1,No,4.9,4,3,7,Divorced,No
+EMP-2385,22,Female,Operations,Senior Engineer,Master's,79816.05,3,2,2,58.3,Yes,1.5,4,2,44,Married,No
+EMP-2386,37,Female,Finance,Manager,Bachelor's,98114.46,3,3,1,53.2,No,2.9,4,4,43,Married,No
+EMP-2387,46,Female,Marketing,Analyst,High School,37293.75,1,0,2,53.4,No,4.9,3,2,35,Married,No
+EMP-2388,27,Other,Marketing,Manager,Master's,79952.15,1,1,9,58.9,Yes,3.1,3,1,50,Married,No
+EMP-2389,39,Male,Engineering,Analyst,Master's,49619.94,5,4,1,35.1,No,4.1,5,5,46,Married,No
+EMP-2390,29,Male,Engineering,Team Lead,Bachelor's,75607.41,1,0,5,41.1,No,3.0,5,3,4,Married,No
+EMP-2391,31,Female,Sales,Manager,Bachelor's,89323.9,1,1,7,51.4,Yes,3.3,3,1,12,Single,No
+EMP-2392,48,Male,Engineering,Senior Engineer,Bachelor's,88108.56,12,1,7,46.0,No,3.3,5,2,7,Married,No
+EMP-2393,32,Male,Sales,Team Lead,Bachelor's,65241.01,2,1,1,37.8,No,3.6,3,4,17,Single,Yes
+EMP-2394,40,Male,Engineering,Manager,Master's,87806.76,1,1,9,54.5,Yes,3.1,3,2,30,Divorced,No
+EMP-2395,22,Female,Operations,Associate,Master's,44518.44,1,1,5,36.2,No,2.6,4,3,8,Single,No
+EMP-2396,51,Male,Operations,Team Lead,Bachelor's,64598.65,2,0,1,48.6,No,4.8,1,1,5,Single,Yes
+EMP-2397,41,Male,Finance,Director,Bachelor's,118300.25,3,2,2,49.1,No,5.0,2,1,33,Married,No
+EMP-2398,35,Male,Marketing,Team Lead,Bachelor's,66245.74,1,1,9,50.9,No,3.3,5,1,32,Married,No
+EMP-2399,41,Male,Engineering,Senior Engineer,High School,66260.32,9,9,10,42.9,No,1.9,4,1,19,Married,No
+EMP-2400,25,Female,Engineering,Team Lead,Bachelor's,59618.6,4,4,8,35.6,No,4.1,3,3,36,Divorced,No
+EMP-2401,45,Male,Marketing,Associate,High School,30293.09,2,2,4,57.2,Yes,1.0,3,1,30,Single,Yes
+EMP-2402,33,Female,Marketing,Manager,Master's,102965.82,4,3,10,58.2,Yes,2.6,4,1,21,Married,No
+EMP-2403,34,Female,Sales,Manager,Bachelor's,75041.84,1,0,3,47.0,No,1.3,4,5,4,Married,No
+EMP-2404,32,Male,Sales,Associate,Master's,39565.65,7,3,3,35.5,No,4.2,3,2,38,Married,No
+EMP-2405,31,Female,Sales,Analyst,Bachelor's,44562.8,2,1,8,49.5,Yes,3.9,3,4,32,Married,Yes
+EMP-2406,42,Female,Engineering,Director,Master's,109605.76,3,1,4,42.9,No,1.4,4,1,6,Single,No
+EMP-2407,38,Female,Sales,Associate,PhD,40779.23,6,6,6,39.6,No,3.9,4,4,10,Married,Yes
+EMP-2408,41,Male,Sales,Executive,Bachelor's,139792.08,1,1,7,39.2,No,4.4,5,5,16,Married,No
+EMP-2409,36,Male,Marketing,Team Lead,High School,48473.61,0,0,2,39.5,No,1.4,3,5,9,Single,Yes
+EMP-2410,40,Other,Operations,Team Lead,Master's,75655.4,2,2,10,43.3,Yes,1.0,5,2,41,Divorced,Yes
+EMP-2411,33,Female,HR,Associate,High School,35324.96,9,6,2,42.0,No,2.6,5,2,47,Married,No
+EMP-2412,54,Other,Marketing,Analyst,Bachelor's,45896.21,1,0,10,55.9,Yes,3.7,3,1,5,Single,No
+EMP-2413,23,Other,Finance,Analyst,High School,42427.77,4,0,3,47.4,No,3.0,1,3,12,Married,No
+EMP-2414,46,Male,Engineering,Manager,Master's,89527.46,6,1,5,45.7,No,1.5,4,5,15,Single,No
+EMP-2415,47,Female,Marketing,Senior Engineer,High School,62545.9,1,1,3,38.6,No,2.0,5,2,50,Single,No
+EMP-2416,29,Male,Sales,Executive,Bachelor's,148045.09,6,2,6,56.9,Yes,1.8,2,3,32,Married,No
+EMP-2417,54,Female,HR,Associate,Bachelor's,36909.96,12,7,1,36.4,Yes,1.0,3,4,48,Single,No
+EMP-2418,44,Male,Engineering,Senior Engineer,Master's,79177.79,0,0,2,41.0,No,3.5,4,1,13,Single,No
+EMP-2419,44,Male,Operations,Associate,Bachelor's,31545.76,2,2,6,50.5,Yes,1.0,4,3,4,Married,No
+EMP-2420,36,Female,Operations,Executive,Master's,149200.47,0,0,7,52.6,Yes,3.4,2,1,25,Single,No
+EMP-2421,34,Female,Engineering,Senior Engineer,Master's,91036.67,8,3,10,55.0,Yes,3.3,3,2,41,Married,No
+EMP-2422,34,Female,Engineering,Senior Engineer,Bachelor's,67786.69,6,6,9,45.3,No,4.5,3,2,42,Married,No
+EMP-2423,39,Male,Engineering,Manager,Bachelor's,84188.4,1,1,10,43.7,No,1.6,5,2,24,Single,No
+EMP-2424,47,Male,Finance,Associate,Master's,33514.65,4,4,8,42.2,No,3.4,4,3,14,Married,No
+EMP-2425,37,Other,HR,Associate,Master's,31559.41,2,0,8,49.2,No,4.1,3,1,3,Single,No
+EMP-2426,29,Male,Engineering,Team Lead,Bachelor's,58489.94,1,0,4,43.7,No,3.1,5,4,22,Married,No
+EMP-2427,43,Male,Finance,Analyst,Bachelor's,57883.54,5,5,10,43.2,No,1.5,4,4,27,Single,No
+EMP-2428,43,Female,Sales,Associate,High School,32338.85,1,1,10,35.4,Yes,1.0,5,1,1,Divorced,Yes
+EMP-2429,41,Male,Sales,Associate,High School,34341.28,2,1,6,58.7,Yes,2.9,3,1,47,Single,No
+EMP-2430,42,Female,Sales,Analyst,High School,42576.14,1,0,2,36.5,No,3.0,1,3,36,Married,No
+EMP-2431,34,Male,HR,Senior Engineer,High School,71023.43,5,0,1,41.8,No,4.7,3,4,17,Single,No
+EMP-2432,29,Female,Sales,Manager,Bachelor's,89735.73,1,0,5,58.0,No,4.3,3,1,18,Single,No
+EMP-2433,29,Other,Engineering,Team Lead,Master's,64501.76,2,2,7,53.4,Yes,2.9,4,3,18,Married,No
+EMP-2434,23,Other,Sales,Analyst,Master's,52048.08,3,1,6,49.5,No,4.9,4,3,44,Married,No
+EMP-2435,38,Female,Operations,Manager,Master's,101429.36,2,2,9,51.5,Yes,3.1,3,1,37,Divorced,No
+EMP-2436,35,Male,HR,Senior Engineer,Master's,84835.32,2,1,6,37.4,No,1.4,4,1,5,Single,No
+EMP-2437,32,Female,Operations,Analyst,Master's,67812.37,19,1,7,55.2,Yes,1.0,4,2,16,Single,No
+EMP-2438,22,Female,HR,Senior Engineer,Bachelor's,75808.97,3,2,8,41.3,No,4.3,4,5,40,Married,No
+EMP-2439,26,Female,Finance,Associate,Master's,42099.39,2,1,9,58.9,Yes,1.7,3,1,18,Married,Yes
+EMP-2440,45,Female,Engineering,Team Lead,Bachelor's,63061.69,4,1,7,40.8,Yes,3.5,5,2,41,Divorced,No
+EMP-2441,31,Female,Finance,Analyst,Bachelor's,56856.98,7,5,6,50.6,Yes,1.0,4,1,26,Divorced,Yes
+EMP-2442,39,Female,Engineering,Manager,PhD,109622.2,5,1,1,48.6,No,1.8,5,2,39,Divorced,No
+EMP-2443,25,Female,Engineering,Manager,Master's,100320.93,10,9,7,38.6,No,4.1,4,1,27,Single,No
+EMP-2444,48,Male,Engineering,Executive,Bachelor's,130307.74,6,5,2,44.1,No,4.4,4,4,37,Married,No
+EMP-2445,35,Male,Engineering,Director,Master's,113926.94,1,1,4,54.5,Yes,3.2,1,3,22,Married,No
+EMP-2446,38,Female,Operations,Analyst,Bachelor's,41841.74,2,0,6,40.3,No,1.4,4,1,12,Married,No
+EMP-2447,55,Male,Operations,Director,High School,100779.6,1,1,1,59.1,Yes,1.8,2,2,45,Married,No
+EMP-2448,48,Female,Finance,Director,High School,99238.21,7,3,7,42.4,No,3.6,5,3,21,Single,No
+EMP-2449,34,Female,Engineering,Manager,Bachelor's,91032.21,0,0,3,50.7,Yes,3.2,3,2,1,Married,No
+EMP-2450,31,Male,Operations,Associate,Master's,40677.15,8,6,6,50.5,Yes,1.0,3,1,20,Divorced,Yes
+EMP-2451,33,Female,Marketing,Analyst,Bachelor's,45574.33,2,0,4,46.8,Yes,2.8,4,4,21,Single,No
+EMP-2452,40,Female,Sales,Associate,High School,29243.3,5,4,4,51.4,No,1.6,4,1,13,Divorced,No
+EMP-2453,35,Female,HR,Associate,PhD,37149.61,1,0,4,53.6,Yes,3.4,4,1,44,Married,No
+EMP-2454,33,Male,Marketing,Senior Engineer,Bachelor's,59681.49,1,1,1,50.5,Yes,1.0,4,1,25,Single,No
+EMP-2455,48,Female,Engineering,Senior Engineer,Bachelor's,96500.85,13,3,2,49.0,Yes,4.2,4,3,19,Single,No
+EMP-2456,35,Male,HR,Manager,Bachelor's,79725.95,6,6,8,50.2,Yes,1.0,5,1,35,Single,Yes
+EMP-2457,54,Female,Marketing,Manager,Bachelor's,74748.09,1,1,2,45.0,No,3.7,3,1,32,Married,No
+EMP-2458,37,Male,Engineering,Manager,Bachelor's,93204.35,1,0,5,36.8,Yes,2.7,4,3,24,Single,No
+EMP-2459,50,Female,Sales,Associate,Master's,41013.39,7,3,2,39.0,No,2.0,5,3,49,Married,No
+EMP-2460,39,Female,HR,Manager,Master's,93595.38,2,0,6,50.2,No,2.0,3,3,49,Divorced,No
+EMP-2461,44,Female,Marketing,Manager,Bachelor's,110169.5,20,3,7,58.2,Yes,2.4,3,1,24,Married,No
+EMP-2462,30,Male,Operations,Team Lead,Bachelor's,68047.14,3,3,5,35.6,No,3.5,1,1,36,Single,No
+EMP-2463,29,Female,Finance,Analyst,High School,49996.31,16,9,8,48.6,No,3.9,4,3,3,Married,No
+EMP-2464,40,Female,Marketing,Team Lead,Master's,59585.64,2,2,3,41.3,No,3.3,4,1,23,Married,No
+EMP-2465,44,Male,HR,Associate,Bachelor's,39651.93,9,0,6,49.0,Yes,1.0,3,2,23,Married,No
+EMP-2466,36,Other,Marketing,Manager,Bachelor's,86566.78,1,0,3,53.7,No,4.7,2,4,21,Single,Yes
+EMP-2467,26,Female,HR,Analyst,PhD,61992.29,6,5,6,53.4,Yes,1.0,1,1,43,Married,No
+EMP-2468,25,Other,Engineering,Senior Engineer,Master's,83895.72,13,3,1,53.1,No,3.3,3,1,30,Married,No
+EMP-2469,25,Other,Marketing,Executive,Bachelor's,129891.57,3,0,3,54.5,Yes,4.0,3,3,24,Married,Yes
+EMP-2470,22,Other,Marketing,Analyst,Bachelor's,46060.86,1,0,8,36.8,No,4.7,4,2,22,Single,No
+EMP-2471,37,Female,HR,Executive,Bachelor's,127517.13,3,3,8,47.7,No,1.7,5,2,31,Divorced,No
+EMP-2472,45,Female,Operations,Director,PhD,107113.39,1,1,3,41.5,No,2.0,4,4,12,Single,No
+EMP-2473,36,Male,Marketing,Associate,Bachelor's,37040.65,7,0,3,58.0,Yes,2.7,5,1,13,Single,Yes
+EMP-2474,22,Female,Sales,Analyst,Bachelor's,47150.43,0,0,3,54.6,No,2.3,5,1,27,Single,Yes
+EMP-2475,34,Female,Engineering,Senior Engineer,Master's,78353.4,1,1,3,37.7,No,3.9,4,5,16,Married,No
+EMP-2476,35,Female,Engineering,Director,Bachelor's,116545.94,1,1,10,41.1,No,3.1,4,5,34,Married,No
+EMP-2477,53,Female,Sales,Manager,High School,80904.11,3,3,7,46.4,No,2.1,4,5,46,Single,No
+EMP-2478,24,Male,Sales,Associate,Master's,36570.68,1,1,4,59.1,Yes,1.6,4,1,18,Married,No
+EMP-2479,33,Male,Engineering,Manager,High School,76953.02,1,1,5,37.7,No,3.8,3,3,29,Married,Yes
+EMP-2480,50,Female,Engineering,Senior Engineer,Master's,94196.3,6,4,6,49.2,No,4.1,1,5,15,Single,No
+EMP-2481,40,Male,Engineering,Manager,Master's,84303.26,1,1,6,43.5,No,2.5,4,5,40,Divorced,No
+EMP-2482,41,Male,Finance,Associate,High School,34244.46,5,4,4,51.2,Yes,1.0,5,1,11,Married,No
+EMP-2483,37,Male,Finance,Analyst,Master's,44117.41,1,1,10,51.2,Yes,1.2,4,1,27,Single,Yes
+EMP-2484,39,Female,Sales,Executive,Master's,134844.13,0,0,3,41.0,No,3.5,3,1,19,Divorced,No
+EMP-2485,42,Male,Engineering,Senior Engineer,Master's,86744.46,1,0,5,54.6,Yes,3.1,4,1,39,Married,No
+EMP-2486,30,Male,Engineering,Manager,Master's,87385.91,5,0,1,37.3,No,4.5,4,2,13,Married,No
+EMP-2487,43,Male,Engineering,Manager,High School,75756.97,2,1,5,55.5,Yes,3.5,4,1,11,Married,No
+EMP-2488,25,Male,Sales,Director,High School,120674.14,1,0,9,40.3,No,3.1,3,5,39,Married,No
+EMP-2489,39,Male,Engineering,Analyst,Master's,54275.33,3,3,10,49.7,Yes,3.6,3,1,28,Married,No
+EMP-2490,37,Female,Sales,Senior Engineer,Bachelor's,73338.88,6,0,5,43.7,No,2.0,3,3,32,Married,No
+EMP-2491,31,Female,Operations,Analyst,Bachelor's,43898.67,3,3,2,50.2,Yes,2.6,5,1,40,Married,No
+EMP-2492,36,Male,HR,Director,Bachelor's,139426.33,19,0,8,41.7,No,3.2,3,1,15,Single,No
+EMP-2493,31,Female,Finance,Analyst,Bachelor's,51535.13,4,2,7,49.2,Yes,3.2,5,2,13,Married,No
+EMP-2494,27,Male,Engineering,Team Lead,Master's,63443.31,3,1,10,35.2,No,4.1,3,5,50,Married,No
+EMP-2495,33,Male,Engineering,Senior Engineer,Master's,73513.23,2,1,6,44.4,No,2.1,5,1,6,Single,No
+EMP-2496,27,Female,Operations,Executive,Master's,150000.0,3,0,1,55.7,Yes,3.4,3,1,33,Divorced,No
+EMP-2497,39,Female,Sales,Director,High School,89147.43,2,2,10,46.6,Yes,3.5,4,1,20,Married,No
+EMP-2498,27,Female,Marketing,Associate,Bachelor's,34266.13,8,1,7,47.5,No,4.8,4,1,8,Married,No
+EMP-2499,42,Male,Operations,Team Lead,Master's,66533.99,1,1,9,50.5,Yes,2.1,4,3,48,Married,No
+EMP-2500,27,Male,HR,Manager,Bachelor's,94618.3,10,6,2,45.9,Yes,3.9,4,1,42,Married,No
+EMP-2501,31,Male,Sales,Associate,Master's,33994.09,4,4,5,56.7,No,4.1,1,1,12,Single,Yes
+EMP-2502,31,Male,HR,Manager,Master's,100876.15,6,6,5,45.1,No,3.6,3,5,38,Divorced,No
+EMP-2503,47,Other,Engineering,Team Lead,Bachelor's,70761.85,8,7,3,58.6,Yes,1.4,3,3,39,Married,Yes
+EMP-2504,39,Male,Engineering,Manager,Bachelor's,85159.05,6,3,9,56.9,Yes,3.5,4,1,26,Married,No
+EMP-2505,34,Female,Engineering,Senior Engineer,Master's,92339.47,3,1,2,45.5,No,4.1,4,2,48,Married,No
+EMP-2506,40,Female,Operations,Director,Bachelor's,112988.53,0,0,1,44.1,No,3.3,3,1,12,Single,No
+EMP-2507,22,Female,Marketing,Analyst,Master's,56721.62,19,7,3,51.9,Yes,3.8,4,1,4,Single,No
+EMP-2508,36,Male,Engineering,Manager,Master's,103194.66,1,1,10,53.9,No,2.0,3,4,41,Married,No
+EMP-2509,52,Female,Engineering,Senior Engineer,Bachelor's,69534.18,1,1,2,39.6,No,3.6,3,2,18,Single,Yes
+EMP-2510,37,Male,Marketing,Analyst,Master's,52338.39,5,2,6,41.0,No,2.3,3,4,7,Married,No
+EMP-2511,37,Female,Operations,Associate,Bachelor's,34093.51,5,2,2,38.7,No,2.8,4,1,49,Divorced,No
+EMP-2512,40,Male,Engineering,Analyst,Bachelor's,46889.97,1,0,4,54.0,No,2.4,1,1,21,Married,Yes
+EMP-2513,43,Other,Sales,Manager,PhD,114836.5,15,1,6,52.9,Yes,1.8,5,1,44,Married,No
+EMP-2514,22,Female,Operations,Team Lead,Master's,69517.89,6,5,1,39.7,No,2.5,4,3,41,Married,No
+EMP-2515,23,Female,Operations,Manager,Master's,99509.94,8,8,3,48.4,Yes,1.0,4,4,16,Single,Yes
+EMP-2516,38,Female,Operations,Manager,Master's,87681.75,1,1,6,54.1,Yes,1.0,3,1,41,Divorced,Yes
+EMP-2517,30,Female,Engineering,Senior Engineer,Bachelor's,78795.24,1,0,1,58.7,Yes,2.4,4,2,24,Married,Yes
+EMP-2518,46,Other,Engineering,Senior Engineer,Bachelor's,69128.33,5,0,5,39.5,No,2.2,5,3,32,Single,No
+EMP-2519,33,Male,Sales,Manager,Bachelor's,83488.65,1,0,7,42.6,No,1.1,4,4,15,Single,No
+EMP-2520,22,Other,Engineering,Team Lead,Bachelor's,62761.0,2,2,3,43.7,No,1.3,3,2,1,Divorced,Yes
+EMP-2521,26,Female,Operations,Team Lead,Bachelor's,69779.74,11,7,2,50.6,Yes,1.0,3,1,10,Single,No
+EMP-2522,22,Female,Engineering,Senior Engineer,Bachelor's,77038.67,0,0,5,38.4,No,1.2,3,4,17,Married,No
+EMP-2523,34,Male,Marketing,Executive,Master's,141875.46,8,2,8,39.8,No,4.8,3,3,28,Single,No
+EMP-2524,34,Female,Operations,Associate,Bachelor's,35534.28,2,0,1,54.5,Yes,2.1,4,2,43,Single,Yes
+EMP-2525,33,Male,Operations,Team Lead,Master's,62100.85,3,0,4,48.6,No,2.6,3,1,9,Divorced,No
+EMP-2526,45,Female,Marketing,Analyst,Master's,51571.85,8,6,10,39.0,Yes,2.3,4,1,37,Single,Yes
+EMP-2527,46,Male,Operations,Manager,PhD,96121.76,7,4,4,44.7,No,1.5,3,1,38,Single,Yes
+EMP-2528,35,Male,Engineering,Analyst,Bachelor's,54395.42,18,3,4,38.4,Yes,2.4,4,1,41,Married,No
+EMP-2529,22,Male,Sales,Team Lead,PhD,87627.53,19,8,8,44.1,No,4.9,5,1,41,Divorced,No
+EMP-2530,41,Male,Engineering,Senior Engineer,Master's,92192.84,3,3,5,45.0,No,1.5,3,2,4,Married,No
+EMP-2531,40,Male,Operations,Team Lead,High School,56902.94,1,1,4,37.8,No,1.6,3,2,11,Single,No
+EMP-2532,38,Female,Operations,Associate,Bachelor's,34673.45,1,0,8,36.5,No,3.5,4,4,48,Divorced,No
+EMP-2533,44,Male,Engineering,Team Lead,Bachelor's,60102.25,6,0,1,57.0,Yes,1.0,3,1,32,Married,Yes
+EMP-2534,27,Female,Engineering,Senior Engineer,Master's,85096.62,2,2,8,57.2,No,1.5,4,3,12,Divorced,No
+EMP-2535,52,Male,Sales,Associate,Master's,42550.4,3,2,4,35.1,No,3.7,5,5,50,Married,No
+EMP-2536,28,Female,Engineering,Team Lead,Bachelor's,70534.29,6,2,9,51.0,Yes,2.7,4,2,17,Married,Yes
+EMP-2537,42,Female,Finance,Analyst,Master's,46828.44,6,0,8,37.3,Yes,1.1,5,2,15,Married,No
+EMP-2538,23,Male,Engineering,Senior Engineer,Bachelor's,71943.14,3,3,10,55.3,Yes,3.0,3,3,43,Married,Yes
+EMP-2539,29,Female,Finance,Senior Engineer,Bachelor's,78611.41,6,6,2,57.0,Yes,1.0,3,1,49,Married,Yes
+EMP-2540,48,Other,HR,Director,Master's,121326.79,4,2,2,50.4,Yes,1.7,3,3,21,Married,No
+EMP-2541,34,Female,Sales,Executive,PhD,150000.0,1,0,10,50.3,Yes,2.6,4,1,33,Divorced,Yes
+EMP-2542,43,Male,Engineering,Analyst,Master's,47532.5,2,1,4,44.3,No,3.5,3,5,33,Married,No
+EMP-2543,38,Male,Operations,Team Lead,Bachelor's,66620.65,7,6,9,41.2,No,3.4,2,2,12,Single,No
+EMP-2544,35,Female,Marketing,Team Lead,Bachelor's,58458.82,1,1,7,47.5,Yes,2.8,5,3,28,Married,No
+EMP-2545,47,Male,Sales,Associate,Bachelor's,37140.87,7,0,5,38.3,No,3.6,3,2,3,Married,No
+EMP-2546,34,Female,Sales,Team Lead,Bachelor's,69206.29,2,0,1,51.8,No,4.5,3,1,44,Married,No
+EMP-2547,22,Male,Operations,Associate,Bachelor's,33303.22,0,0,1,46.8,No,3.3,3,2,42,Married,No
+EMP-2548,30,Female,Finance,Director,PhD,150000.0,15,1,8,39.4,No,2.6,3,4,8,Married,No
+EMP-2549,40,Male,Finance,Associate,Master's,35375.17,5,2,1,49.7,No,4.1,1,1,31,Single,No
+EMP-2550,39,Male,Marketing,Associate,Bachelor's,36191.33,0,0,1,54.9,Yes,1.0,3,1,5,Married,Yes
+EMP-2551,23,Other,Operations,Team Lead,Bachelor's,60701.59,1,0,3,49.7,No,4.0,3,5,5,Married,Yes
+EMP-2552,30,Female,Engineering,Senior Engineer,Bachelor's,74658.02,4,2,10,48.2,Yes,1.0,4,1,32,Divorced,No
+EMP-2553,31,Female,Marketing,Associate,Bachelor's,26825.21,0,0,7,56.2,Yes,2.0,3,2,40,Married,Yes
+EMP-2554,33,Other,Sales,Team Lead,Master's,67288.15,2,2,8,35.3,No,4.0,4,2,43,Married,No
+EMP-2555,25,Male,HR,Manager,High School,75860.07,3,0,7,50.4,Yes,2.7,4,1,17,Married,Yes
+EMP-2556,31,Male,Operations,Team Lead,Master's,63967.12,9,9,6,45.2,Yes,1.0,4,1,47,Married,Yes
+EMP-2557,30,Male,Operations,Associate,Bachelor's,36680.95,2,0,3,39.8,No,2.8,5,2,27,Single,No
+EMP-2558,42,Female,HR,Manager,Bachelor's,83705.44,4,2,5,59.5,Yes,3.5,3,2,20,Divorced,No
+EMP-2559,42,Male,HR,Analyst,PhD,64376.98,5,1,6,45.1,Yes,4.2,2,4,18,Divorced,No
+EMP-2560,35,Other,Operations,Associate,Bachelor's,37285.14,1,0,10,43.4,No,2.9,1,2,37,Married,No
+EMP-2561,33,Male,Operations,Director,Bachelor's,109884.74,4,4,9,39.2,No,1.3,3,1,19,Married,No
+EMP-2562,37,Male,Finance,Associate,Master's,41741.09,3,0,8,59.9,Yes,1.4,4,1,20,Single,Yes
+EMP-2563,29,Male,Engineering,Manager,Bachelor's,97320.41,3,1,9,56.4,Yes,2.3,4,2,20,Married,Yes
+EMP-2564,27,Male,Sales,Director,High School,96960.63,1,1,9,36.7,No,1.3,2,5,16,Married,No
+EMP-2565,28,Male,Operations,Analyst,High School,38346.78,3,2,7,49.1,Yes,3.7,2,1,20,Married,No
+EMP-2566,31,Female,Finance,Director,High School,83998.52,1,0,9,38.7,No,3.2,5,3,2,Single,Yes
+EMP-2567,27,Male,Marketing,Team Lead,Bachelor's,65146.7,3,1,1,52.9,Yes,1.5,4,1,44,Married,Yes
+EMP-2568,37,Female,Marketing,Manager,Bachelor's,94334.3,16,10,1,47.1,No,2.6,3,2,13,Single,No
+EMP-2569,42,Female,Sales,Associate,Master's,37739.95,1,0,5,37.8,No,1.1,5,5,23,Married,No
+EMP-2570,23,Female,Sales,Associate,Master's,38488.34,8,4,1,48.9,Yes,2.0,4,1,9,Married,No
+EMP-2571,36,Female,Finance,Manager,Bachelor's,78514.08,1,0,4,57.8,Yes,1.6,3,1,27,Single,Yes
+EMP-2572,34,Male,Engineering,Senior Engineer,Bachelor's,73409.89,5,4,2,43.5,No,2.4,3,1,14,Married,No
+EMP-2573,39,Male,Marketing,Analyst,Bachelor's,41198.75,3,3,10,36.3,No,3.6,4,5,9,Married,No
+EMP-2574,36,Male,Marketing,Manager,Bachelor's,91791.64,11,9,7,58.6,Yes,1.7,3,3,15,Married,No
+EMP-2575,24,Other,Finance,Team Lead,Bachelor's,58642.84,2,0,1,38.5,No,3.3,5,5,46,Single,Yes
+EMP-2576,26,Female,Sales,Associate,Master's,44050.06,15,1,7,46.9,Yes,3.6,4,1,43,Married,No
+EMP-2577,36,Male,Marketing,Team Lead,Bachelor's,62834.75,2,1,8,48.6,Yes,1.0,4,1,40,Married,No
+EMP-2578,44,Male,Engineering,Director,Bachelor's,111133.89,7,3,4,40.9,No,2.6,4,5,11,Married,Yes
+EMP-2579,22,Female,Engineering,Team Lead,Master's,76120.99,4,0,9,39.4,No,4.5,5,4,33,Married,No
+EMP-2580,39,Female,Sales,Team Lead,Master's,67112.2,2,2,10,37.8,No,2.4,1,2,41,Single,Yes
+EMP-2581,46,Female,Engineering,Team Lead,Bachelor's,74887.85,7,7,10,36.7,Yes,1.7,1,1,33,Married,No
+EMP-2582,35,Female,Operations,Associate,Bachelor's,48772.86,30,4,1,47.7,No,4.2,4,4,43,Married,No
+EMP-2583,40,Female,Operations,Analyst,PhD,55424.72,4,3,5,56.1,No,3.4,3,4,11,Married,No
+EMP-2584,30,Female,Engineering,Director,Bachelor's,118360.92,8,5,8,38.2,No,4.7,4,1,24,Single,No
+EMP-2585,35,Male,Finance,Associate,Master's,38337.3,1,1,5,52.5,Yes,1.7,4,1,17,Married,Yes
+EMP-2586,23,Male,HR,Team Lead,Master's,70147.87,4,4,5,45.3,Yes,1.7,3,2,37,Married,No
+EMP-2587,22,Other,Marketing,Senior Engineer,Bachelor's,86725.83,9,0,4,35.9,No,1.2,3,3,7,Single,No
+EMP-2588,44,Female,Operations,Associate,Bachelor's,48965.75,21,2,5,48.4,No,1.8,4,2,16,Married,Yes
+EMP-2589,28,Male,HR,Analyst,Bachelor's,42063.1,1,0,7,41.3,No,3.2,3,2,36,Single,No
+EMP-2590,32,Female,Engineering,Manager,Bachelor's,94338.26,6,6,1,50.1,Yes,1.0,3,1,1,Single,Yes
+EMP-2591,25,Male,Engineering,Senior Engineer,Bachelor's,75969.57,1,1,8,43.7,No,2.8,3,5,13,Married,Yes
+EMP-2592,25,Female,Sales,Manager,Master's,93298.41,0,0,8,51.7,Yes,1.0,2,3,36,Single,No
+EMP-2593,35,Male,Operations,Senior Engineer,Master's,77555.74,2,1,2,58.0,No,1.1,4,1,12,Married,Yes
+EMP-2594,30,Female,HR,Manager,PhD,109834.87,11,0,8,41.1,No,2.9,5,4,31,Single,Yes
+EMP-2595,39,Female,Sales,Associate,PhD,37735.96,1,1,6,58.5,Yes,2.5,4,1,21,Married,Yes
+EMP-2596,40,Male,Engineering,Team Lead,Master's,63754.56,1,0,4,40.1,No,2.4,4,2,24,Married,No
+EMP-2597,39,Male,Operations,Associate,High School,29662.72,4,1,5,36.8,No,4.1,3,1,18,Married,Yes
+EMP-2598,38,Female,Sales,Executive,Bachelor's,136786.85,3,3,6,39.8,No,1.6,5,4,45,Married,No
+EMP-2599,49,Male,Marketing,Analyst,Master's,46442.68,2,1,3,55.4,No,1.4,5,1,37,Married,Yes
+EMP-2600,27,Male,Marketing,Executive,Master's,149018.62,0,0,7,51.9,Yes,3.7,4,1,37,Married,No
+EMP-2601,36,Female,Engineering,Analyst,Bachelor's,45526.49,2,0,7,59.3,Yes,3.8,3,3,40,Single,No
+EMP-2602,45,Male,Engineering,Analyst,Master's,50838.66,3,0,4,52.7,Yes,1.2,2,3,22,Married,No
+EMP-2603,46,Male,Sales,Manager,Bachelor's,83115.82,2,1,5,45.3,No,2.7,3,3,6,Single,No
+EMP-2604,25,Male,Sales,Associate,Bachelor's,33679.62,1,0,7,57.3,No,4.4,3,2,3,Married,No
+EMP-2605,34,Female,Marketing,Associate,Master's,35817.03,1,0,6,59.0,Yes,2.3,2,1,25,Single,No
+EMP-2606,47,Male,Finance,Senior Engineer,Bachelor's,75958.99,0,0,5,54.8,Yes,1.0,5,1,44,Divorced,Yes
+EMP-2607,40,Male,Engineering,Associate,Bachelor's,32309.57,1,0,10,48.9,No,1.5,3,1,25,Married,Yes
+EMP-2608,38,Male,HR,Associate,Master's,38193.96,2,2,9,55.6,No,1.5,3,1,50,Married,No
+EMP-2609,34,Male,Engineering,Team Lead,Master's,59988.9,1,0,4,39.5,No,4.1,5,2,27,Married,No
+EMP-2610,33,Male,Engineering,Associate,Bachelor's,39065.46,8,2,8,57.5,Yes,2.7,5,1,32,Single,No
+EMP-2611,38,Male,Finance,Senior Engineer,Master's,75627.87,1,1,9,60.0,Yes,1.4,3,1,4,Single,Yes
+EMP-2612,34,Male,Finance,Manager,Bachelor's,77626.19,1,1,2,51.6,No,1.6,3,4,39,Divorced,No
+EMP-2613,36,Male,Finance,Analyst,Master's,48207.85,7,0,6,39.9,No,1.5,4,5,45,Married,No
+EMP-2614,37,Female,Engineering,Director,Bachelor's,102260.76,2,0,8,38.6,No,4.0,5,2,26,Single,No
+EMP-2615,31,Male,HR,Analyst,PhD,51496.99,2,0,1,59.0,Yes,3.5,4,2,46,Married,No
+EMP-2616,40,Male,Sales,Analyst,Master's,54561.05,1,1,4,56.8,Yes,1.8,3,1,12,Married,Yes
+EMP-2617,59,Other,Operations,Manager,Bachelor's,81775.5,3,0,8,53.7,Yes,3.6,4,3,25,Single,Yes
+EMP-2618,22,Female,Marketing,Associate,Bachelor's,29205.37,5,5,10,58.7,Yes,1.0,4,3,46,Married,Yes
+EMP-2619,39,Female,Operations,Senior Engineer,Bachelor's,74694.32,1,0,10,47.6,Yes,1.9,2,1,31,Single,Yes
+EMP-2620,30,Male,Engineering,Senior Engineer,Master's,72112.74,1,1,7,57.2,Yes,2.2,3,1,35,Single,No
+EMP-2621,41,Male,Sales,Team Lead,Master's,71356.72,1,0,1,39.1,Yes,1.0,5,1,21,Married,No
+EMP-2622,36,Male,Finance,Executive,Master's,150000.0,19,4,1,39.6,No,2.9,4,1,28,Single,No
+EMP-2623,42,Male,Sales,Director,Master's,120890.61,2,0,9,47.8,No,4.4,3,2,19,Divorced,No
+EMP-2624,45,Male,Marketing,Director,Bachelor's,140424.83,11,9,8,43.3,No,1.2,4,4,35,Married,No
+EMP-2625,38,Female,HR,Director,Master's,127819.16,1,1,2,45.8,Yes,2.2,4,3,3,Married,No
+EMP-2626,45,Male,Operations,Analyst,Bachelor's,52090.77,21,0,2,55.0,Yes,3.7,3,1,26,Married,No
+EMP-2627,22,Female,Engineering,Executive,Master's,135276.64,2,2,2,36.3,No,4.2,3,2,47,Divorced,No
+EMP-2628,49,Male,Operations,Director,Bachelor's,99963.23,4,4,9,53.0,Yes,1.9,3,3,3,Married,Yes
+EMP-2629,39,Male,Sales,Manager,Master's,108743.19,0,0,8,37.2,No,1.7,5,5,23,Married,No
+EMP-2630,45,Female,Sales,Analyst,High School,38915.11,3,2,10,56.2,No,4.4,3,2,34,Married,No
+EMP-2631,26,Female,HR,Associate,Bachelor's,37712.28,3,3,2,40.0,No,1.6,4,4,5,Divorced,Yes
+EMP-2632,29,Male,Engineering,Manager,Bachelor's,101498.28,19,3,7,53.4,Yes,1.5,4,1,1,Single,No
+EMP-2633,37,Female,Operations,Manager,PhD,102438.7,10,4,10,49.8,No,1.5,5,5,9,Married,No
+EMP-2634,36,Male,Operations,Analyst,Bachelor's,46720.45,4,4,6,44.6,No,2.8,5,3,12,Married,No
+EMP-2635,38,Male,Operations,Analyst,Bachelor's,49277.66,10,6,8,41.7,No,3.5,5,4,44,Married,No
+EMP-2636,45,Female,Operations,Team Lead,Bachelor's,64381.07,0,0,7,36.4,Yes,3.2,5,1,8,Divorced,No
+EMP-2637,22,Male,Marketing,Analyst,Bachelor's,59520.62,18,6,1,43.8,No,2.8,3,1,33,Married,No
+EMP-2638,44,Male,Sales,Director,Master's,121194.72,4,3,5,40.0,No,4.9,3,3,18,Single,Yes
+EMP-2639,36,Male,Operations,Analyst,PhD,52911.26,10,6,3,38.4,No,3.4,3,3,27,Married,No
+EMP-2640,34,Male,Engineering,Senior Engineer,Master's,74761.48,4,0,1,53.5,Yes,2.5,4,1,46,Married,No
+EMP-2641,24,Male,Finance,Analyst,Master's,47474.79,14,2,6,40.3,No,1.7,3,5,43,Single,No
+EMP-2642,40,Male,Sales,Executive,Bachelor's,142657.39,7,6,10,40.6,No,1.8,3,4,4,Single,No
+EMP-2643,22,Other,Marketing,Executive,Bachelor's,150000.0,13,2,1,43.5,No,3.3,2,2,5,Single,Yes
+EMP-2644,41,Female,Sales,Associate,Master's,36143.06,7,5,4,46.6,Yes,2.7,4,2,18,Married,No
+EMP-2645,24,Male,Sales,Associate,Master's,34787.74,5,2,7,47.8,No,1.8,2,1,41,Divorced,Yes
+EMP-2646,36,Male,Engineering,Analyst,Bachelor's,48557.44,7,4,4,51.6,Yes,2.1,3,2,38,Married,No
+EMP-2647,35,Female,Sales,Associate,Master's,37768.87,7,1,2,49.7,Yes,1.7,4,1,31,Single,No
+EMP-2648,45,Male,Sales,Team Lead,Bachelor's,65713.71,7,2,2,47.0,Yes,2.2,4,1,44,Married,Yes
+EMP-2649,35,Female,Engineering,Senior Engineer,Bachelor's,82932.37,13,7,1,44.8,No,1.9,5,3,10,Divorced,Yes
+EMP-2650,30,Female,Engineering,Manager,Bachelor's,96762.86,10,1,10,41.6,No,1.6,4,5,37,Married,Yes
+EMP-2651,32,Male,HR,Analyst,Master's,54766.05,13,3,5,52.7,Yes,1.3,4,1,49,Single,No
+EMP-2652,46,Male,Sales,Analyst,Master's,47506.92,2,2,10,42.9,No,4.5,3,1,49,Single,No
+EMP-2653,40,Male,Finance,Manager,Bachelor's,87950.56,17,1,7,56.2,Yes,3.0,2,1,36,Divorced,No
+EMP-2654,33,Male,Engineering,Senior Engineer,Master's,81181.79,3,2,4,49.7,No,1.4,4,5,35,Divorced,No
+EMP-2655,34,Male,HR,Associate,Master's,36799.26,1,0,10,50.8,Yes,1.0,3,2,12,Single,Yes
+EMP-2656,23,Female,Engineering,Senior Engineer,Bachelor's,71540.81,1,1,3,47.7,Yes,2.3,4,2,38,Married,No
+EMP-2657,39,Male,HR,Associate,Master's,43373.86,3,0,2,58.2,Yes,1.0,5,3,13,Single,No
+EMP-2658,22,Female,HR,Senior Engineer,Bachelor's,73517.56,1,1,9,45.5,No,4.3,3,1,22,Single,No
+EMP-2659,42,Female,Marketing,Associate,Bachelor's,33564.51,2,1,6,45.7,No,2.9,4,4,6,Married,No
+EMP-2660,37,Male,Sales,Analyst,Bachelor's,53993.25,12,7,5,57.3,Yes,3.5,3,1,16,Married,No
+EMP-2661,55,Male,HR,Associate,Bachelor's,39156.63,1,0,6,50.1,Yes,1.0,3,1,4,Married,Yes
+EMP-2662,27,Male,Engineering,Team Lead,Bachelor's,66352.42,5,3,10,46.2,Yes,4.2,3,4,24,Divorced,No
+EMP-2663,35,Female,Sales,Senior Engineer,High School,56644.16,4,2,3,41.6,No,4.1,4,5,4,Married,Yes
+EMP-2664,50,Male,Sales,Team Lead,Bachelor's,62591.16,0,0,10,41.1,No,3.9,5,5,39,Single,No
+EMP-2665,46,Female,Marketing,Manager,Master's,86179.59,2,0,10,55.0,Yes,3.3,3,1,33,Married,No
+EMP-2666,30,Female,Sales,Executive,Master's,132819.86,6,2,8,42.0,No,2.9,4,4,33,Married,No
+EMP-2667,38,Female,Finance,Manager,High School,95407.61,8,6,2,35.1,No,1.6,3,2,36,Married,Yes
+EMP-2668,36,Other,Sales,Executive,High School,142275.2,4,2,1,35.5,No,3.0,3,2,39,Divorced,No
+EMP-2669,38,Female,Engineering,Team Lead,Bachelor's,59486.08,4,2,2,59.5,Yes,3.2,4,1,34,Married,Yes
+EMP-2670,30,Female,Engineering,Senior Engineer,Master's,84337.31,11,10,8,49.0,Yes,3.8,4,2,32,Single,No
+EMP-2671,35,Female,Engineering,Analyst,Master's,55907.3,10,4,4,47.2,No,3.0,4,5,10,Single,No
+EMP-2672,23,Female,HR,Analyst,Bachelor's,41497.43,1,1,10,57.9,Yes,2.8,5,1,37,Married,No
+EMP-2673,37,Female,Finance,Analyst,Master's,48905.76,2,2,1,43.8,No,2.0,2,3,25,Divorced,No
+EMP-2674,40,Other,Finance,Senior Engineer,Master's,79065.97,5,3,4,54.9,Yes,1.0,4,2,8,Single,No
+EMP-2675,34,Male,Sales,Associate,PhD,40015.79,4,1,3,53.0,Yes,2.2,3,2,25,Single,Yes
+EMP-2676,23,Female,Engineering,Team Lead,High School,52482.4,5,2,9,46.9,No,2.7,4,2,17,Married,No
+EMP-2677,44,Female,Operations,Executive,Bachelor's,149175.97,4,0,2,54.4,Yes,1.0,2,1,10,Single,Yes
+EMP-2678,39,Female,Engineering,Analyst,Master's,56569.24,5,4,5,59.1,Yes,3.3,3,3,29,Single,No
+EMP-2679,30,Male,Sales,Analyst,Bachelor's,46266.12,4,1,9,40.0,No,3.1,4,3,45,Divorced,No
+EMP-2680,34,Female,Operations,Team Lead,High School,56485.75,2,2,10,35.4,Yes,2.3,3,3,1,Married,No
+EMP-2681,24,Female,Sales,Executive,High School,150000.0,13,7,10,55.5,Yes,1.1,4,1,7,Divorced,No
+EMP-2682,28,Other,Engineering,Senior Engineer,Bachelor's,71510.87,0,0,7,45.1,No,2.0,5,2,46,Married,No
+EMP-2683,32,Male,Engineering,Senior Engineer,Master's,92788.14,3,1,2,48.6,No,3.8,3,2,35,Married,No
+EMP-2684,46,Female,Marketing,Manager,Master's,85353.52,4,0,1,40.6,No,4.4,4,4,12,Divorced,No
+EMP-2685,31,Female,Engineering,Director,Bachelor's,135212.73,10,1,5,56.0,Yes,1.0,5,3,19,Single,No
+EMP-2686,41,Other,Marketing,Associate,Master's,37811.36,4,3,5,53.0,No,4.2,4,1,5,Single,No
+EMP-2687,32,Other,Sales,Analyst,Bachelor's,40053.33,0,0,6,58.8,Yes,2.9,3,1,43,Divorced,Yes
+EMP-2688,38,Female,Sales,Director,PhD,150000.0,10,8,1,46.9,Yes,3.4,4,1,34,Married,No
+EMP-2689,35,Female,Engineering,Senior Engineer,Bachelor's,94083.4,7,2,7,59.4,Yes,2.2,4,1,12,Divorced,Yes
+EMP-2690,43,Male,Finance,Analyst,Master's,49325.86,3,0,4,47.8,Yes,1.0,4,1,10,Single,No
+EMP-2691,32,Other,Sales,Manager,PhD,107026.99,4,1,2,50.5,Yes,3.3,4,3,35,Divorced,No
+EMP-2692,23,Male,Marketing,Analyst,Master's,47576.36,2,2,10,51.9,Yes,2.4,3,1,29,Married,No
+EMP-2693,25,Female,Sales,Associate,Master's,41952.09,13,6,4,47.2,No,1.9,4,3,38,Married,No
+EMP-2694,32,Female,Engineering,Manager,Bachelor's,76150.89,1,0,3,49.1,No,2.6,1,2,13,Divorced,No
+EMP-2695,26,Male,Sales,Team Lead,Master's,64571.84,6,0,5,40.6,No,2.8,5,3,50,Married,No
+EMP-2696,39,Male,HR,Manager,Master's,109474.55,4,0,10,44.1,No,3.0,4,4,9,Married,No
+EMP-2697,32,Male,Sales,Analyst,Bachelor's,47153.3,5,4,9,52.5,Yes,3.6,5,2,9,Married,No
+EMP-2698,55,Female,Finance,Associate,PhD,42094.66,5,4,1,36.0,No,2.6,1,4,37,Married,No
+EMP-2699,22,Female,Operations,Team Lead,Bachelor's,65063.66,10,4,7,52.5,Yes,1.3,3,1,29,Divorced,No
+EMP-2700,38,Male,Finance,Senior Engineer,Bachelor's,72586.63,0,0,7,42.6,No,4.8,3,3,20,Married,No
+EMP-2701,27,Female,HR,Team Lead,PhD,71389.57,9,6,9,41.8,No,2.0,3,2,37,Single,No
+EMP-2702,32,Male,HR,Manager,Bachelor's,79715.13,2,0,10,52.3,Yes,1.0,3,3,29,Single,No
+EMP-2703,37,Female,Marketing,Executive,Bachelor's,135439.98,9,5,8,40.4,No,4.4,4,4,21,Divorced,No
+EMP-2704,22,Male,Engineering,Associate,Bachelor's,37505.61,2,0,7,59.0,Yes,4.3,3,3,11,Divorced,No
+EMP-2705,38,Male,Finance,Analyst,Master's,45405.81,6,5,4,59.8,Yes,3.0,5,2,36,Divorced,Yes
+EMP-2706,51,Male,Operations,Executive,Master's,132371.67,1,0,9,46.5,No,2.6,3,1,28,Single,Yes
+EMP-2707,32,Female,Engineering,Associate,Bachelor's,33389.18,14,9,10,45.0,No,3.2,3,2,45,Married,No
+EMP-2708,38,Male,Operations,Analyst,Master's,48594.76,6,3,10,37.0,No,4.3,4,3,22,Married,No
+EMP-2709,44,Female,Finance,Analyst,Master's,46235.44,0,0,10,54.5,Yes,3.2,3,1,14,Married,No
+EMP-2710,35,Male,Sales,Manager,Master's,97040.02,0,0,7,39.1,No,1.4,4,5,3,Single,No
+EMP-2711,31,Male,Operations,Analyst,Master's,47854.74,1,0,10,58.3,Yes,3.6,4,1,14,Married,No
+EMP-2712,22,Male,Engineering,Team Lead,PhD,73300.53,4,4,8,59.8,Yes,2.3,4,1,37,Single,No
+EMP-2713,41,Male,Engineering,Manager,Bachelor's,87013.78,2,2,3,38.1,No,1.1,4,3,15,Married,No
+EMP-2714,35,Other,Sales,Associate,Bachelor's,32308.2,1,0,1,52.1,No,1.4,4,1,28,Single,No
+EMP-2715,28,Male,HR,Associate,Master's,46161.07,5,2,10,46.6,Yes,1.0,5,1,11,Single,No
+EMP-2716,37,Other,Sales,Executive,Bachelor's,133304.54,4,3,5,48.5,Yes,4.2,2,4,47,Single,No
+EMP-2717,31,Male,Operations,Associate,Bachelor's,38694.65,9,1,9,39.5,No,2.7,3,5,46,Divorced,No
+EMP-2718,32,Male,Engineering,Team Lead,High School,60395.5,2,1,3,53.1,No,3.9,4,3,41,Married,No
+EMP-2719,41,Male,Engineering,Senior Engineer,Bachelor's,73051.88,5,5,4,39.2,Yes,1.0,1,1,37,Divorced,No
+EMP-2720,25,Male,Marketing,Associate,PhD,46628.83,12,9,9,57.1,Yes,3.5,4,3,29,Married,No
+EMP-2721,44,Female,Engineering,Manager,High School,84954.01,12,4,6,46.3,Yes,1.9,4,1,1,Married,No
+EMP-2722,25,Female,Marketing,Associate,Master's,37341.02,1,0,7,50.9,Yes,3.5,3,3,3,Married,Yes
+EMP-2723,31,Male,Sales,Team Lead,Master's,75514.82,9,8,4,58.0,Yes,2.3,3,3,23,Married,No
+EMP-2724,51,Female,Operations,Manager,High School,75270.68,1,0,7,53.4,Yes,3.6,4,1,38,Married,Yes
+EMP-2725,45,Female,Marketing,Analyst,Bachelor's,40531.4,1,0,5,48.5,Yes,2.7,2,1,7,Married,No
+EMP-2726,37,Other,Engineering,Analyst,Bachelor's,50560.21,0,0,10,45.1,No,3.1,2,4,28,Married,No
+EMP-2727,28,Other,Engineering,Team Lead,Bachelor's,75689.12,13,0,5,46.6,Yes,3.3,4,1,48,Divorced,Yes
+EMP-2728,32,Female,Engineering,Team Lead,Bachelor's,54395.33,2,0,1,43.5,No,3.0,4,5,42,Single,No
+EMP-2729,37,Female,Operations,Team Lead,Master's,66650.57,3,3,8,58.7,Yes,3.2,4,2,28,Married,No
+EMP-2730,36,Female,Marketing,Team Lead,Bachelor's,57665.49,6,0,10,41.3,No,1.1,3,2,29,Single,No
+EMP-2731,35,Male,Sales,Associate,High School,31829.0,0,0,9,45.2,Yes,2.5,2,3,4,Single,Yes
+EMP-2732,36,Female,Engineering,Senior Engineer,High School,68779.93,4,1,2,54.5,Yes,3.3,4,1,1,Married,No
+EMP-2733,34,Male,Operations,Manager,Bachelor's,83764.82,1,1,10,44.1,Yes,3.5,3,1,16,Married,No
+EMP-2734,24,Female,Engineering,Team Lead,Bachelor's,58961.98,3,2,4,57.2,Yes,2.4,5,1,41,Married,No
+EMP-2735,32,Other,Marketing,Executive,PhD,150000.0,3,3,9,41.1,No,2.9,4,1,1,Single,No
+EMP-2736,43,Male,Finance,Analyst,High School,43156.77,1,1,7,35.8,No,4.2,2,4,40,Divorced,No
+EMP-2737,25,Female,Engineering,Manager,Bachelor's,102888.77,10,4,10,50.7,Yes,1.3,4,1,13,Divorced,No
+EMP-2738,34,Other,HR,Manager,Master's,119156.85,16,2,4,47.7,No,4.7,5,4,5,Married,No
+EMP-2739,29,Male,Engineering,Senior Engineer,Master's,69339.2,1,0,7,58.3,Yes,1.0,5,1,5,Divorced,No
+EMP-2740,37,Female,Sales,Manager,Master's,97969.26,7,7,7,45.6,No,1.3,4,5,35,Single,Yes
+EMP-2741,33,Other,Operations,Team Lead,High School,58639.74,3,1,2,38.4,No,4.1,3,5,3,Married,No
+EMP-2742,48,Other,Marketing,Analyst,Master's,45856.14,1,1,8,43.2,No,2.6,4,2,27,Divorced,No
+EMP-2743,40,Male,Finance,Manager,Bachelor's,80136.56,8,3,2,44.8,No,2.4,4,3,47,Married,No
+EMP-2744,26,Male,HR,Associate,Master's,35201.01,6,5,9,49.6,Yes,1.5,4,3,30,Married,No
+EMP-2745,41,Female,Engineering,Director,Bachelor's,150000.0,18,7,2,41.9,No,4.9,3,3,17,Married,No
+EMP-2746,30,Male,Marketing,Analyst,Master's,44076.16,1,1,2,48.8,Yes,1.9,5,1,45,Married,No
+EMP-2747,31,Male,HR,Associate,Master's,37221.08,2,1,5,57.7,Yes,4.3,4,3,4,Married,No
+EMP-2748,39,Male,Engineering,Senior Engineer,Master's,83956.67,6,2,2,45.6,Yes,1.7,3,4,13,Single,No
+EMP-2749,32,Male,Sales,Associate,Bachelor's,33571.84,2,0,1,51.3,Yes,1.8,3,1,9,Single,No
+EMP-2750,43,Female,Marketing,Analyst,Master's,51682.76,7,0,1,40.7,No,1.8,3,3,1,Married,No
+EMP-2751,30,Female,Marketing,Manager,Master's,97117.01,1,0,3,55.0,Yes,2.1,3,1,48,Married,Yes
+EMP-2752,31,Female,Engineering,Senior Engineer,Bachelor's,72779.26,1,1,5,41.7,No,1.2,3,4,11,Married,No
+EMP-2753,31,Female,Operations,Analyst,Bachelor's,45559.49,6,4,1,49.5,Yes,1.0,4,2,4,Divorced,No
+EMP-2754,31,Male,Sales,Associate,Bachelor's,34129.61,2,2,2,42.5,No,2.8,3,2,46,Married,No
+EMP-2755,45,Male,Engineering,Analyst,Bachelor's,41873.23,4,1,7,36.7,Yes,3.3,3,1,49,Married,No
+EMP-2756,41,Male,Engineering,Senior Engineer,Master's,82184.44,1,0,4,43.0,No,2.7,2,1,11,Married,Yes
+EMP-2757,50,Male,Finance,Associate,Bachelor's,32138.31,2,1,8,40.3,No,3.1,3,4,21,Married,No
+EMP-2758,54,Male,Sales,Team Lead,Master's,63649.23,1,0,9,57.3,Yes,2.3,3,1,34,Married,No
+EMP-2759,28,Male,Sales,Team Lead,Master's,74892.69,6,4,1,41.7,No,3.1,3,3,22,Married,No
+EMP-2760,37,Male,Engineering,Senior Engineer,Master's,85645.23,9,3,10,59.4,Yes,2.6,4,3,40,Married,No
+EMP-2761,27,Male,Marketing,Executive,Master's,142055.64,1,0,7,47.3,Yes,3.1,3,1,13,Married,Yes
+EMP-2762,30,Female,Finance,Associate,Master's,40543.66,2,1,9,40.5,No,4.4,4,1,41,Married,Yes
+EMP-2763,31,Female,Sales,Associate,Bachelor's,33626.02,7,0,5,44.8,No,1.8,1,4,28,Married,No
+EMP-2764,28,Other,Operations,Analyst,Bachelor's,51931.15,9,9,1,39.6,No,2.8,3,5,1,Single,No
+EMP-2765,28,Female,Engineering,Team Lead,Master's,75274.3,4,1,9,55.8,Yes,3.7,2,1,32,Married,No
+EMP-2766,35,Female,Engineering,Analyst,PhD,58559.92,2,2,6,38.0,No,4.8,3,2,1,Married,No
+EMP-2767,26,Male,HR,Analyst,Bachelor's,53211.19,2,2,1,56.8,Yes,1.9,4,2,43,Single,No
+EMP-2768,43,Female,Marketing,Manager,PhD,110527.11,13,1,2,36.1,No,3.0,4,3,50,Married,No
+EMP-2769,29,Male,Engineering,Senior Engineer,PhD,79812.25,1,0,3,42.5,No,4.1,4,3,8,Married,No
+EMP-2770,58,Male,HR,Senior Engineer,Bachelor's,77317.09,1,0,4,38.5,Yes,4.5,3,1,27,Married,Yes
+EMP-2771,32,Male,Sales,Associate,Master's,43933.46,9,8,5,52.1,No,2.7,3,2,17,Married,No
+EMP-2772,37,Male,HR,Associate,Master's,34734.36,2,1,5,47.8,Yes,1.0,5,1,4,Married,No
+EMP-2773,26,Male,Marketing,Analyst,Bachelor's,55304.88,14,5,9,58.5,Yes,3.3,3,3,34,Single,No
+EMP-2774,50,Female,Operations,Analyst,High School,60409.65,16,9,10,44.2,No,3.8,1,3,2,Married,No
+EMP-2775,45,Female,Sales,Executive,Bachelor's,135101.83,1,0,7,36.0,No,1.6,2,2,2,Married,No
+EMP-2776,38,Female,Marketing,Executive,Master's,150000.0,7,7,7,54.0,Yes,1.5,5,1,41,Married,Yes
+EMP-2777,25,Female,HR,Executive,Bachelor's,150000.0,1,1,9,49.5,Yes,2.0,5,1,15,Married,No
+EMP-2778,38,Female,Sales,Manager,Master's,117749.4,6,1,3,55.7,Yes,3.4,3,1,46,Married,No
+EMP-2779,27,Male,Engineering,Analyst,Master's,56285.01,10,4,6,45.7,No,4.1,1,1,30,Single,No
+EMP-2780,48,Female,Operations,Analyst,Master's,55188.17,3,0,7,53.5,Yes,1.0,4,2,27,Married,Yes
+EMP-2781,42,Female,Engineering,Senior Engineer,Bachelor's,67994.66,1,0,3,39.3,Yes,1.0,3,1,21,Single,No
+EMP-2782,37,Male,Finance,Director,Bachelor's,111872.24,1,0,10,60.0,Yes,3.1,1,1,19,Married,No
+EMP-2783,22,Male,Engineering,Analyst,Bachelor's,44337.77,3,0,3,39.3,No,1.5,3,5,12,Single,No
+EMP-2784,28,Other,Finance,Manager,Bachelor's,71107.6,1,0,1,55.7,Yes,2.1,3,1,36,Married,No
+EMP-2785,42,Female,Engineering,Manager,High School,69304.71,4,3,4,40.3,Yes,2.6,3,4,31,Married,Yes
+EMP-2786,46,Male,Operations,Manager,Bachelor's,89178.43,3,1,9,54.6,Yes,1.0,4,2,2,Married,Yes
+EMP-2787,45,Female,Marketing,Analyst,Bachelor's,51052.85,8,4,4,56.5,Yes,3.6,4,2,17,Single,No
+EMP-2788,23,Male,Engineering,Team Lead,Master's,65945.22,6,5,3,56.9,No,1.2,4,1,45,Married,No
+EMP-2789,38,Male,Marketing,Team Lead,Bachelor's,73140.58,5,4,9,46.9,No,4.1,1,3,25,Married,Yes
+EMP-2790,44,Male,Marketing,Executive,Bachelor's,123886.95,2,1,2,45.7,Yes,2.7,1,1,13,Married,Yes
+EMP-2791,23,Male,Sales,Associate,Master's,43905.42,13,5,2,55.8,Yes,2.0,5,1,12,Single,Yes
+EMP-2792,36,Female,Engineering,Senior Engineer,Bachelor's,78456.68,9,6,9,49.5,Yes,4.0,3,1,10,Divorced,No
+EMP-2793,38,Male,Marketing,Associate,PhD,45233.73,10,4,4,50.5,Yes,1.0,3,1,44,Married,No
+EMP-2794,34,Female,Marketing,Executive,Master's,150000.0,1,0,1,40.9,No,4.2,2,1,16,Married,No
+EMP-2795,22,Male,Sales,Director,High School,106058.74,0,0,5,46.2,No,1.8,3,3,15,Single,Yes
+EMP-2796,33,Female,Operations,Team Lead,PhD,83481.49,7,2,8,44.2,No,5.0,3,1,4,Married,No
+EMP-2797,33,Female,Engineering,Senior Engineer,Master's,84068.78,2,0,8,51.6,No,1.1,3,4,45,Married,No
+EMP-2798,35,Female,Engineering,Senior Engineer,Master's,72159.82,2,0,1,39.9,No,3.2,4,3,20,Single,No
+EMP-2799,31,Female,HR,Manager,Bachelor's,91337.71,1,1,3,45.1,Yes,1.0,3,4,36,Married,Yes
+EMP-2800,32,Other,Engineering,Senior Engineer,Bachelor's,71324.31,6,5,7,56.2,No,2.6,4,1,36,Married,No
+EMP-2801,36,Female,Engineering,Manager,Bachelor's,96524.21,12,4,7,48.7,Yes,1.0,4,1,18,Divorced,Yes
+EMP-2802,40,Female,HR,Director,Master's,150000.0,24,1,7,57.4,Yes,1.0,3,3,25,Divorced,No
+EMP-2803,34,Female,Engineering,Analyst,Bachelor's,59480.65,21,6,4,40.8,No,1.2,4,2,6,Single,No
+EMP-2804,33,Male,Engineering,Analyst,Bachelor's,49272.28,11,9,9,46.0,Yes,1.0,5,3,34,Single,No
+EMP-2805,37,Male,Marketing,Analyst,High School,40085.16,1,1,1,47.5,Yes,3.0,2,1,34,Married,No
+EMP-2806,22,Male,HR,Analyst,Bachelor's,51189.37,2,0,9,45.0,No,2.8,4,1,11,Divorced,No
+EMP-2807,40,Male,Finance,Associate,Bachelor's,29580.53,0,0,10,52.1,Yes,1.0,4,1,10,Divorced,Yes
+EMP-2808,36,Male,HR,Analyst,Bachelor's,45970.93,3,0,7,38.7,No,4.8,4,3,20,Single,Yes
+EMP-2809,36,Male,Sales,Associate,Master's,37218.14,9,5,5,48.0,No,3.7,1,1,35,Single,Yes
+EMP-2810,44,Female,Engineering,Senior Engineer,Bachelor's,75357.28,0,0,4,38.5,No,2.1,1,1,26,Single,Yes
+EMP-2811,22,Male,Finance,Analyst,Bachelor's,55117.75,22,9,5,50.7,No,2.8,3,1,4,Married,No
+EMP-2812,22,Female,Engineering,Team Lead,Bachelor's,61596.81,1,0,2,55.8,Yes,2.0,2,1,29,Married,No
+EMP-2813,38,Male,Engineering,Manager,Bachelor's,74863.57,1,1,3,35.5,No,3.3,3,5,36,Married,No
+EMP-2814,36,Female,Finance,Associate,Master's,43294.4,6,5,7,46.4,Yes,3.1,5,4,10,Married,No
+EMP-2815,37,Male,Marketing,Manager,Bachelor's,87959.24,4,0,6,47.3,Yes,2.3,3,1,23,Single,No
+EMP-2816,32,Male,Marketing,Analyst,PhD,61247.67,11,2,5,53.0,Yes,4.4,3,1,41,Married,No
+EMP-2817,41,Male,Engineering,Manager,PhD,114883.18,7,0,5,36.9,No,3.9,3,2,17,Single,No
+EMP-2818,43,Female,Engineering,Senior Engineer,Master's,70191.21,0,0,1,45.2,No,5.0,3,1,5,Married,No
+EMP-2819,40,Male,Sales,Senior Engineer,Master's,85286.6,10,6,9,54.6,No,3.2,4,3,47,Married,No
+EMP-2820,34,Other,Marketing,Analyst,Bachelor's,49281.44,7,1,10,48.3,Yes,2.3,4,4,5,Married,No
+EMP-2821,22,Male,Sales,Analyst,Master's,44326.51,5,5,3,53.7,No,4.0,3,3,4,Married,No
+EMP-2822,42,Female,Engineering,Senior Engineer,Bachelor's,62035.54,0,0,4,44.1,No,4.0,3,5,13,Married,No
+EMP-2823,46,Male,Engineering,Team Lead,Master's,68138.43,7,0,7,58.0,No,1.1,3,3,38,Married,No
+EMP-2824,41,Female,HR,Associate,Bachelor's,31787.03,4,3,1,36.9,No,1.5,5,3,33,Single,No
+EMP-2825,29,Male,Marketing,Director,Bachelor's,116601.66,6,5,2,37.3,No,1.9,3,5,12,Single,No
+EMP-2826,41,Male,Engineering,Senior Engineer,High School,77874.14,10,1,10,48.2,No,2.1,3,4,4,Married,No
+EMP-2827,43,Male,Engineering,Associate,Master's,42738.81,8,2,2,46.8,No,4.6,3,4,48,Single,No
+EMP-2828,48,Male,Engineering,Team Lead,Master's,83486.83,7,6,6,51.0,No,3.9,2,3,1,Single,No
+EMP-2829,29,Male,Engineering,Senior Engineer,High School,69748.53,5,0,9,40.7,No,1.6,3,1,47,Single,Yes
+EMP-2830,34,Other,HR,Associate,Bachelor's,34910.85,3,1,8,40.7,No,2.7,5,4,24,Single,Yes
+EMP-2831,42,Male,Engineering,Analyst,Bachelor's,49181.91,8,2,3,53.7,Yes,1.5,2,2,10,Married,No
+EMP-2832,36,Male,Marketing,Executive,Master's,150000.0,3,0,2,42.3,No,4.3,3,3,18,Married,No
+EMP-2833,27,Other,Finance,Director,High School,114021.57,7,3,8,53.2,Yes,3.7,3,1,16,Single,No
+EMP-2834,39,Male,Operations,Associate,High School,36078.65,8,4,5,51.0,Yes,1.0,3,3,8,Married,No
+EMP-2835,41,Male,Operations,Analyst,Master's,53071.7,2,1,10,37.1,No,2.7,5,1,22,Single,No
+EMP-2836,37,Female,Engineering,Senior Engineer,Master's,87333.89,5,4,7,52.8,Yes,3.3,4,1,33,Married,No
+EMP-2837,38,Other,Engineering,Senior Engineer,Master's,91357.53,3,0,1,57.0,Yes,3.1,5,2,24,Single,No
+EMP-2838,34,Female,Sales,Manager,Master's,95604.21,4,2,3,55.4,Yes,3.6,5,1,33,Married,No
+EMP-2839,48,Male,Marketing,Associate,PhD,37648.29,1,0,8,35.2,No,2.4,4,2,49,Divorced,No
+EMP-2840,29,Other,Engineering,Senior Engineer,Bachelor's,83413.99,14,8,8,48.5,No,1.8,4,1,7,Married,Yes
+EMP-2841,31,Male,Sales,Executive,Bachelor's,144625.03,7,4,8,57.8,No,3.8,4,1,37,Single,Yes
+EMP-2842,36,Other,Engineering,Team Lead,PhD,65301.61,0,0,3,50.0,Yes,1.0,4,1,12,Single,No
+EMP-2843,43,Female,Engineering,Team Lead,Bachelor's,60120.21,3,2,3,42.3,No,4.4,4,5,1,Single,No
+EMP-2844,24,Other,Marketing,Analyst,Master's,46240.4,4,0,3,39.9,No,4.0,4,1,19,Married,No
+EMP-2845,26,Male,Marketing,Director,High School,108916.78,4,2,7,52.1,No,2.2,3,3,20,Single,Yes
+EMP-2846,22,Male,HR,Manager,Bachelor's,100105.56,12,0,1,54.3,Yes,1.9,4,1,50,Divorced,No
+EMP-2847,36,Female,Operations,Team Lead,Bachelor's,62066.45,13,3,9,57.8,Yes,3.2,3,2,18,Married,No
+EMP-2848,27,Female,Engineering,Senior Engineer,Master's,87223.86,12,10,3,57.6,Yes,3.5,4,1,39,Married,No
+EMP-2849,33,Female,Engineering,Associate,Master's,49920.42,14,7,5,43.5,No,2.4,4,3,47,Married,No
+EMP-2850,41,Other,Sales,Manager,High School,83505.4,4,0,3,50.1,Yes,3.5,4,3,17,Single,No
+EMP-2851,31,Female,Marketing,Executive,Bachelor's,140901.73,2,1,5,37.5,Yes,1.0,4,3,9,Married,No
+EMP-2852,38,Male,HR,Manager,Bachelor's,80459.41,2,2,8,37.4,No,4.6,4,1,49,Single,No
+EMP-2853,34,Male,Engineering,Team Lead,Bachelor's,70245.66,9,1,2,36.8,No,3.7,4,2,23,Married,No
+EMP-2854,41,Male,Operations,Manager,Bachelor's,83640.3,1,1,6,58.2,Yes,1.0,3,1,23,Married,No
+EMP-2855,40,Male,Sales,Senior Engineer,PhD,83860.83,4,1,1,38.8,Yes,2.8,3,3,37,Single,No
+EMP-2856,30,Male,Sales,Associate,Bachelor's,33122.73,3,1,2,47.1,No,3.9,1,5,20,Married,No
+EMP-2857,35,Female,Marketing,Analyst,Bachelor's,51232.84,14,9,7,45.8,Yes,3.1,2,3,28,Single,No
+EMP-2858,44,Female,Operations,Manager,Bachelor's,74855.0,2,2,6,43.1,No,2.4,3,3,48,Single,No
+EMP-2859,39,Female,Marketing,Manager,Bachelor's,80403.26,6,1,7,48.4,Yes,3.3,4,3,3,Married,No
+EMP-2860,25,Male,Operations,Team Lead,Bachelor's,62213.63,3,0,3,35.1,No,4.3,4,4,37,Married,No
+EMP-2861,41,Female,Engineering,Team Lead,Master's,65213.92,4,1,3,44.5,No,2.4,3,1,20,Divorced,No
+EMP-2862,27,Female,Marketing,Manager,Master's,93103.39,4,2,5,47.0,Yes,1.0,5,2,28,Married,No
+EMP-2863,47,Female,Finance,Team Lead,Master's,61836.31,5,0,2,55.1,Yes,3.4,3,2,46,Married,No
+EMP-2864,44,Female,HR,Analyst,Bachelor's,48927.6,3,3,9,52.5,Yes,2.6,4,2,31,Single,No
+EMP-2865,38,Female,Sales,Executive,Master's,150000.0,6,0,3,56.2,Yes,1.6,3,1,21,Single,Yes
+EMP-2866,37,Female,Operations,Associate,Master's,40127.67,2,1,8,44.4,Yes,3.9,4,1,49,Divorced,No
+EMP-2867,34,Male,Engineering,Manager,Master's,98139.85,0,0,2,38.5,No,1.5,3,2,31,Single,Yes
+EMP-2868,41,Female,Sales,Executive,PhD,150000.0,8,8,7,45.0,No,4.2,2,2,8,Married,No
+EMP-2869,33,Male,Operations,Analyst,Bachelor's,45608.89,1,0,3,59.1,No,3.0,3,4,5,Single,No
+EMP-2870,38,Male,Operations,Analyst,PhD,54716.13,3,2,3,40.4,No,1.2,4,4,18,Single,No
+EMP-2871,43,Male,Operations,Analyst,Master's,45155.54,1,0,5,39.4,No,4.9,5,5,36,Married,No
+EMP-2872,32,Female,Operations,Team Lead,Master's,86357.93,16,8,2,58.6,No,4.1,4,1,22,Married,No
+EMP-2873,31,Female,Engineering,Analyst,Master's,69330.14,25,10,2,58.7,Yes,1.0,4,2,9,Married,No
+EMP-2874,26,Female,Operations,Associate,PhD,44878.72,13,8,8,38.7,No,4.7,1,1,50,Divorced,No
+EMP-2875,27,Male,Sales,Executive,Bachelor's,149934.52,6,1,4,54.2,Yes,3.9,4,1,10,Single,No
+EMP-2876,22,Male,Marketing,Analyst,Master's,46015.28,1,0,6,45.7,Yes,3.6,4,1,5,Married,No
+EMP-2877,42,Female,Sales,Manager,Master's,105973.08,16,7,7,47.3,Yes,1.0,3,4,20,Single,Yes
+EMP-2878,50,Male,Finance,Associate,Master's,38805.79,1,1,7,47.5,Yes,1.0,3,3,6,Married,Yes
+EMP-2879,47,Other,HR,Associate,Master's,41150.11,7,3,7,59.2,No,4.0,2,2,30,Married,No
+EMP-2880,23,Male,Finance,Analyst,Bachelor's,45126.82,3,3,10,39.6,No,4.7,3,3,22,Married,No
+EMP-2881,42,Female,Engineering,Executive,Bachelor's,128328.65,0,0,7,54.3,Yes,1.0,2,2,47,Single,No
+EMP-2882,47,Female,Engineering,Team Lead,Bachelor's,65026.65,4,1,4,35.1,No,2.8,4,4,9,Married,No
+EMP-2883,32,Female,Sales,Associate,Master's,32096.18,3,2,3,50.7,Yes,1.0,4,1,14,Married,No
+EMP-2884,37,Male,Engineering,Team Lead,Master's,61998.98,0,0,9,51.3,Yes,1.6,2,2,35,Divorced,No
+EMP-2885,22,Other,Marketing,Manager,Master's,84531.32,3,1,5,53.8,No,3.6,5,3,35,Single,No
+EMP-2886,38,Female,Engineering,Senior Engineer,Master's,85100.62,6,4,6,58.1,Yes,1.0,4,1,19,Divorced,Yes
+EMP-2887,27,Female,HR,Manager,Master's,103708.34,4,2,9,53.8,Yes,2.1,4,1,47,Single,Yes
+EMP-2888,38,Female,Engineering,Analyst,Bachelor's,46364.79,1,0,3,53.3,Yes,2.1,5,3,43,Married,Yes
+EMP-2889,24,Male,Engineering,Senior Engineer,Master's,80418.87,5,4,3,41.3,No,2.8,5,2,31,Single,No
+EMP-2890,40,Male,Marketing,Executive,Master's,141973.7,3,3,1,59.8,No,4.6,3,4,38,Single,Yes
+EMP-2891,44,Male,Sales,Associate,Master's,35351.16,3,3,1,46.7,Yes,1.0,5,2,27,Married,Yes
+EMP-2892,30,Male,Engineering,Senior Engineer,Master's,101334.92,8,0,7,45.4,No,1.2,3,2,24,Single,No
+EMP-2893,27,Female,Engineering,Senior Engineer,PhD,87508.9,2,1,6,47.5,Yes,2.2,3,1,28,Married,Yes
+EMP-2894,22,Male,Engineering,Team Lead,Bachelor's,63310.8,2,2,3,44.9,No,3.1,3,3,43,Married,No
+EMP-2895,34,Male,Marketing,Team Lead,Master's,58144.43,4,4,3,49.8,Yes,1.3,4,1,1,Married,No
+EMP-2896,31,Male,Engineering,Director,Bachelor's,104090.09,3,1,7,43.7,No,4.8,5,2,6,Married,No
+EMP-2897,24,Male,Sales,Associate,Bachelor's,32883.37,0,0,1,41.0,Yes,1.4,3,3,24,Married,No
+EMP-2898,40,Male,Marketing,Team Lead,Bachelor's,59831.56,2,2,8,58.2,No,2.1,4,4,30,Single,No
+EMP-2899,32,Female,HR,Manager,Bachelor's,99636.93,13,6,10,58.2,No,4.2,3,4,9,Married,No
+EMP-2900,27,Male,HR,Analyst,Bachelor's,51085.27,10,2,5,47.4,No,4.7,4,2,31,Single,No
+EMP-2901,32,Female,Engineering,Senior Engineer,Master's,105044.67,19,9,5,59.1,Yes,2.3,2,2,2,Single,No
+EMP-2902,45,Male,Operations,Senior Engineer,Bachelor's,66281.15,6,3,6,45.4,No,1.1,4,2,13,Single,No
+EMP-2903,41,Male,Sales,Associate,Bachelor's,38204.39,18,6,1,44.7,No,2.4,4,5,23,Married,No
+EMP-2904,35,Female,Engineering,Manager,Bachelor's,85525.47,3,1,7,57.9,Yes,1.0,1,3,3,Married,Yes
+EMP-2905,41,Male,Operations,Team Lead,Bachelor's,61669.06,5,0,4,50.8,Yes,1.7,5,1,32,Married,No
+EMP-2906,27,Male,Marketing,Analyst,Master's,55936.2,13,4,5,54.1,No,3.7,5,3,27,Married,No
+EMP-2907,36,Other,Marketing,Senior Engineer,Bachelor's,79696.62,7,5,1,45.3,No,2.6,3,5,29,Married,No
+EMP-2908,37,Other,Operations,Senior Engineer,High School,63877.03,3,1,9,45.2,Yes,2.1,4,1,26,Married,Yes
+EMP-2909,32,Female,Engineering,Analyst,PhD,57551.83,6,6,4,37.1,Yes,2.9,4,1,35,Single,Yes
+EMP-2910,39,Male,Finance,Associate,Master's,38130.18,1,1,1,59.2,Yes,1.0,2,2,33,Married,No
+EMP-2911,30,Female,Marketing,Associate,Master's,37815.86,3,2,8,40.7,No,1.8,2,1,34,Married,No
+EMP-2912,40,Other,Sales,Team Lead,Master's,71899.61,2,2,10,47.4,No,4.2,4,4,11,Married,No
+EMP-2913,40,Other,Engineering,Senior Engineer,Bachelor's,63501.08,5,5,6,37.9,No,1.1,4,2,35,Single,No
+EMP-2914,22,Male,Engineering,Analyst,Master's,47122.11,2,2,1,51.2,Yes,1.0,4,1,9,Married,Yes
+EMP-2915,46,Male,Operations,Analyst,Bachelor's,51383.7,6,5,10,44.8,No,1.0,4,5,2,Married,No
+EMP-2916,22,Male,Engineering,Analyst,Bachelor's,46486.74,9,7,3,54.2,Yes,2.4,4,1,49,Single,No
+EMP-2917,31,Male,Engineering,Analyst,Bachelor's,41694.19,2,2,3,48.2,No,3.4,3,4,9,Single,No
+EMP-2918,44,Female,Marketing,Analyst,Master's,53929.67,9,1,8,38.2,No,3.1,3,4,6,Married,No
+EMP-2919,33,Male,Marketing,Senior Engineer,Bachelor's,77827.02,6,2,4,35.3,Yes,2.1,3,2,16,Married,No
+EMP-2920,24,Male,Engineering,Senior Engineer,Bachelor's,75627.89,7,7,1,40.3,No,3.1,3,3,50,Married,No
+EMP-2921,27,Male,Finance,Analyst,Bachelor's,64878.85,19,5,7,53.1,Yes,1.0,4,3,44,Single,Yes
+EMP-2922,44,Male,HR,Analyst,Master's,54992.14,8,0,3,55.7,Yes,3.7,4,3,36,Married,No
+EMP-2923,22,Male,Finance,Associate,Bachelor's,32453.37,4,4,9,43.5,No,4.9,3,1,10,Single,No
+EMP-2924,45,Male,Engineering,Senior Engineer,Bachelor's,68959.96,6,4,2,48.4,Yes,1.9,4,2,32,Married,Yes
+EMP-2925,36,Male,Engineering,Manager,Bachelor's,89009.76,3,3,10,41.0,No,2.5,3,4,42,Married,No
+EMP-2926,26,Other,Marketing,Team Lead,Master's,71190.43,11,0,8,57.0,No,4.2,3,3,17,Married,No
+EMP-2927,31,Male,Engineering,Senior Engineer,Bachelor's,90098.96,5,0,3,59.1,No,1.8,5,2,13,Single,No
+EMP-2928,28,Female,HR,Senior Engineer,PhD,96569.15,7,4,6,53.8,Yes,1.7,3,2,44,Married,No
+EMP-2929,43,Male,Engineering,Analyst,Bachelor's,66658.1,30,1,10,37.2,No,4.8,4,3,7,Divorced,No
+EMP-2930,42,Male,Finance,Associate,Bachelor's,34666.23,2,1,1,45.9,No,1.7,1,1,46,Divorced,No
+EMP-2931,22,Male,Operations,Associate,Bachelor's,39736.84,7,2,9,59.8,Yes,1.0,3,1,24,Single,No
+EMP-2932,33,Male,Finance,Team Lead,High School,49795.72,8,1,5,40.7,No,3.2,4,1,37,Married,No
+EMP-2933,29,Male,Operations,Senior Engineer,Bachelor's,69463.59,5,4,10,51.8,Yes,2.4,4,2,19,Married,Yes
+EMP-2934,46,Male,Operations,Associate,Bachelor's,39481.79,7,0,3,58.5,Yes,2.3,4,3,36,Single,No
+EMP-2935,25,Female,Sales,Associate,Master's,46369.92,10,9,8,54.3,Yes,1.0,5,1,47,Married,Yes
+EMP-2936,49,Male,Sales,Associate,Bachelor's,37322.26,17,1,10,50.2,No,3.9,4,3,25,Married,No
+EMP-2937,36,Male,Operations,Associate,Bachelor's,29044.78,2,1,4,47.7,No,2.0,4,5,11,Married,No
+EMP-2938,27,Female,Operations,Executive,Bachelor's,139788.64,3,3,2,58.2,Yes,3.8,3,1,4,Married,No
+EMP-2939,31,Male,Operations,Team Lead,Bachelor's,62849.4,0,0,4,44.9,No,1.9,3,5,47,Married,No
+EMP-2940,30,Male,Finance,Associate,Bachelor's,34390.76,2,0,6,57.5,No,1.1,4,1,50,Married,Yes
+EMP-2941,26,Male,Engineering,Executive,Bachelor's,139252.54,4,4,7,45.8,Yes,2.2,4,3,33,Married,No
+EMP-2942,37,Male,Operations,Senior Engineer,Bachelor's,67302.66,7,2,5,53.9,Yes,1.0,3,1,1,Single,No
+EMP-2943,26,Male,Operations,Senior Engineer,Bachelor's,75596.89,6,5,10,57.9,Yes,2.5,3,2,45,Married,Yes
+EMP-2944,22,Other,Marketing,Associate,PhD,38869.62,1,1,6,48.8,Yes,1.0,3,1,25,Divorced,No
+EMP-2945,33,Other,Operations,Analyst,Master's,45894.76,0,0,7,42.7,No,2.7,1,5,12,Married,No
+EMP-2946,22,Other,HR,Analyst,PhD,51941.3,12,2,10,36.3,No,1.7,3,2,19,Single,No
+EMP-2947,30,Male,Operations,Analyst,Bachelor's,48130.89,3,1,10,55.2,No,2.7,4,1,48,Married,No
+EMP-2948,29,Male,Engineering,Analyst,Master's,52864.26,2,2,4,50.6,No,1.5,4,2,39,Divorced,Yes
+EMP-2949,29,Male,Operations,Associate,Bachelor's,31829.2,2,0,3,41.6,No,2.4,5,5,30,Divorced,Yes
+EMP-2950,52,Male,Engineering,Analyst,Bachelor's,44645.74,2,0,8,56.9,Yes,1.0,4,1,37,Married,No
+EMP-2951,36,Male,Sales,Analyst,Master's,47474.62,2,0,6,58.0,Yes,2.9,3,1,43,Married,No
+EMP-2952,38,Male,Engineering,Analyst,High School,42477.29,7,4,5,57.2,Yes,3.3,4,2,32,Married,No
+EMP-2953,22,Male,Sales,Associate,Bachelor's,35331.02,2,2,7,50.0,No,1.7,4,1,16,Married,No
+EMP-2954,31,Male,Engineering,Analyst,Master's,54485.29,6,3,7,59.4,Yes,1.0,4,3,4,Divorced,No
+EMP-2955,38,Male,Operations,Team Lead,Master's,74900.16,3,1,10,56.9,Yes,1.0,3,1,7,Married,No
+EMP-2956,28,Female,HR,Team Lead,Bachelor's,71505.11,6,6,4,37.6,No,1.9,4,5,12,Married,No
+EMP-2957,43,Male,Operations,Manager,Bachelor's,89909.52,7,1,8,59.5,Yes,2.2,1,1,39,Single,No
+EMP-2958,26,Female,Engineering,Senior Engineer,High School,90549.1,9,9,3,48.7,Yes,1.5,3,4,5,Married,No
+EMP-2959,34,Male,Engineering,Senior Engineer,PhD,116347.65,15,3,10,58.0,Yes,3.9,3,1,7,Single,No
+EMP-2960,31,Female,Finance,Manager,Bachelor's,87535.03,8,2,1,54.0,Yes,2.7,3,1,49,Single,Yes
+EMP-2961,37,Male,Marketing,Analyst,Bachelor's,51779.16,11,10,8,51.2,Yes,1.0,5,1,21,Married,Yes
+EMP-2962,31,Male,HR,Analyst,Bachelor's,37565.09,1,1,2,43.2,No,1.6,3,3,7,Married,No
+EMP-2963,34,Male,Finance,Executive,PhD,150000.0,2,1,9,35.7,No,1.1,2,2,44,Divorced,No
+EMP-2964,34,Male,Finance,Analyst,Master's,54426.99,0,0,10,41.9,No,1.6,4,3,49,Married,No
+EMP-2965,30,Female,HR,Analyst,Bachelor's,54597.04,1,0,9,52.1,Yes,2.0,5,3,26,Divorced,Yes
+EMP-2966,40,Male,Operations,Manager,PhD,103795.58,5,2,8,56.6,Yes,1.0,4,1,6,Married,No
+EMP-2967,38,Male,Marketing,Manager,High School,78164.43,1,1,5,35.1,No,1.2,3,4,32,Married,No
+EMP-2968,35,Other,Marketing,Analyst,Master's,52589.0,3,0,3,40.2,Yes,1.0,3,4,44,Single,Yes
+EMP-2969,33,Male,Sales,Associate,High School,37878.9,6,1,10,51.8,Yes,2.3,4,1,49,Married,No
+EMP-2970,42,Female,Engineering,Director,Bachelor's,108951.06,5,1,6,42.1,No,1.1,4,4,29,Single,No
+EMP-2971,34,Female,Engineering,Senior Engineer,High School,78808.67,0,0,9,38.5,No,4.9,3,3,48,Single,No
+EMP-2972,34,Male,Finance,Associate,PhD,38010.74,0,0,8,37.0,No,2.5,5,4,42,Single,No
+EMP-2973,37,Male,Marketing,Team Lead,PhD,66750.92,2,1,8,50.9,Yes,1.5,4,1,9,Married,No
+EMP-2974,50,Male,Sales,Associate,Master's,42461.38,14,8,4,49.9,No,2.9,4,2,32,Married,No
+EMP-2975,25,Female,Marketing,Team Lead,Bachelor's,56581.51,0,0,5,56.5,Yes,2.3,2,1,34,Divorced,Yes
+EMP-2976,42,Male,Engineering,Senior Engineer,Bachelor's,75006.61,1,0,5,42.9,Yes,1.7,5,1,39,Divorced,No
+EMP-2977,22,Male,Engineering,Senior Engineer,Bachelor's,64840.48,3,3,7,38.4,No,2.9,4,3,27,Divorced,No
+EMP-2978,38,Male,Operations,Analyst,Bachelor's,45166.05,1,1,8,55.0,No,2.4,3,4,37,Single,No
+EMP-2979,49,Other,Sales,Director,High School,106891.43,1,0,2,59.7,Yes,1.6,3,2,30,Divorced,No
+EMP-2980,40,Female,Engineering,Senior Engineer,Master's,91179.26,3,3,3,44.0,No,1.1,3,1,14,Married,No
+EMP-2981,37,Other,Sales,Associate,Master's,48209.38,18,9,1,56.6,Yes,2.9,3,1,25,Divorced,Yes
+EMP-2982,32,Female,Sales,Senior Engineer,PhD,102577.52,6,5,6,54.1,Yes,2.7,1,1,47,Single,Yes
+EMP-2983,36,Female,Marketing,Analyst,Bachelor's,41868.05,0,0,7,57.8,Yes,3.0,3,1,43,Single,Yes
+EMP-2984,34,Male,Operations,Director,Bachelor's,118574.97,3,1,3,45.6,No,4.8,3,4,33,Divorced,No
+EMP-2985,30,Other,HR,Manager,Bachelor's,72871.13,5,1,8,37.5,No,2.9,4,2,17,Single,No
+EMP-2986,34,Female,HR,Manager,Bachelor's,84200.11,2,2,1,38.0,Yes,3.2,4,3,11,Married,No
+EMP-2987,38,Male,Sales,Team Lead,Master's,82330.88,14,4,9,54.1,Yes,1.3,4,1,15,Married,No
+EMP-2988,30,Female,HR,Team Lead,Master's,74686.57,6,0,7,56.6,No,2.9,2,1,16,Single,No
+EMP-2989,30,Female,Sales,Associate,Bachelor's,29277.1,1,1,7,46.4,Yes,2.1,3,3,49,Single,Yes
+EMP-2990,25,Male,Engineering,Executive,Bachelor's,127879.85,0,0,8,36.5,No,1.9,4,2,27,Divorced,Yes
+EMP-2991,39,Male,Operations,Director,Master's,121120.48,2,1,4,36.7,Yes,1.0,4,1,20,Divorced,Yes
+EMP-2992,40,Male,Sales,Executive,Bachelor's,142765.24,8,8,10,50.0,Yes,1.5,3,3,45,Divorced,Yes
+EMP-2993,38,Female,Sales,Manager,Bachelor's,93831.42,5,5,8,58.0,Yes,1.0,5,2,19,Single,No
+EMP-2994,44,Male,Engineering,Manager,Master's,89765.43,1,0,2,45.0,No,1.9,4,5,40,Single,No
+EMP-2995,37,Female,Finance,Associate,Master's,43906.13,14,9,10,51.3,Yes,3.4,5,1,33,Married,No
+EMP-2996,39,Male,Engineering,Senior Engineer,High School,62453.98,0,0,8,48.6,No,2.9,4,3,16,Married,No
+EMP-2997,38,Female,Sales,Analyst,Master's,55214.26,4,4,4,57.2,No,1.1,3,3,49,Single,No
+EMP-2998,35,Male,Finance,Associate,PhD,45107.68,4,3,10,55.8,No,1.2,5,3,35,Married,Yes
+EMP-2999,32,Other,Sales,Team Lead,High School,65713.04,15,3,3,40.0,No,4.7,5,4,50,Divorced,No
+EMP-3000,54,Male,Operations,Analyst,Bachelor's,55655.1,2,2,7,51.9,Yes,4.0,4,1,1,Married,Yes
