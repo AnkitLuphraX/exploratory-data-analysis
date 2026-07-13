@@ -44,7 +44,7 @@ This project analyzes a synthetic HR dataset containing **2000 employee records*
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/exploratory-data-analysis.git
+   git clone https://github.com/AnkitLuphraX/exploratory-data-analysis.git
    cd exploratory-data-analysis
    ```
 
